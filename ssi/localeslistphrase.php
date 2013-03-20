@@ -1,0 +1,1 @@
+<?php echo 'Dallas-Fort Worth-Arlington, King and Snohomish County, San Francisco/North Bay, San Mateo-Palo Alto-San Jose, and Walnut Creek/San Ramon'; ?>

@@ -1,0 +1,62 @@
+/* expandable list with alternate switch symbol - sourced from: http://www.gazingus.org/html/DOM-Scripted_Lists_Revisited.html */
+
+ul.altsym {
+    background-color: #FFFFFF;
+/*   border: 1px solid #3874d1; */
+    font-family: "Arial", "Helvetica", "Century Gothic", sans-serif;
+    font-size: 12px;
+    margin-left: 150px;
+    padding-left: 0px;
+    width: 450px;
+}
+
+ul.altsym ul {
+    display: none;
+    margin: 0;
+    padding-left: 28px;
+	font-size: 12px; color: #000000; font-family: "Arial", "Helvetica", "Century Gothic", sans-serif; 
+	margin-left: 0px; margin-right: 150px; 	margin-top: 6px; margin-bottom: 15px
+}
+
+ul.altsym li {
+    list-style-type: none;
+    position: relative; left: -5px;
+    width: 430px;
+	margin-top: 0px; margin-bottom: 15px
+}
+
+
+html>body ul.altsym a { width: auto; } /* hidden from Win/IE */ 
+
+ul.altsym a.switch {
+    background: transparent url(/images/arrows.gif) no-repeat top left;
+    border: none;
+    height: 10px;
+    left: 6px;
+    line-height: 0px; /* Win/IE needs this for some reason */
+    margin: 0;
+    padding: 0;
+    text-indent: -500px;
+    top: 0.7ex;
+    position: absolute;
+    width: 10px;
+}
+
+ul.altsym a.switch:hover {
+    background-color: transparent;
+    border: none;
+	text-decoration: none;
+}
+
+ul.altsym a.on { background-position: bottom left; }
+ul.altsym a.off { background-position: top left; }
+
+/* Box-model hacks for Win/IE 5.5 \*/
+* html ul.altsym { width: 402px; w\idth: 177px; }
+* html ul.altsym a { margin-left: 0px; ma\rgin-left: 0px; } /* I changed ma\rgin-left from its original value of 17px to avoid a white space after my California Evidence Code hyperlink. */
+* html ul.altsym a.switch { left: -11px; lef\t: 6px; }
+/* end hacks */
+
+#ulanchor { color:#000000; font-weight: bold; padding-left: 22px; }
+#ulanchornonbold { color:#000000; font-weight: normal; padding-left: 22px; }
+#reducedgap { margin-top: 0px; margin-bottom: 7px }

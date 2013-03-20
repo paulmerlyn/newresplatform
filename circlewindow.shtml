@@ -1,0 +1,107 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Mediation, Conflict Resolution - Causes of Conflict</title>
+<meta NAME="description" CONTENT="Causes of conflict – interactive image map.">
+<meta NAME="keywords" CONTENT="causes of conflict, mediator intervene, intervention">
+<link href="/nrcss.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+<!--
+  if (document.images) {
+  image1onRel = new Image(); image1onRel.src = "/images/CircleRel.jpg";
+  image1onDat = new Image(); image1onDat.src = "/images/CircleDat.jpg";
+  image1onInt = new Image(); image1onInt.src = "/images/CircleInt.jpg";
+  image1onStr = new Image(); image1onStr.src = "/images/CircleStr.jpg";
+  image1onVal = new Image(); image1onVal.src = "/images/CircleVal.jpg";
+  image1off = new Image(); image1off.src = "/images/circle.jpg";
+    }
+    function turnOnRel(imageName) {
+    if (document.images) {
+      document[imageName].src = eval(imageName + "onRel.src"); }}
+    function turnOnDat(imageName) {
+    if (document.images) {
+      document[imageName].src = eval(imageName + "onDat.src"); }}
+    function turnOnInt(imageName) {
+    if (document.images) {
+      document[imageName].src = eval(imageName + "onInt.src"); }}
+    function turnOnStr(imageName) {
+    if (document.images) {
+      document[imageName].src = eval(imageName + "onStr.src"); }}
+    function turnOnVal(imageName) {
+    if (document.images) {
+      document[imageName].src = eval(imageName + "onVal.src"); }}
+    function turnOff(imageName) {
+    if (document.images) {
+      document[imageName].src = eval(imageName + "off.src"); }}
+  // -->
+</script>
+
+<style type="text/css">
+<!--
+body {
+	background-color: #c0c0c0;
+}
+-->
+</style></head>
+
+<body>
+<!-- Start of Google Analytics -->
+<script type="text/javascript"> 
+var _gaq = _gaq || []; 
+_gaq.push(['_setAccount', 'UA-1100858-3']); 
+_gaq.push(['_trackPageview']); 
+(function() { 
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga); 
+})(); 
+</script>
+<!-- End of Google Analytics -->
+
+  	  <p class="circletext1">Conflicts have different causes. Scroll over the figure  to explore how our 
+	  mediators might intervene for each type of conflict.</p>
+	  <IMG src="/images/circle.jpg" alt="" name="image1" border="0" class="circle">
+	  <a href="#" onMouseOut="turnOff('image1')"onMouseOver="turnOnRel('image1')"><img src="/images/BlankRel.gif" 
+	  border="0" class="blankrel"></a>
+      <a href="#" onMouseOut="turnOff('image1')"onMouseOver="turnOnDat('image1')"><img src="/images/BlankDat.gif" 
+      border="0" class="blankdat"></a>
+      <a href="#" onMouseOut="turnOff('image1')"onMouseOver="turnOnInt('image1')"><img src="/images/BlankInt.gif" 
+      border="0" class="blankint"></a>
+      <a href="#" onMouseOut="turnOff('image1')"onMouseOver="turnOnStr('image1')"><img src="/images/BlankStr.gif" 
+      border="0" class="blankstr"></a>
+      <a href="#" onMouseOut="turnOff('image1')"onMouseOver="turnOnVal('image1')"><img src="/images/BlankVal.gif" 
+      border="0" class="blankval"></a>
+	  <p class="circletext2">* Adapted from Christopher W. Moore. <i>The Mediation Process.</i> Jossey-Bass. 2003. 
+	  &copy; Christopher W. Moore.
+	  <input type=button class="buttonstyle" style="position: relative; bottom: 75px; left: 32px;" onClick="javascript:window.close();" onKeyPress="javascript:window.close();" value="Close">
+	  </p>
+<!-- Start of StatCounter Code -->
+	<script type="text/javascript" language="javascript">
+	var sc_project=1416237; 
+	var sc_invisible=1; 
+	var sc_partition=11; 
+	var sc_security="f73e38ec"; 
+	</script>
+	<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img src="http://c12.statcounter.com/counter.php?sc_project=1416237&amp;java=0&amp;security=f73e38ec&amp;invisible=1" alt="free website hit counter" border="0"></a> </noscript>
+<!-- End of StatCounter Code -->
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=5651836; 
+var sc_invisible=1; 
+var sc_partition=60; 
+var sc_click_stat=1; 
+var sc_security="97c14d16"; 
+</script>
+
+<script type="text/javascript"
+src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="joomla counter"
+href="http://www.statcounter.com/joomla/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/5651836/0/97c14d16/1/"
+alt="joomla counter" ></a></div></noscript>
+<!-- End of StatCounter Code -->
+</body>
+</html>

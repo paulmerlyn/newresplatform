@@ -1,0 +1,42 @@
+/* CSS for sales-type pages */
+BODY { margin-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px }
+h1 { font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 22px; font-weight: bold; color: #000000; margin-top: 36px; margin-bottom: 12px; }
+h2 { font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold; color: #000000; margin-top: 36px; margin-bottom: 12px; }
+h3 { font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px; font-weight: bold; color: #000000; margin-top: 24px; margin-bottom: 8px; }
+.sales { font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 16px; }
+.gloss { font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 14px; }
+.glossbig { font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 18px; padding-top:30px; padding-right:30px; padding-bottom:20px; padding-left:40px; }
+.glosssmall { font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 12px; }
+.subparag {font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px; margin-left: -10px; margin-right: 30px; margin-bottom: 24px; }
+.error { font-family: Tahoma; font-size: 8pt; color: red; margin-left: 0px; display:none; } /* Used for JS error formatting */
+.errorphp { font-family: Tahoma; font-size: 8pt; color: red; margin-left: 0px; } /* Used for PHP error formatting */
+LABEL { font-size: 12px; color: #000000; font-weight: bold; font-family: Geneva, Arial, Helvetica, sans-serif; }
+.tangsup { font-size: 8pt; color: #FF9900; font-family: Geneva, Arial, Helvetica, sans-serif; vertical-align: super; font-size: 8pt }
+A:link { color: #FF9900; font-weight: bold; font-family: Geneva, Arial, Helvetica, sans-serif; text-decoration: none }
+A:visited { color: #FF9900; font-weight: bold; font-family: Geneva, Arial, Helvetica, sans-serif; text-decoration: none }
+A:hover { color: #FF9900; font-weight: bold; font-family: Geneva, Arial, Helvetica, sans-serif; text-decoration: underline }
+A.footer:link { font-size: 9px; color: #000000; font-weight: normal; font-family: Arial, Helvetica, "Century Gothic", sans-serif; text-decoration: underline }
+A.footer:visited { font-size: 9px; color: #000000; font-weight: normal; font-family: Arial, Helvetica, "Century Gothic", sans-serif; text-decoration: underline }
+A.footer:hover { font-size: 9px; color: #000000; font-weight: normal; font-family: Arial, Helvetica, "Century Gothic", sans-serif; text-decoration: underline }
+.linktextsmall { font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 11px; color: #FF9900; font-weight: bold; text-decoration: none; }
+ol.decimal { list-style-type: decimal; font-size: 16px; font-family: Geneva, Arial, Helvetica, sans-serif; margin-bottom: 15px }
+ol.decimal li { margin-bottom: 12px; margin-left: -16px; padding-left: 5px }
+ol.decimalgloss { list-style-type: decimal; font-size: 14px; font-family: Geneva, Arial, Helvetica, sans-serif; margin-bottom: 15px }
+ol.decimalgloss li { margin-bottom: 12px; margin-left: -16px; padding-left: 5px }
+ul.bullet { list-style: url(images/Bullet.gif) square outside; font-size: 16px; font-family: Geneva, Arial, Helvetica, sans-serif; margin-bottom: 15px }
+ul.bullet li { margin-bottom: 12px; margin-left: -18px; padding-left: 5px }
+table.licfees { position: relative; left: 50px; top: 20px; width: 700px; background-color: #fafafa; border-left: 1px #425A8D solid; border-top: 1px #FFFFFF solid; border-collapse: collapse; border-spacing: 0px; }
+td.licfeeshead { background-color: #425A8D; border: 0px #000000 solid; height: 22px; font-family: Arial, Helvetica; font-weight: bold; font-size: 12px; color: #FFFFFF; }
+td.licfeesdata { border-bottom: 1px #425A8D dashed; font-family: Arial, Helvetica, sans-serif; font-weight: normal; font-size: 12px; color: #000000; background-color: #fafafa; padding-top: 4px; padding-bottom: 4px; padding-left: 8px; padding-right: 0px; }
+.buttonstyle { font-size: 14px; background-color: #425A8D; color: #FFFFFF; border-color: #CCCCCC; font-family: Geneva, Arial, Helvetica, sans-serif; }
+.submitLinkSmall { font-family: Arial, Helvetica, sans-serif; color: #FF9900; background-color: transparent; text-decoration: none; font-weight: bold; font-size: 10px; border: none; cursor: pointer; cursor: hand; } 
+.submitLink:hover { font-family: Arial, sans-serif; color: #FF9900; background-color: transparent; text-decoration: underline; font-weight: bold; font-size: 14px; border: none; cursor: pointer; cursor: hand; position: relative; left: 700px; top: 50px; } 
+hr.divider { margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 0px; width: 100%; color: #FF9900; align: center; height: 0px; } 
+img.graphic { visibility: visible; }
+#copyright {
+	position: relative; bottom: 5px;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color:#000000 }
+#smalllink { font-size: 10px; }
+.test { font-size: 9px }

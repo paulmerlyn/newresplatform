@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Test Driver's Guide to Dynamic Content</title>
+<link href="/nrcss.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" language="javascript" src="/scripts/windowpops.js"></script>
+<script type="text/javascript"> 
+var parent = window.opener; // The parent (i.e. the simple page containing the 'Your profile has been submitted successfully' message) spawns this page (testdriverguide.shtml). I need to identify this window so I can open up the demo site pages inside this window. Otherwise, I'll annoy the user by spawning unnecessary windows.
+var grandparent = parent.opener; // The grandparent (i.e. the Sales Page, mediationcareer.php) spawned the parent. I need to identify the grandparent so I can give the Sales Page focus when the user clicks the 'Take Me Back' button. Otherwise, I'll annoy the user by spawning unnecessary windows.
+</script>
+</head>
+
+<body>
+<!-- Start of Google Analytics -->
+<script type="text/javascript"> 
+var _gaq = _gaq || []; 
+_gaq.push(['_setAccount', 'UA-1100858-3']); 
+_gaq.push(['_trackPageview']); 
+(function() { 
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga); 
+})(); 
+</script>
+<!-- End of Google Analytics -->
+<script type="text/javascript">
+var avWd;
+avWd = screen.availWidth;
+window.moveTo(avWd - 415,0);
+</script>
+<h1 style='margin-left: 30px; margin-right: 10px; margin-top: 16px; margin-bottom: 25px;'>Test Driver&rsquo;s Guide to the New Resolution Site</h1>
+<p class='basictext' style='margin-left: 15px; margin-right: 10px; margin-bottom: 20px;'>This panel connects you to some of the pages on the New Resolution demo site that now include information from your profile.</p>
+<p class='basictext' style='margin-left: 15px; margin-right: 10px'>Click <a target="secondwindow" href="/demo/s_mediators.shtml" onClick="if (window.grandparent !== undefined && window.grandparent != null) { parent.open('/demo/s_mediators.shtml','secondwindow','width=800,scrollbars=yes'); parent.resizeTo(800,800); parent.moveTo(0,0); parent.focus(); } else { window.open('/demo/s_mediators.shtml','secondwindow','width=800,top=0,left=0,scrollbars=yes'); }; return false;">here</a> to see the &lsquo;Our Mediators&rsquo; page.</p>
+<p class='basictext' style='margin-left: 15px; margin-right: 10px'>Click <a target="secondwindow" href="/demo/c_contact.shtml" onClick="if (window.grandparent !== undefined && window.grandparent != null) { parent.open('/demo/c_contact.shtml','secondwindow','width=800,scrollbars=yes'); parent.resizeTo(800,800); parent.moveTo(0,0); parent.focus(); } else { window.open('/demo/c_contact.shtml','secondwindow','width=800,top=0,left=0,scrollbars=yes'); }; return false;">here</a> to see the &lsquo;Contact Us&rsquo; page.</p>
+<p class='basictext' style='margin-left: 15px; margin-right: 10px'>Click <a target="secondwindow" href="/demo/consultreqform.shtml" onClick="if (window.grandparent !== undefined && window.grandparent != null) { parent.open('/demo/consultreqform.shtml','secondwindow','width=800,scrollbars=yes'); parent.resizeTo(800,800); parent.moveTo(0,0); parent.focus(); } else { window.open('/demo/consultreqform.shtml','secondwindow','width=800,top=0,left=0,scrollbars=yes'); }; return false;">here</a> to see the &lsquo;Telephone Consultations&rsquo; request page.</p>
+<p class='basictext' style='margin-left: 15px; margin-right: 10px'>Click <a target="secondwindow" href="/demo/index.shtml" onClick="if (window.grandparent !== undefined && window.grandparent != null) { parent.open('/demo/index.shtml','secondwindow','width=800,scrollbars=yes'); parent.resizeTo(800,800); parent.moveTo(0,0); parent.focus(); } else { window.open('/demo/index.shtml','secondwindow','width=800,top=0,left=0,scrollbars=yes'); }; return false;">here</a> to see your locale on the New Resolution Mediation home page.</p>
+<p class='basictext' style='margin-left: 15px; margin-right: 10px'>Click <a target="secondwindow" href="/demo/s_fees.shtml" onClick="if (window.grandparent !== undefined && window.grandparent != null) { parent.open('/demo/s_fees.shtml','secondwindow','width=800,scrollbars=yes'); parent.resizeTo(800,800); parent.moveTo(0,0); parent.focus(); } else { window.open('/demo/s_fees.shtml','secondwindow','width=800,top=0,left=0,scrollbars=yes'); }; return false;">here</a> to see the &lsquo;Fees&rsquo; page.</p>
+<p class='basictext' style='margin-left: 15px; margin-right: 10px;'>Click <a target="secondwindow" href="/demo/c_schedmediationform.shtml" onClick="if (window.grandparent !== undefined && window.grandparent != null) { parent.open('/demo/c_schedmediationform.shtml','secondwindow','width=800,scrollbars=yes'); parent.resizeTo(800,800); parent.moveTo(0,0); parent.focus(); } else { window.open('/demo/c_schedmediationform.shtml','secondwindow','width=800,top=0,left=0,scrollbars=yes'); }; return false;">here</a> to see how parties can request an appointment for a mediation session.</p>
+<br clear="all">
+<div align="center">
+<FORM style="position: relative; top:0px; left:0px;">
+<INPUT TYPE="button" value="&nbsp;Take Me Back to the Launch Platform&nbsp;" style="font-size: 14px; background-color: #425A8D; color: #FFFFFF; border-color: #CCCCCC; font-family: Geneva, Arial, Helvetica, sans-serif;" onClick="if (window.grandparent !== undefined && window.grandparent != null) grandparent.focus(); else { newwindow = window.open('/mediationcareer.php'); newwindow.focus(); };">
+</FORM>
+</div>
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=5651836; 
+var sc_invisible=1; 
+var sc_partition=60; 
+var sc_click_stat=1; 
+var sc_security="97c14d16"; 
+</script>
+
+<script type="text/javascript"
+src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="joomla counter"
+href="http://www.statcounter.com/joomla/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/5651836/0/97c14d16/1/"
+alt="joomla counter" ></a></div></noscript>
+<!-- End of StatCounter Code -->
+</body>
+</html>

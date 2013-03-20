@@ -1,0 +1,302 @@
+/* CSS Document */
+IMG.centerlogo { position: relative; top: 40%; left: 36%; z-index: 1 } /* No longer in use: superseded by div id="logocenter" below */
+IMG.toprightlogo { position: absolute; top: 12px; left: 531px; z-index: 1 }
+IMG.toprightlogo_1 { position: absolute; top: 2px; left: 531px; z-index: 1 }
+IMG.toprightlogo_1_tour { position: absolute; top: 2px; left: 531px; z-index: 1 }
+IMG.tangmenucover { position: absolute; top: 294px; z-index: 0 }
+IMG.tangmenucover_1 { position: absolute; top: 128px; z-index: 0 }
+IMG.touriconshift { position: relative; top: 15px; right: 10px; margin-left: 285px }
+IMG.touriconshift1 { position: relative; top: 15px; right: 10px; margin-left: 200px }
+IMG.dociconshift { position: relative; top: 15px; right: 10px; margin-left: 230px }
+IMG.homeiconpos { position: absolute; top: 263px; left: 513px }
+IMG.emailiconpos { position: absolute; top: 269px; left: 566px }
+IMG.phoneiconpos { position: absolute; top: 265px; left: 617px }
+IMG.locationiconpos { position: absolute; top: 263px; left: 670px }
+IMG.touriconpos { position: absolute; top: 264px; left: 720px }
+IMG.homeiconpos1 { position: absolute; top: 100px; left: 513px }
+IMG.emailiconpos1 { position: absolute; top: 106px; left: 566px }
+IMG.phoneiconpos1 { position: absolute; top: 102px; left: 617px }
+IMG.locationiconpos1 { position: absolute; top: 100px; left: 670px }
+IMG.touriconpos1 { position: absolute; top: 101px; left: 720px }
+IMG.emailiconpos2 { position: relative; left: 355px }
+IMG.phoneiconpos2 { position: relative; left: 360px }
+IMG.locationiconpos2 { position: relative; left: 360px }
+IMG.circle { width: 701px; height: 350px; position: absolute; left: 10px; top: 80px }
+IMG.circletour { width: 701px; height: 350px; position: absolute; left: 10px; top: 200px }
+IMG.blankrel { position: absolute; left: 150px; top: 83px; z-index: 1 }
+IMG.blankreltour { position: absolute; left: 150px; top: 208px; z-index: 1 }
+IMG.blankdat { position: absolute; left: 256px; top: 148px; z-index: 1 }
+IMG.blankdattour { position: absolute; left: 256px; top: 268px; z-index: 1 }
+IMG.blankint { position: absolute; left: 198px; top: 285px; z-index: 1 }
+IMG.blankinttour { position: absolute; left: 198px; top: 405px; z-index: 1 }
+IMG.blankstr { position: absolute; left: 39px; top: 285px; z-index: 1 }
+IMG.blankstrtour { position: absolute; left: 39px; top: 405px; z-index: 1 }
+IMG.blankval { position: absolute; left: 28px; top: 149px; z-index: 1 }
+IMG.blankvaltour { position: absolute; left: 28px; top: 269px; z-index: 1 }
+IMG.magnfier { width: 60px; height: 58px; border: 0px }
+IMG.stewartquote { position: relative; top: 0px; left: 0px }
+IMG.propdef { position: relative; left: 150px; width: 494px; height: 198px }
+IMG.mapthumb { width: 167px; height: 106px; border: 1px solid #FFFFFF }
+IMG.mapthumb1 { width: 140px; height: 95px; border: 1px solid #FFFFFF }
+IMG.merlyn { position: absolute; left: 15px; top: 428px; width: 120px; height: 99px }
+IMG.merlyntour { position: absolute; left: 15px; top: 362px; width: 120px; height: 99px }
+IMG.AAWaward { position:absolute; top:420px; left:627px; width:123px; height:69px; border-style:none }
+IMG.gateway1 { position:absolute; top: 30%; left:15%; border: none }
+IMG.gateway2 { position:absolute; top: 30%; left:65%; border: none }
+IMG.GatewayTextNR { position: absolute; top: 55%; left: 20%; border: none }
+IMG.GatewayTextCIDres { position: absolute; top: 55%; left: 68%; border: none }
+HTML,BODY { height: 100% }
+BODY { margin: 0px auto; }
+.nudge1 { position: relative; top: 2px }
+.text { font-size: 12px; color: #000000; font-family: Arial, Helvetica, "Century Gothic", sans-serif; margin-left: 150px; margin-right: 150px; margin-top: 0px; margin-bottom: 15px }
+.textsemiparag { font-size: 12px; color: #000000; font-family: Arial, Helvetica, "Century Gothic", sans-serif; margin-left: 150px; margin-right: 150px; margin-top: 0px; margin-bottom: 8px }
+.textsemiparag1 { font-size: 12px; color: #000000; font-family: Arial, Helvetica, "Century Gothic", sans-serif; margin-left: 150px; margin-right: 100px; margin-top: 0px; margin-bottom: 8px }
+.textspacedout { font-size: 12px; color: #000000; font-family: Arial, Helvetica, "Century Gothic", sans-serif; margin-left: 150px; margin-right: 150px; margin-top: 0px; margin-bottom: 15px; line-height: 1.35 }
+.textroman { font-size: 14px; color: #003333; font-family: Times, serif }
+.basictext { font-size: 12px; color: #000000; font-weight: normal; font-family: Arial, Helvetica, "Century Gothic", sans-serif }
+.basictextwhite { font-size: 12px; color: #FFFFFF; font-weight: normal; font-family: Arial, Helvetica, "Century Gothic", sans-serif }
+.basictextbold { font-size: 12px; color: #000000; font-weight: bold; font-family: Arial, Helvetica, "Century Gothic", sans-serif }
+.basictextboldwhite { font-size: 12px; color: #FFFFFF; font-weight: bold; font-family: Arial, Helvetica, "Century Gothic", sans-serif }
+.basictextboldsmaller { font-size: 10px; color: #000000; font-weight: bold; font-family: Arial, Helvetica, "Century Gothic", sans-serif }
+.basictextsmaller { color: #000000; font-weight: normal;  font-size: 9px; font-family: Arial, Helvetica, "Century Gothic", sans-serif }
+.basictextsmallwhite { color: #FFFFFF; font-weight: normal;  font-size: 10px; font-family: Arial, Helvetica, "Century Gothic", sans-serif }
+.basictextsmallerwhite { color: #FFFFFF; font-weight: normal;  font-size: 9px; font-family: Arial, Helvetica, "Century Gothic", sans-serif }
+.seriftext { font-size: 11px; color: #000000; font-family: "Times New Roman", Times, serif; margin-left: 0px; margin-right: 0px; margin-bottom: 0px }
+.seriftextbold { font-size: 11px; color: #000000; font-weight: bold; font-family: "Times New Roman", Times, serif }
+/* .largertextbold { font-size: 16px; color: #000000; font-weight: bold; font-family: Arial, Helvetica, "Century Gothic", sans-serif } */
+.texthangindent { font-size: 12px; color: #000000; font-family: Arial, Helvetica, "Century Gothic", sans-serif; margin-left: 150px; margin-right: 150px; margin-top: 0px; margin-bottom: 15px; padding-left: 16px; text-indent: -16px }
+.textsmallerhangindent { font-size: 11px; color: #000000; line-height: 1.0; font-family: Arial, Helvetica, "Century Gothic", sans-serif; margin-left: 180px; margin-right: 150px; margin-top: 0px; margin-bottom: 4px; text-indent: -13px }
+.textindent { font-size: 12px; color: #000000; font-family: Arial, Helvetica, "Century Gothic", sans-serif; margin-left: 150px; margin-right: 150px; margin-top: 0px; margin-bottom: 15px; padding-left: 16px }
+.textcenter { font-size: 12px; color: #000000; font-family: Arial, Helvetica, "Century Gothic", sans-serif; margin-left: 150px; margin-right: 150px; margin-top: 0px; margin-bottom: 15px; text-align: center }
+.greytext { font-family: Arial, Verdana, Helvetica, Arial, sans-serif; color:#7B7B7B; font-size:11px; }
+.greytextsmall { font-family: Arial, Verdana, Helvetica, Arial, sans-serif; color:#7B7B7B; font-size:10px; margin-top: 2px; margin-bottom:4px;}
+.tangsup { font-size: 8pt; color: #FF9900; font-family: Arial, Helvetica, "Century Gothic", sans-serif; vertical-align: super; font-size: 8pt }
+.redsup { font-size: 8pt; color: red; font-family: Arial, Helvetica, "Century Gothic", sans-serif; vertical-align: super; font-size: 8pt }
+.smaller { font-size: smaller; }
+.superscript { vertical-align: super; font-size: 6pt }
+.circletext1 { font-size: 16px; color: #000000; font-weight: bold; font-family: Arial, Helvetica, "Century Gothic", sans-serif; margin-left: 30px; margin-right: 30px; margin-top: 20px }
+.circletext2 { font-size: 10px; color: #000000; font-family: Arial, Helvetica, "Century Gothic", sans-serif; margin-left: 30px; margin-top: 395px; margin-bottom: 40px }
+.footnote { font-size: 10px; color: #000000; font-family: Arial, Helvetica, sans-serif; margin-left: 150px; margin-right: 150px; margin-top: 0px; margin-bottom: 15px; }
+.locchargetext1 { font-size: 14px; color: #000000; font-weight: bold; font-family: Arial, Helvetica, "Century Gothic", sans-serif; margin-left: 30px; margin-right: 30px; margin-top: 20px }
+.privacy { font-family: Arial, Helvetica, "Century Gothic", serif; font-size: 10px; color:#FFFFFF; margin-left: 172px; margin-right: 96px; padding-left: 4px; padding-right: 4px; padding-bottom: 2px; padding-top: 2px; border: 1px solid #333333; background-color: #333333 }
+.offloclisthead { font-family: Arial, Verdana, Helvetica, Arial, sans-serif; font-weight:bold; color:#7B7B7B; font-size:9px }
+.offloclist { font-family: Arial, Verdana, Helvetica, Arial, sans-serif; color:#7B7B7B; font-size:9px; height: 12px }
+.invertbox1 { width: 520px; height: 38px; margin-left: 0px; margin-top: 0px; margin-bottom: 0px; background-color:#333333; font-family: Arial, Helvetica, sans-serif; font-size: 12px; color:#FFFFFF; padding:0px; border-spacing: 0px; }
+.invertbox2 { width: 450px; height: 38px; margin-left: 160px; margin-top: 0px; margin-bottom: 0px; background-color:#333333; font-family: Arial, Helvetica, sans-serif; font-size: 12px; color:#FFFFFF; padding:0px; border-spacing: 0px; }
+LABEL { font-size: 12px; color: #000000; font-weight: bold; font-family: Arial, Helvetica, "Century Gothic", sans-serif }
+LABEL.small { font-size: 10px; color: #000000; font-weight: bold; font-family: Arial, Helvetica, "Century Gothic", sans-serif }
+LABEL.big { font-size: 16px; color: #000000; font-weight: bold; font-family: Arial, Helvetica, "Century Gothic", sans-serif }
+TABLE.formmargins { margin-left: 150px; border-spacing: 0px; padding: 6px; }
+TABLE.formmarginsmod1 { margin-left: 150px; border-spacing: 0px; padding: 0px; border: 0px;  }
+TABLE.referral { position:absolute; top:345px; left:600px; width:150px; height:50px; text-align:right; border-style:none }
+TABLE.referral1 { position:absolute; top:185px; left:600px; width:150px; height:50px; text-align:right; border-style:none }
+TABLE.officelocationlist { position:absolute; top:740px; left:600px; width:160px; text-align:right; border-style:none }
+TABLE.officelocationlist1 { position:absolute; top:250px; left:600px; width:160px; text-align:right; border-style:none }
+TABLE.signaturesmargins { margin-left: 95px; border-spacing: 15px; padding: 0px }
+TABLE.signaturesmargins1 { margin-left: 135px; border-spacing: 15px; padding: 0px }
+TABLE.propertydefs { margin-left: 140px; margin-right: 140px; background-image:  url(/images/PropDefBG.jpg); background-position: top left; background-repeat: repeat }
+TABLE.propertydefs p { margin-left: 15px; margin-right: 15px; margin-top: 20px; margin-bottom: 20px }
+TABLE.propertydefsnoimage { margin-left: 140px; margin-right: 140px; background-color: #FEF0E9; }
+TABLE.propertydefsnoimage p { margin-left: 15px; margin-right: 15px; margin-top: 20px; margin-bottom: 20px }
+TABLE.locationcharges { margin-left: 50px; margin-right: 15px; margin-top: 20px; margin-bottom: 20px }
+TABLE.audiointerview { position:absolute; top:405px; left:645px; width:105px; border-spacing: 0px; padding: 3px; background-color: #333333; border: 1px solid #333333 }
+TABLE.testimonialscroller { position:absolute; top:525px; left:645px; width:105px; border-spacing: 0px; padding: 0px; border: 1px solid #333333 }
+TABLE.locationscroller { position:absolute; top:294px; left:0px; width:750px; border-spacing: 0px; padding: 0px }
+TABLE.gatewaydivider { border: none; background-color: black; width:1px; height:100%; position:absolute; top: 0px; left:50% }
+TD.formcol1 { width: 320px }
+TD.formcol2 { width: 100px }
+TD.formcol3 { width: 100px }
+TD.formcol4 { width: 130px }
+TD.formcol1_2 { width: 400px }
+TD.formcol2_3 { width: 200px }
+TD.formcol3_4 {width: 230px }
+TD.formcol2_3_4 { width: 330px }
+TD.formcol1_2_3_4 { width: 650px }
+/* table.labelloc, .labellochead, and .labellocdata are styles of the locale label/locations table on foot of index.shtml. The styles are applied in processprofile.php, and the HTML is then written to file ssi/labellocations.html. */
+table.labelloc { position: relative; left: 150px; top: 5px; width: 455px; background-color: #fafafa; border: 1px #425A8D solid; border-collapse: collapse; border-spacing: 0px; }
+td.labellochead { background-color: #425A8D; border: 0px #000000 solid; height: 22px; font-family: Arial, Helvetica; font-weight: bold; font-size: 12px; color: #FFFFFF; }
+td.labellocdata { border-bottom: 1px #425A8D dashed; text-align: left; font-family: Arial, Helvetica, sans-serif; font-weight: normal; font-size: .7em; color: #404040; background-color: #fafafa; padding-top: 4px; padding-bottom: 4px; padding-left: 8px; padding-right: 0px; }
+
+A:link { font-size: 12px; color: #FF9900; font-weight: bold; font-family: Arial, Helvetica, "Century Gothic", sans-serif; text-decoration: none }
+A:visited { font-size: 12px; color: #FF9900; font-weight: bold; font-family: Arial, Helvetica, "Century Gothic", sans-serif; text-decoration: none }
+A:hover { font-size: 12px; color: #FF9900; font-weight: bold; font-family: Arial, Helvetica, "Century Gothic", sans-serif; text-decoration: underline }
+A.h1link:link { font-size: 14px; color: #333333; font-weight: bold; font-family: Arial, Helvetica, "Century Gothic", sans-serif; text-decoration: none }
+A.h1link:visited { font-size: 14px; color: #333333; font-weight: bold; font-family: Arial, Helvetica, "Century Gothic", sans-serif; text-decoration: none }
+A.h1link:hover { font-size: 14px; color: #333333; font-weight: bold; font-family: Arial, Helvetica, "Century Gothic", sans-serif; text-decoration: underline }
+A.footer:link { font-size: 9px; color: #000000; font-weight: normal; font-family: Arial, Helvetica, "Century Gothic", sans-serif; text-decoration: underline }
+A.footer:visited { font-size: 9px; color: #000000; font-weight: normal; font-family: Arial, Helvetica, "Century Gothic", sans-serif; text-decoration: underline }
+A.footer:hover { font-size: 9px; color: #000000; font-weight: normal; font-family: Arial, Helvetica, "Century Gothic", sans-serif; text-decoration: underline }
+A.plain { font-size: 12px; color: #000000; font-weight: bold; font-family: Arial, Helvetica, "Century Gothic", sans-serif; }
+A.smallgrey:link { font-size: 10px; color: #000000; font-weight: normal; text-decoration: underline }
+A.smallgrey:visited { font-size: 10px; color: #000000; font-weight: normal; text-decoration: underline }
+A.smallgrey:hover { font-size: 10px; color: #000000; font-weight: normal; text-decoration: underline }
+A.h3link:link { font-size: 12px; color: #000000; font-weight: bold; font-family: Arial, Helvetica, "Century Gothic", sans-serif; text-decoration: underline }
+A.h3link:visited { font-size: 12px; color: #000000; font-weight: bold; font-family: Arial, Helvetica, "Century Gothic", sans-serif; text-decoration: underline }
+A.h3link:hover { font-size: 12px; color: #000000; font-weight: bold; font-family: Arial, Helvetica, "Century Gothic", sans-serif; text-decoration: underline }
+A.indexlink:link { font-size: 10px; color: #FF9900; font-weight: bold; font-family: Arial, Helvetica, "Century Gothic", sans-serif; text-decoration: none }
+A.indexlink:visited { font-size: 10px; color: #FF9900; font-family: Arial, Helvetica, "Century Gothic", sans-serif; text-decoration: none }
+A.indexlink:hover { font-size: 10px; color: #FF9900; font-family: Arial, Helvetica, "Century Gothic", sans-serif; text-decoration: underline }
+A.suppress:link, 
+A.suppress:visited,
+A.suppress:hover 
+{ 
+color:#000000; 
+font-weight: normal;
+text-decoration:none; 
+cursor:default 
+} 
+H1 { font-family: Arial, Helvetica, "Century Gothic", sans-serif; margin-left: 100px; font-size: 14px; color: #333333 }
+H1.indent { text-indent: 50px; margin-top: 40px }
+H2 { font-family: Arial, Helvetica, "Century Gothic", sans-serif; margin-left: 150px; margin-right: 150px; font-size: 13px; font-weight: bold; color: #000000; margin-top: 24px; margin-bottom: 12px }
+H3 { font-family: Arial, Helvetica, "Century Gothic", sans-serif; font-size: 12px; font-weight: bold; color: #000000 }
+H3.modified { font-family: Arial, Helvetica, "Century Gothic", sans-serif; margin-left: 150px; margin-right: 150px; font-size: 12px; font-weight: bold; color: #000000 }
+H4 { font-family: Arial, Helvetica, "Century Gothic", sans-serif; margin-left: 150px; font-size: 11px; color: #000000; text-transform: uppercase; line-height: 200% }
+H2.center { text-align: center }
+H2.leftcol { margin-left: 0px; margin-right: 0px; margin-top: 12px; margin-bottom: 6 px }
+H1.bannerhead { display: inline; font-family: "Century Gothic", Arial, Helvetica, sans-serif; font-size: 20px; font-weight: bold; color: #000000 }
+H1.centerlefttel { position: relative; left: 218px }
+H1.centerleftemail { position: relative; left: 145px }
+input.closebutton1 { position: relative; top: 3px; left: 100px; font-size: 14px; background-color: #425A8D; color: #FFFFFF; border-color: #CCCCCC; font-family: Geneva, Arial, Helvetica, sans-serif; }
+input.closebutton2 { position: relative; top: 30px; left: 550px; font-size: 14px; background-color: #425A8D; color: #FFFFFF; border-color: #CCCCCC; font-family: Geneva, Arial, Helvetica, sans-serif; }
+input.closebutton3 { position: relative; top: 10px; left: 525px; font-size: 14px; background-color: #425A8D; color: #FFFFFF; border-color: #CCCCCC; font-family: Geneva, Arial, Helvetica, sans-serif; }
+input.closebutton4 { font-size: 14px; background-color: #425A8D; color: #FFFFFF; border-color: #CCCCCC; font-family: Geneva, Arial, Helvetica, sans-serif; position: relative; top: 3px; left: 320px; margin-top: 10px; margin-bottom: 20px; }
+.submitbutton { margin-left: 390px }
+input.submitbutton1 { margin-left: 360px }
+input.submitbutton2 { font-size: 10px; font-weight:bold; color:#FFFFFF; font-family:Arial,Helvetica,'Century Gothic',sans-serif; border: 1px solid; background-color:#333333; padding: 1px; }
+input.textfield1 { font-size: 11px; font-weight:normal; font-family:Arial,Helvetica,'Century Gothic',sans-serif; border: 1px solid #333333; background-image:url(/images/FormElementBG.jpg)}
+textarea { font-family: Helvetica, sans-serif; font-size:13px; }
+HR.formdivider { margin-left: 155px; margin-top: 30px; margin-bottom: 30px; width: 510px; color: #FF9900; text-align: center; size: 1px; height: 0px; } 
+HR.formdivider2 { margin-left: 155px; margin-top: 20px; margin-bottom: 20px; width: 510px; color: #FF9900; text-align: center; size: 1px; height: 0px; }
+hr.formdivider2noleftmargin { margin-top: 20px; margin-bottom: 20px; position: relative; left: -37px; width: 510px; color: #FF9900; text-align: center; height: 0px; } /* Used in forms with dynamic content */
+hr.formdivider3noleftmargin { margin-top: 20px; margin-bottom: 20px; position: relative; left: -38px; width: 510px; color: #FF9900; text-align: center; height: 0px; } /* Used in forms with dynamic content */
+hr.formdivider3 { margin-left: 155px; margin-top: 10px; margin-bottom: 10px; width: 510px; color: #FF9900; text-align: center; height: 0px; } 
+hr.formdivider4 { margin-left: 155px; margin-top: 10px; margin-bottom: 10px; width: 460px; color: #FF9900; text-align: center; height: 0px; } 
+hr.divider { margin-left: 150px; margin-top: 10px; margin-bottom: 0px; width: 450px; color: #FF9900; align: center; height: 0px; } 
+hr.dashed4 { margin-left: 155px; margin-top: 10px; margin-bottom: 10px; width: 460px; color: #FFFFFF; align: center; size: 1px; background-color: #FFFFFF; border: 1px dotted #FF9900; border-style: none none dashed; } /*  (Not currently used) Credit: http://www.thatvoodooyoudo.com/css/styling-horizontal-rules  */
+.error { font-family: Tahoma; font-size: 8pt; color: red; margin-left: 0px; display:none; }
+.errorphp { font-family: Tahoma; font-size: 8pt; color: red; margin-left: 0px; }
+.submitLink { font-family: Arial, sans-serif; color: #FF9900; background-color: transparent; text-decoration: none; font-weight: bold; font-size: 14px; border: none; cursor: pointer; cursor: hand; } 
+.submitLink:hover { font-family: Arial, sans-serif; color: #FF9900; background-color: transparent; text-decoration: underline; font-weight: bold; font-size: 14px; border: none; cursor: pointer; cursor: hand; position: relative; left: 700px; top: 50px; } 
+.submitLinkSmall { font-family: Arial, Helvetica, sans-serif; color: #FF9900; background-color: transparent; text-decoration: none; font-weight: bold; font-size: 10px; border: none; cursor: pointer; cursor: hand; } 
+ul.bullet { list-style: url(/images/Bullet.gif) square outside; font-size: 12px; color: #000000; font-family: Arial, Helvetica, "Century Gothic", sans-serif; margin-left: 168px; margin-right: 150px; margin-top: 0px; margin-bottom: 15px }
+ul.bulletv1 { list-style: url(/images/Bullet.gif) square outside; font-size: 12px; color: #000000; font-family: "Arial", "Helvetica", "Century Gothic", sans-serif; margin-left: 150px; margin-right: 150px; margin-top: 0px; margin-bottom: 15px }
+ul.bulletv2 { list-style: url(/images/Bullet.gif) square outside; font-size: 12px; color: #000000; font-family: Arial, Helvetica, "Century Gothic", sans-serif; margin-left: 168px; margin-right: 150px; margin-top: 0px; margin-bottom: 10px }
+ul.bulletnopos { list-style: url(/images/Bullet.gif) square outside; font-size: 12px; color: #000000; font-family: Arial, Helvetica, "Century Gothic", sans-serif; margin-top: 0px; margin-bottom: 6px; text-indent: -5px }
+ul.bullet li { margin-bottom: 12px; padding-left: 5px }
+ul.bulletv1 li { margin-bottom: 12px; padding-left: 0px }
+ul.bulletv2 li { margin-bottom: 2px; padding-left: 5px }
+.buttonstyle { font-size: 14px; background-color: #425A8D; color: #FFFFFF; border-color: #CCCCCC; font-family: Geneva, Arial, Helvetica, sans-serif; }
+.buttonstylesimple { font-size: 11px; background-color: #425A8D; color: #FFFFFF; border: none; border-width: 0px; font-family: Geneva, Arial, Helvetica, sans-serif; }
+.menushift{ position: relative; left: 0px; }
+#main {
+	position: absolute;
+	top: 0px;
+	left: 50%;
+	width: 750px;
+	margin-left: -375px;
+	text-align: left;
+	}
+#relwrapper {
+	position: relative;
+	}
+#copyright {
+	position: relative; bottom: 5px; left: 225px;
+	font-family: Arial, Helvetica, "Century Gothic", serif;
+	font-size: 9px;
+	color:#000000 }
+#copyrightfooter {
+	position: absolute; bottom: 5px; left: 290px;
+	font-family: Arial, Helvetica, "Century Gothic", serif;
+	font-size: 9px;
+	color:#000000 }
+#container { 
+	position: relative;
+    min-height: 100%;
+    height: 100%;
+    voice-family: "\"}\"";
+    voice-family: inherit;
+    height: auto; }
+#splashpagecontainer {  /* Currently used in indexnet.html only for centering logo */
+	height:100%; /*fill the body*/ 
+	text-align: center; } /*H-centering in early IE versions*/ 
+#splashlogocenter { /* "absolute version," currently used in indexnet.html only for centering logo */
+	width: 331px;
+	height: 83px;
+	position: absolute; /*allows for top property to move the element*/ 
+	top: 50%; /*moves image 50% of #splashpagecontainer's height down the page*/ 
+	left: 50%;
+	margin-top: -46px; /*pulls it back up by half it's height (give or take a bit to suit the eye) */ 
+	margin-left: -165px; margin-right: auto; /* horz centering in compliant browsers */
+	z-index: 1 }
+#small { position: absolute; top: 90%; left: 48%; z-index: 1 }
+#smallNRentry { position: absolute; top: 80%; left: 25% }
+#smallCIDresEntry { position: absolute; top: 80%; left: 75% }
+#figtablecaption { font-variant: small-caps; font-family: Arial, Helvetica, "Century Gothic", sans-serif; font-size: 11px; font-weight: bold; text-align: center }
+#logocenter { position: relative; top: 40%; text-align: center; z-index: 1 } /* Currently used in index.html only for centering logo */
+/* #textontop { position: relative; left: 0px; top: 0px; z-index: 2 }  Firefox needs this. Rather than simply layer an image below text when the image has a lower z-index, Firefox needs the text to be explicitly elevated via this div id */
+#crusaderimage {
+background-color: transparent;
+background-image: url(/images/Crusader.jpg);
+background-repeat: no-repeat;
+background-position: 505px -20px;
+padding-top: 0px;
+} 
+#saberimage { background:  url(/images/SaberTooth.jpg) no-repeat; background-position: 538px 0px }
+#judgeimage { background:  url(/images/Judge.jpg) no-repeat; background-position: 420px 4px }
+#sadchildimage { background:   url(/images/SadChild.jpg) no-repeat; background-position: 512px 12px }
+/* #elderlywomanimage { background: url(/images/ElderMediation.jpg) no-repeat; background-position: 490px 12px; } */
+#elderlywomanimage {
+background-color: transparent;
+background-image: url(/images/ElderMediation.jpg);
+background-repeat: no-repeat;
+background-position: 545px 5px;
+padding-top: 0px;
+} 
+#maritalmediationimage { background:   url(/images/MaritalMediation.jpg) no-repeat; background-position: 520px 50px }
+#gaycoupleimage { background:   url(/images/GayCouple.jpg) no-repeat; background-position: 440px 42px }
+#businessmediationimage { background:   url(/images/WorkplaceMediation.jpg) no-repeat; background-position: 460px 50px }
+#verticalline { background:   url(/images/VerticalLine.bmp) no-repeat; background-position: 122px 0px; padding-top: 0px; position: relative; top: 0px; } /* This id gets used in iplibrary.php*/
+#portraits1 { position: absolute; left: 625px; top: 405px; z-index: 1; visibility: hidden }
+#portraits2 { position: absolute; left: 625px; top: 405px; z-index: 2 }
+#portraits1tour { position: absolute; left: 610px; top: 342px; z-index: 1; visibility: hidden }
+#portraits2tour { position: absolute; left: 610px; top: 342px; z-index: 2 }
+#bannerheadL1 { position: absolute; top: 62px; left: -75px; z-index: 1 }
+#bannerheadL2 { position: absolute; top: 85px; left: -75px; z-index: 1 }
+#mapthumbposition { position: absolute; left: 470px; top: 250px }
+#transcriptlink { position: absolute; top: 493px; left:655px; font-size:9px }
+#testimonialslink { position: absolute; top: 699px; left:652px; font-size:9px }
+#wirescrossed { position: absolute; top: 405px; left: 20px; font-size: 9px }
+#wirescrossedlink { font-size:9px }
+#calculator { position: absolute; top: 405px; left: 24px; font-size: 9px }
+#calculator1 { position: absolute; top: 225px; left: 24px; font-size: 9px }
+#calculatorlink { font-size:9px }
+#pricetag { position: absolute; top: 230px; left: 15px; font-size: 9px }
+#prefpartnerindex { position: absolute; top: 185px; left: 640px; font-size: 10px }
+#MoUquotes { position: absolute; left:180px }
+#toprightlogotm { position: absolute; top: 40px; left: 736px; z-index: 2; font-family: Arial, Helvetica, sans-serif; font-size: 11px; }
+#LLCsuffix { position: absolute; top: 71px; left: 734px; z-index: 2; font-family: Arial, Helvetica, sans-serif; font-size: 8px; color: #000000; }
+#toprightlogotm_tour { position: absolute; top: 28px; left: 736px; z-index: 2; font-family: Arial, Helvetica, sans-serif; font-size: 11px; }
+#toprightlogotm_1 { position: absolute; top: 30px; left: 736px; z-index: 2; font-family: Arial, Helvetica, sans-serif; font-size: 11px; }
+#LLCsuffix_1 { position: absolute; top: 61px; left: 734px; z-index: 2; font-family: Arial, Helvetica, sans-serif; font-size: 8px; color: #000000; }
+#size11 { font-size: 11px }
+#notice { font-family: Arial, Helvetica, "Century Gothic", serif; font-size: 10px; color:#FFFFFF; margin-left: 150px; margin-right: 150px; padding-left: 8px; padding-right: 4px; padding-bottom: 2px; padding-top: 2px; border: 1px solid #333333; background-color: #333333 }
+#annotation { border-left-style: solid; padding-left: 10px; padding-top: 2px; padding-bottom: 2px; border-left-width: 1px; border-left-color:#333333; font-size: 12px; font-family: Arial, Helvetica, sans-serif;}
+#altlinescroller { position: absolute; top: 294px; z-index: 1;}
+#plusonehome { /* For only the home (index.shtml) page */
+	position: absolute;
+	top: 275px;
+	left: 50%;
+	width: 750px;
+	margin-left: -375px;
+	text-align: right;
+	}
+#plusone { /* For all pages except the home (index.shtml) page */
+	position: absolute;
+	top: 109px;
+	left: 50%;
+	width: 750px;
+	margin-left: -375px;
+	text-align: right;
+	}
+
+.test { text-align: right; font-size:18px; }

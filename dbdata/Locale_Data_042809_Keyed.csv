@@ -1,0 +1,944 @@
+Edison-New Brunswick_NJ,Edison-New Brunswick,NJ,2325224,1
+Nassau-Suffolk_NY,Nassau-Suffolk,NY,2863849,2
+Newark-Union_NJ-PA,Newark-Union,NJ-PA,2121076,1
+New York-White Plains-Wayne_NY-NJ,New York-White Plains-Wayne,NY-NJ,11696649,5
+Los Angeles-Long Beach-Glendale_CA,Los Angeles-Long Beach-Glendale,CA,9862049,5
+Santa Ana-Anaheim-Irvine_CA,Santa Ana-Anaheim-Irvine,CA,3010759,2
+Chicago-Naperville-Joliet_IL-IN-WI,Chicago-Naperville-Joliet,IL-IN-WI,9524673,5
+Dallas-Fort Worth-Arlington_TX,Dallas-Fort Worth-Arlington,TX,6145037,4
+Philadelphia-Camden-Wilmington_PA-NJ-DE-MD,Philadelphia-Camden-Wilmington,PA-NJ-DE-MD,5827962,4
+Houston-Sugar Land-Baytown_TX,Houston-Sugar Land-Baytown,TX,5628101,4
+Miami-Fort Lauderdale-Pompano Beach_FL,Miami-Fort Lauderdale-Pompano Beach,FL,5413212,4
+Washington-Arlington-Alexandria_DC-VA-MD-WV,Washington-Arlington-Alexandria,DC-VA-MD-WV,5306565,4
+Atlanta-Sandy Springs-Marietta_GA,Atlanta-Sandy Springs-Marietta,GA,5278904,4
+Boston-Cambridge-Quincy_MA-NH,Boston-Cambridge-Quincy,MA-NH,4482857,3
+Detroit-Warren-Livonia_MI,Detroit-Warren-Livonia,MI,4467592,3
+San Francisco-Oakland-Fremont_CA,San Francisco-Oakland-Fremont,CA,4203898,3
+Phoenix-Mesa-Scottsdale_AZ,Phoenix-Mesa-Scottsdale,AZ,4179427,3
+Riverside-San Bernardino-Ontario_CA,Riverside-San Bernardino-Ontario,CA,4081371,3
+Seattle-Tacoma-Bellevue_WA,Seattle-Tacoma-Bellevue,WA,3309347,2
+Minneapolis-St. Paul-Bloomington_MN-WI,Minneapolis-St. Paul-Bloomington,MN-WI,3208212,2
+San Diego-Carlsbad-San Marcos_CA,San Diego-Carlsbad-San Marcos,CA,2974859,2
+St. Louis_MO-IL,St. Louis,MO-IL,2803707,2
+Tampa-St. Petersburg-Clearwater_FL,Tampa-St. Petersburg-Clearwater,FL,2723949,2
+Baltimore-Towson_MD,Baltimore-Towson,MD,2668056,2
+Denver-Aurora_CO,Denver-Aurora,CO,2464866,1
+Pittsburgh_PA,Pittsburgh,PA,2355712,1
+Portland-Vancouver-Beaverton_OR-WA,Portland-Vancouver-Beaverton,OR-WA,2175113,1
+Cincinnati-Middletown_OH-KY-IN,Cincinnati-Middletown,OH-KY-IN,2133678,1
+Cleveland-Elyria-Mentor_OH,Cleveland-Elyria-Mentor,OH,2096471,1
+Sacramento-Arden-Arcade-Roseville_CA,Sacramento-Arden-Arcade-Roseville,CA,2091120,1
+Orlando-Kissimmee_FL,Orlando-Kissimmee,FL,2032496,1
+San Antonio_TX,San Antonio,TX,1990675,1
+Kansas City_MO-KS,Kansas City,MO-KS,1985429,1
+Las Vegas-Paradise_NV,Las Vegas-Paradise,NV,1836333,1
+San Jose-Sunnyvale-Santa Clara_CA,San Jose-Sunnyvale-Santa Clara,CA,1803643,1
+Columbus_OH,Columbus,OH,1754337,1
+Indianapolis-Carmel_IN,Indianapolis-Carmel,IN,1695037,1
+Virginia Beach-Norfolk-Newport News_VA-NC,Virginia Beach-Norfolk-Newport News,VA-NC,1658754,1
+Charlotte-Gastonia-Concord_NC-SC,Charlotte-Gastonia-Concord,NC-SC,1651568,1
+Providence-New Bedford-Fall River_RI-MA,Providence-New Bedford-Fall River,RI-MA,1600856,1
+Austin-Round Rock_TX,Austin-Round Rock,TX,1598161,1
+Milwaukee-Waukesha-West Allis_WI,Milwaukee-Waukesha-West Allis,WI,1544398,1
+Nashville-Davidson-Murfreesboro-Franklin_TN,Nashville-Davidson-Murfreesboro-Franklin,TN,1521437,1
+Jacksonville_FL,Jacksonville,FL,1300823,1
+Memphis_TN-MS-AR,Memphis,TN-MS-AR,1280533,1
+Louisville-Jefferson County_KY-IN,Louisville-Jefferson County,KY-IN,1233735,1
+Richmond_VA,Richmond,VA,1212977,1
+Oklahoma City_OK,Oklahoma City,OK,1192989,1
+Hartford-West Hartford-East Hartford_CT,Hartford-West Hartford-East Hartford,CT,1189113,1
+Buffalo-Niagara Falls_NY,Buffalo-Niagara Falls,NY,1128183,1
+Birmingham-Hoover_AL,Birmingham-Hoover,AL,1108210,1
+Salt Lake City_UT,Salt Lake City,UT,1099973,1
+Raleigh-Cary_NC,Raleigh-Cary,NC,1047629,1
+Rochester_NY,Rochester,NY,1030495,1
+New Orleans-Metairie-Kenner_LA,New Orleans-Metairie-Kenner,LA,1030363,1
+Tucson_AZ,Tucson,AZ,967089,1
+Tulsa_OK,Tulsa,OK,905755,1
+Honolulu_HI,Honolulu,HI,905601,1
+Fresno_CA,Fresno,CA,899348,1
+Bridgeport-Stamford-Norwalk_CT,Bridgeport-Stamford-Norwalk,CT,895015,1
+Albany-Schenectady-Troy_NY,Albany-Schenectady-Troy,NY,853358,1
+New Haven-Milford_CT,New Haven-Milford,CT,845494,1
+Dayton_OH,Dayton,OH,835537,1
+Albuquerque_NM,Albuquerque,NM,835120,1
+Omaha-Council Bluffs_NE-IA,Omaha-Council Bluffs,NE-IA,829890,1
+Allentown-Bethlehem-Easton_PA-NJ,Allentown-Bethlehem-Easton,PA-NJ,803844,1
+Oxnard-Thousand Oaks-Ventura_CA,Oxnard-Thousand Oaks-Ventura,CA,798364,1
+Bakersfield_CA,Bakersfield,CA,790710,1
+Worcester_MA,Worcester,MA,781352,1
+Grand Rapids-Wyoming_MI,Grand Rapids-Wyoming,MI,776742,1
+Baton Rouge_LA,Baton Rouge,LA,770037,1
+El Paso_TX,El Paso,TX,734669,1
+Columbia_SC,Columbia,SC,716030,1
+McAllen-Edinburg-Mission_TX,McAllen-Edinburg-Mission,TX,710514,1
+Akron_OH,Akron,OH,699356,1
+Greensboro-High Point_NC,Greensboro-High Point,NC,698497,1
+Bradenton-Sarasota-Venice_FL,Bradenton-Sarasota-Venice,FL,687181,1
+Springfield_MA,Springfield,MA,682657,1
+Knoxville_TN,Knoxville,TN,681525,1
+Stockton_CA,Stockton,CA,670990,1
+Poughkeepsie-Newburgh-Middletown_NY,Poughkeepsie-Newburgh-Middletown,NY,669915,1
+Little Rock-North Little Rock-Conway_AR,Little Rock-North Little Rock-Conway,AR,666401,1
+Toledo_OH,Toledo,OH,650955,1
+Syracuse_NY,Syracuse,NY,645293,1
+Charleston-North Charleston-Summerville_SC,Charleston-North Charleston-Summerville,SC,630100,1
+Greenville-Mauldin-Easley_SC,Greenville-Mauldin-Easley,SC,613828,1
+Colorado Springs_CO,Colorado Springs,CO,609096,1
+Wichita_KS,Wichita,KS,596452,1
+Cape Coral-Fort Myers_FL,Cape Coral-Fort Myers,FL,590564,1
+Boise City-Nampa_ID,Boise City-Nampa,ID,587689,1
+Lakeland-Winter Haven_FL,Lakeland-Winter Haven,FL,574746,1
+Youngstown-Warren-Boardman_OH-PA,Youngstown-Warren-Boardman,OH-PA,570704,1
+Madison_WI,Madison,WI,555626,1
+Scranton-Wilkes-Barre_PA,Scranton-Wilkes-Barre,PA,549430,1
+Des Moines-West Des Moines_IA,Des Moines-West Des Moines,IA,546599,1
+Palm Bay-Melbourne-Titusville_FL,Palm Bay-Melbourne-Titusville,FL,536161,1
+Jackson_MS,Jackson,MS,534047,1
+Harrisburg-Carlisle_PA,Harrisburg-Carlisle,PA,528892,1
+Augusta-Richmond County_GA-SC,Augusta-Richmond County,GA-SC,528519,1
+Ogden-Clearfield_UT,Ogden-Clearfield,UT,518349,1
+Chattanooga_TN-GA,Chattanooga,TN-GA,514568,1
+Portland-South Portland-Biddeford_ME,Portland-South Portland-Biddeford,ME,513102,1
+Modesto_CA,Modesto,CA,511263,1
+Deltona-Daytona Beach-Ormond Beach_FL,Deltona-Daytona Beach-Ormond Beach,FL,5413,1
+Lancaster_PA,Lancaster,PA,498465,1
+Provo-Orem_UT,Provo-Orem,UT,493306,1
+Durham_NC,Durham,NC,479624,1
+Santa Rosa-Petaluma_CA,Santa Rosa-Petaluma,CA,464435,1
+Winston-Salem_NC,Winston-Salem,NC,463159,1
+Lansing-East Lansing_MI,Lansing-East Lansing,MI,456440,1
+Spokane_WA,Spokane,WA,456175,1
+Pensacola-Ferry Pass-Brent_FL,Pensacola-Ferry Pass-Brent,FL,453451,1
+Lexington-Fayette_KY,Lexington-Fayette,KY,447173,1
+Fayetteville-Springdale-Rogers_AR-MO,Fayetteville-Springdale-Rogers,AR-MO,435714,1
+Flint_MI,Flint,MI,434715,1
+Visalia-Porterville_CA,Visalia-Porterville,CA,421553,1
+York-Hanover_PA,York-Hanover,PA,421049,1
+Springfield_MO,Springfield,MO,420020,1
+Corpus Christi_TX,Corpus Christi,TX,414376,1
+Reno-Sparks_NV,Reno-Sparks,NV,410272,1
+Fort Wayne_IN,Fort Wayne,IN,410070,1
+Vallejo-Fairfield_CA,Vallejo-Fairfield,CA,408599,1
+Salinas_CA,Salinas,CA,407637,1
+Canton-Massillon_OH,Canton-Massillon,OH,407180,1
+Mobile_AL,Mobile,AL,404406,1
+Asheville_NC,Asheville,NC,404320,1
+Santa Barbara-Santa Maria-Goleta_CA,Santa Barbara-Santa Maria-Goleta,CA,404197,1
+Manchester-Nashua_NH,Manchester-Nashua,NH,402302,1
+Reading_PA,Reading,PA,401955,1
+Port St. Lucie_FL,Port St. Lucie,FL,4121,1
+Shreveport-Bossier City_LA,Shreveport-Bossier City,LA,387583,1
+Brownsville-Harlingen_TX,Brownsville-Harlingen,TX,387210,1
+Salem_OR,Salem,OR,386714,1
+Huntsville_AL,Huntsville,AL,386632,1
+Beaumont-Port Arthur_TX,Beaumont-Port Arthur,TX,376241,1
+Davenport-Moline-Rock Island_IA-IL,Davenport-Moline-Rock Island,IA-IL,376160,1
+Peoria_IL,Peoria,IL,371206,1
+Killeen-Temple-Fort Hood_TX,Killeen-Temple-Fort Hood,TX,370008,1
+Montgomery_AL,Montgomery,AL,365962,1
+Trenton-Ewing_NJ,Trenton-Ewing,NJ,365449,1
+Anchorage_AK,Anchorage,AK,362340,1
+Hickory-Lenoir-Morganton_NC,Hickory-Lenoir-Morganton,NC,360471,1
+Tallahassee_FL,Tallahassee,FL,352319,1
+Rockford_IL,Rockford,IL,352290,1
+Ann Arbor_MI,Ann Arbor,MI,350003,1
+Evansville_IN-KY,Evansville,IN-KY,349717,1
+Fayetteville_NC,Fayetteville,NC,348940,1
+Eugene-Springfield_OR,Eugene-Springfield,OR,343591,1
+Wilmington_NC,Wilmington,NC,339511,1
+Savannah_GA,Savannah,GA,329329,1
+Ocala_FL,Ocala,FL,324857,1
+Kalamazoo-Portage_MI,Kalamazoo-Portage,MI,323264,1
+South Bend-Mishawaka_IN-MI,South Bend-Mishawaka,IN-MI,316639,1
+Naples-Marco Island_FL,Naples-Marco Island,FL,315839,1
+Charleston_WV,Charleston,WV,303950,1
+Kingsport-Bristol-Bristol_TN-VA,Kingsport-Bristol-Bristol,TN-VA,303686,1
+Green Bay_WI,Green Bay,WI,301131,1
+Roanoke_VA,Roanoke,VA,296532,1
+Utica-Rome_NY,Utica-Rome,NY,294862,1
+Lincoln_NE,Lincoln,NE,292219,1
+Boulder_CO,Boulder,CO,290262,1
+Fort Smith_AR-OK,Fort Smith,AR-OK,289693,1
+Fort Collins-Loveland_CO,Fort Collins-Loveland,CO,287574,1
+Huntington-Ashland_WV-KY-OH,Huntington-Ashland,WV-KY-OH,284026,1
+Columbus_GA-AL,Columbus,GA-AL,282756,1
+Erie_PA,Erie,PA,279092,1
+Spartanburg_SC,Spartanburg,SC,275534,1
+Duluth_MN-WI,Duluth,MN-WI,274308,1
+Atlantic City-Hammonton_NJ,Atlantic City-Hammonton,NJ,270644,1
+Norwich-New London_CT,Norwich-New London,CT,267376,1
+Lubbock_TX,Lubbock,TX,267211,1
+San Luis Obispo-Paso Robles_CA,San Luis Obispo-Paso Robles,CA,262436,1
+Clarksville_TN-KY,Clarksville,TN-KY,261816,1
+Hagerstown-Martinsburg_MD-WV,Hagerstown-Martinsburg,MD-WV,261198,1
+Holland-Grand Haven_MI,Holland-Grand Haven,MI,259206,1
+Gainesville_FL,Gainesville,FL,257099,1
+Lafayette_LA,Lafayette,LA,256494,1
+Cedar Rapids_IA,Cedar Rapids,IA,252784,1
+Santa Cruz-Watsonville_CA,Santa Cruz-Watsonville,CA,251747,1
+Myrtle Beach-North Myrtle Beach-Conway_SC,Myrtle Beach-North Myrtle Beach-Conway,SC,249925,1
+Binghamton_NY,Binghamton,NY,246426,1
+Merced_CA,Merced,CA,245514,1
+Greeley_CO,Greeley,CO,243750,1
+Lynchburg_VA,Lynchburg,VA,243580,1
+Amarillo_TX,Amarillo,TX,242240,1
+Olympia_WA,Olympia,WA,238555,1
+Bremerton-Silverdale_WA,Bremerton-Silverdale,WA,236732,1
+Laredo_TX,Laredo,TX,233152,1
+Yakima_WA,Yakima,WA,233062,1
+Gulfport-Biloxi_MS,Gulfport-Biloxi,MS,231523,1
+Macon_GA,Macon,GA,229846,1
+Kennewick-Pasco-Richland_WA,Kennewick-Pasco-Richland,WA,228992,1
+Topeka_KS,Topeka,KS,228692,1
+Waco_TX,Waco,TX,228123,1
+Sioux Falls_SD,Sioux Falls,SD,227171,1
+Barnstable Town_MA,Barnstable Town,MA,222175,1
+Champaign-Urbana_IL,Champaign-Urbana,IL,220923,1
+Chico_CA,Chico,CA,218779,1
+Appleton_WI,Appleton,WI,218026,1
+Prescott_AZ,Prescott,AZ,212635,1
+Burlington-South Burlington_VT,Burlington-South Burlington,VT,207361,1
+Springfield_IL,Springfield,IL,206588,1
+Tuscaloosa_AL,Tuscaloosa,AL,205218,1
+Longview_TX,Longview,TX,203611,1
+College Station-Bryan_TX,College Station-Bryan,TX,203371,1
+Saginaw-Saginaw Township North_MI,Saginaw-Saginaw Township North,MI,202268,1
+Houma-Bayou Cane-Thibodaux_LA,Houma-Bayou Cane-Thibodaux,LA,201137,1
+Medford_OR,Medford,OR,199295,1
+Las Cruces_NM,Las Cruces,NM,198791,1
+Florence_SC,Florence,SC,198719,1
+Tyler_TX,Tyler,TX,198705,1
+Elkhart-Goshen_IN,Elkhart-Goshen,IN,197942,1
+Racine_WI,Racine,WI,195099,1
+Lake Havasu City-Kingman_AZ,Lake Havasu City-Kingman,AZ,194944,1
+Johnson City_TN,Johnson City,TN,193554,1
+Bellingham_WA,Bellingham,WA,192999,1
+Charlottesville_VA,Charlottesville,VA,192779,1
+Fargo_ND-MN,Fargo,ND-MN,192417,1
+Lafayette_IN,Lafayette,IN,192161,1
+Lake Charles_LA,Lake Charles,LA,191926,1
+Yuma_AZ,Yuma,AZ,190557,1
+Torrington_CT,Torrington,CT,188273,1
+Athens-Clarke County_GA,Athens-Clarke County,GA,187405,1
+St. Cloud_MN,St. Cloud,MN,185555,1
+Seaford_DE,Seaford,DE,184291,1
+Bloomington_IN,Bloomington,IN,183733,1
+Kingston_NY,Kingston,NY,181860,1
+Fort Walton Beach-Crestview-Destin_FL,Fort Walton Beach-Crestview-Destin,FL,181499,1
+Rochester_MN,Rochester,MN,181082,1
+Gainesville_GA,Gainesville,GA,180175,1
+Anderson_SC,Anderson,SC,179981,1
+Redding_CA,Redding,CA,179427,1
+Muskegon-Norton Shores_MI,Muskegon-Norton Shores,MI,174386,1
+Hilo_HI,Hilo,HI,173057,1
+Greenville_NC,Greenville,NC,172473,1
+Monroe_LA,Monroe,LA,172275,1
+Daphne-Fairhope-Foley_AL,Daphne-Fairhope-Foley,AL,171769,1
+Lebanon_NH-VT,Lebanon,NH-VT,171391,1
+Joplin_MO,Joplin,MO,171278,1
+Terre Haute_IN,Terre Haute,IN,169346,1
+Hilton Head Island-Beaufort_SC,Hilton Head Island-Beaufort,SC,169269,1
+East Stroudsburg_PA,East Stroudsburg,PA,164722,1
+Bloomington-Normal_IL,Bloomington-Normal,IL,164209,1
+Yuba City_CA,Yuba City,CA,164138,1
+Albany_GA,Albany,GA,164069,1
+Panama City-Lynn Haven_FL,Panama City-Lynn Haven,FL,163984,1
+Waterloo-Cedar Falls_IA,Waterloo-Cedar Falls,IA,163329,1
+Jackson_MI,Jackson,MI,163006,1
+Jacksonville_NC,Jacksonville,NC,162745,1
+Columbia_MO,Columbia,MO,162314,1
+Oshkosh-Neenah_WI,Oshkosh-Neenah,WI,162154,1
+El Centro_CA,El Centro,CA,161867,1
+Parkersburg-Marietta-Vienna_WV-OH,Parkersburg-Marietta-Vienna,WV-OH,160656,1
+Janesville_WI,Janesville,WI,159623,1
+Niles-Benton Harbor_MI,Niles-Benton Harbor,MI,159589,1
+Abilene_TX,Abilene,TX,159343,1
+Eau Claire_WI,Eau Claire,WI,157808,1
+Blacksburg-Christiansburg-Radford_VA,Blacksburg-Christiansburg-Radford,VA,157614,1
+Thomasville-Lexington_NC,Thomasville-Lexington,NC,156530,1
+Vineland-Millville-Bridgeton_NJ,Vineland-Millville-Bridgeton,NJ,155544,1
+Pueblo_CO,Pueblo,CO,154538,1
+Bend_OR,Bend,OR,154028,1
+Ottawa-Streator_IL,Ottawa-Streator,IL,153666,1
+Monroe_MI,Monroe,MI,153608,1
+Punta Gorda_FL,Punta Gorda,FL,152814,1
+Dover_DE,Dover,DE,152255,1
+Pascagoula_MS,Pascagoula,MS,152035,1
+Statesville-Mooresville_NC,Statesville-Mooresville,NC,151445,1
+Alexandria_LA,Alexandria,LA,149837,1
+Billings_MT,Billings,MT,149657,1
+Decatur_AL,Decatur,AL,149279,1
+Hanford-Corcoran_CA,Hanford-Corcoran,CA,148875,1
+Bangor_ME,Bangor,ME,148784,1
+Concord_NH,Concord,NH,148274,1
+Wichita Falls_TX,Wichita Falls,TX,148148,1
+Pottsville_PA,Pottsville,PA,147269,1
+Iowa City_IA,Iowa City,IA,147038,1
+Madera_CA,Madera,CA,146513,1
+Jefferson City_MO,Jefferson City,MO,145686,1
+Rocky Mount_NC,Rocky Mount,NC,145596,1
+Wheeling_WV-OH,Wheeling,WV-OH,145454,1
+Burlington_NC,Burlington,NC,145360,1
+Johnstown_PA,Johnstown,PA,144995,1
+State College_PA,State College,PA,144658,1
+Florence-Muscle Shoals_AL,Florence-Muscle Shoals,AL,143149,1
+Santa Fe_NM,Santa Fe,NM,142955,1
+Sioux City_IA-NE-SD,Sioux City,IA-NE-SD,142794,1
+Traverse City_MI,Traverse City,MI,142075,1
+Kahului-Wailuku_HI,Kahului-Wailuku,HI,141783,1
+Chambersburg_PA,Chambersburg,PA,141665,1
+Springfield_OH,Springfield,OH,140477,1
+Homosassa Springs_FL,Homosassa Springs,FL,140169,1
+Dothan_AL,Dothan,AL,139499,1
+Grand Junction_CO,Grand Junction,CO,139082,1
+Hattiesburg_MS,Hattiesburg,MS,138144,1
+Salisbury_NC,Salisbury,NC,137383,1
+Battle Creek_MI,Battle Creek,MI,136615,1
+Morristown_TN,Morristown,TN,134596,1
+Coeur d'Alene_ID,Coeur d'Alene,ID,134442,1
+Texarkana_TX-AR,Texarkana,TX-AR,134215,1
+Dalton_GA,Dalton,GA,134043,1
+Jamestown-Dunkirk-Fredonia_NY,Jamestown-Dunkirk-Fredonia,NY,133945,1
+St. George_UT,St. George,UT,133791,1
+Napa_CA,Napa,CA,132565,1
+Tupelo_MS,Tupelo,MS,132245,1
+Sebastian-Vero Beach_FL,Sebastian-Vero Beach,FL,131837,1
+Anderson_IN,Anderson,IN,131312,1
+Warner Robins_GA,Warner Robins,GA,131016,1
+La Crosse_WI-MN,La Crosse,WI-MN,130926,1
+Auburn-Opelika_AL,Auburn-Opelika,AL,130516,1
+Valdosta_GA,Valdosta,GA,130170,1
+Wausau_WI,Wausau,WI,129958,1
+Pittsfield_MA,Pittsfield,MA,129798,1
+Odessa_TX,Odessa,TX,129570,1
+Glens Falls_NY,Glens Falls,NY,128886,1
+Eureka-Arcata-Fortuna_CA,Eureka-Arcata-Fortuna,CA,128864,1
+Lumberton_NC,Lumberton,NC,128149,1
+Lebanon_PA,Lebanon,PA,127889,1
+Sierra Vista-Douglas_AZ,Sierra Vista-Douglas,AZ,127866,1
+Flagstaff_AZ,Flagstaff,AZ,127450,1
+Midland_TX,Midland,TX,126408,1
+Mansfield_OH,Mansfield,OH,125679,1
+Altoona_PA,Altoona,PA,125527,1
+St. Joseph_MO-KS,St. Joseph,MO-KS,123339,1
+Weirton-Steubenville_WV-OH,Weirton-Steubenville,WV-OH,122580,1
+Farmington_NM,Farmington,NM,122427,1
+Winchester_VA-WV,Winchester,VA-WV,121190,1
+Logan_UT-ID,Logan,UT-ID,121090,1
+Augusta-Waterville_ME,Augusta-Waterville,ME,120839,1
+Rapid City_SD,Rapid City,SD,120279,1
+Salisbury_MD,Salisbury,MD,119616,1
+New Bern_NC,New Bern,NC,119450,1
+Idaho Falls_ID,Idaho Falls,ID,119396,1
+Sherman-Denison_TX,Sherman-Denison,TX,118675,1
+Morgantown_WV,Morgantown,WV,117770,1
+Harrisonburg_VA,Harrisonburg,VA,117563,1
+Watertown-Fort Drum_NY,Watertown-Fort Drum,NY,117201,1
+Willimantic_CT,Willimantic,CT,117038,1
+Williamsport_PA,Williamsport,PA,116811,1
+Staunton-Waynesboro_VA,Staunton-Waynesboro,VA,116412,1
+Jonesboro_AR,Jonesboro,AR,116402,1
+Mount Vernon-Anacortes_WA,Mount Vernon-Anacortes,WA,116397,1
+Bowling Green_KY,Bowling Green,KY,116001,1
+Muncie_IN,Muncie,IN,115419,1
+Hammond_LA,Hammond,LA,115398,1
+Sheboygan_WI,Sheboygan,WI,114504,1
+Lawton_OK,Lawton,OK,113811,1
+Victoria_TX,Victoria,TX,113797,1
+Manhattan_KS,Manhattan,KS,113629,1
+Goldsboro_NC,Goldsboro,NC,113590,1
+Wooster_OH,Wooster,OH,113554,1
+Lawrence_KS,Lawrence,KS,113488,1
+Albany-Lebanon_OR,Albany-Lebanon,OR,113264,1
+Anniston-Oxford_AL,Anniston-Oxford,AL,113103,1
+Allegan_MI,Allegan,MI,112761,1
+Jackson_TN,Jackson,TN,112660,1
+Owensboro_KY,Owensboro,KY,112104,1
+Elizabethtown_KY,Elizabethtown,KY,111610,1
+Show Low_AZ,Show Low,AZ,111273,1
+Cleveland_TN,Cleveland,TN,111121,1
+Kankakee-Bradley_IL,Kankakee-Bradley,IL,110705,1
+Ogdensburg-Massena_NY,Ogdensburg-Massena,NY,109809,1
+Michigan City-La Porte_IN,Michigan City-La Porte,IN,109787,1
+Decatur_IL,Decatur,IL,108732,1
+Dunn_NC,Dunn,NC,108721,1
+East Liverpool-Salem_OH,East Liverpool-Salem,OH,108698,1
+San Angelo_TX,San Angelo,TX,108085,1
+Bay City_MI,Bay City,MI,107517,1
+Wenatchee_WA,Wenatchee,WA,107170,1
+Lewiston-Auburn_ME,Lewiston-Auburn,ME,106815,1
+Danville_VA,Danville,VA,105773,1
+Missoula_MT,Missoula,MT,105650,1
+Lima_OH,Lima,OH,105233,1
+Bluefield_WV-VA,Bluefield,WV-VA,105205,1
+Meridian_MS,Meridian,MS,104623,1
+Roseburg_OR,Roseburg,OR,104119,1
+Sumter_SC,Sumter,SC,103943,1
+Bismarck-Mandan _ND,Bismarck-Mandan ,ND,103242,1
+Gadsden_AL,Gadsden,AL,103217,1
+Brunswick_GA,Brunswick,GA,101792,1
+Cookeville_TN,Cookeville,TN,101682,1
+Pine Bluff_AR,Pine Bluff,AR,101484,1
+Adrian_MI,Adrian,MI,101243,1
+Ashtabula_OH,Ashtabula,OH,101141,1
+Ithaca_NY,Ithaca,NY,101055,1
+Whitewater_WI,Whitewater,WI,1800,1
+Gettysburg_PA,Gettysburg,PA,1779,1
+Longview_WA,Longview,WA,1467,1
+Lexington Park_MD,Lexington Park,MD,1378,1
+Kokomo_IN,Kokomo,IN,99845,1
+Sebring_FL,Sebring,FL,99349,1
+Cumberland_MD-WV,Cumberland,MD-WV,99316,1
+Fond du Lac_WI,Fond du Lac,WI,99124,1
+Tullahoma_TN,Tullahoma,TN,99067,1
+Shelby_NC,Shelby,NC,98453,1
+Paducah_KY-IL,Paducah,KY-IL,97791,1
+Richmond-Berea_KY,Richmond-Berea,KY,97790,1
+Grand Forks_ND-MN,Grand Forks,ND-MN,97691,1
+Fairbanks_AK,Fairbanks,AK,97484,1
+Truckee-Grass Valley_CA,Truckee-Grass Valley,CA,97027,1
+Corning_NY,Corning,NY,96874,1
+Ocean City_NJ,Ocean City,NJ,96422,1
+Hot Springs_AR,Hot Springs,AR,96371,1
+Rome_GA,Rome,GA,95618,1
+Enterprise-Ozark_AL,Enterprise-Ozark,AL,94943,1
+Cape Girardeau-Jackson_MO-IL,Cape Girardeau-Jackson,MO-IL,93316,1
+Twin Falls_ID,Twin Falls,ID,93124,1
+Dubuque_IA,Dubuque,IA,92359,1
+Clarksburg_WV,Clarksburg,WV,91688,1
+Mankato-North Mankato_MN,Mankato-North Mankato,MN,91482,1
+New Philadelphia-Dover_OH,New Philadelphia-Dover,OH,91398,1
+Opelousas-Eunice_LA,Opelousas-Eunice,LA,91362,1
+Sunbury_PA,Sunbury,PA,91003,1
+New Castle_PA,New Castle,PA,90991,1
+Brainerd_MN,Brainerd,MN,90371,1
+Orangeburg_SC,Orangeburg,SC,89952,1
+Meadville_PA,Meadville,PA,88663,1
+Palm Coast_FL,Palm Coast,FL,88397,1
+Elmira_NY,Elmira,NY,88015,1
+Beaver Dam_WI,Beaver Dam,WI,87786,1
+Indiana_PA,Indiana,PA,87690,1
+Albertville_AL,Albertville,AL,87644,1
+Pocatello_ID,Pocatello,ID,87609,1
+Bozeman_MT,Bozeman,MT,87359,1
+Kalispell_MT,Kalispell,MT,86844,1
+Cheyenne_WY,Cheyenne,WY,86353,1
+Ukiah_CA,Ukiah,CA,86273,1
+Zanesville_OH,Zanesville,OH,85333,1
+Laurel_MS,Laurel,MS,84834,1
+Ames_IA,Ames,IA,84752,1
+Pendleton-Hermiston_OR,Pendleton-Hermiston,OR,84690,1
+Southern Pines-Pinehurst_NC,Southern Pines-Pinehurst,NC,84435,1
+Sevierville_TN,Sevierville,TN,83527,1
+Moses Lake_WA,Moses Lake,WA,83047,1
+Midland_MI,Midland,MI,82818,1
+Lufkin_TX,Lufkin,TX,82812,1
+Bloomsburg-Berwick_PA,Bloomsburg-Berwick,PA,82543,1
+Plattsburgh_NY,Plattsburgh,NY,82215,1
+Great Falls_MT,Great Falls,MT,81775,1
+DuBois_PA,DuBois,PA,81452,1
+Corvallis_OR,Corvallis,OR,81428,1
+Oak Harbor_WA,Oak Harbor,WA,81326,1
+Danville_IL,Danville,IL,81191,1
+Grants Pass_OR,Grants Pass,OR,81056,1
+Manitowoc_WI,Manitowoc,WI,80928,1
+Russellville_AR,Russellville,AR,80747,1
+Cullman_AL,Cullman,AL,80554,1
+Talladega-Sylacauga_AL,Talladega-Sylacauga,AL,80255,1
+Watertown-Fort Atkinson_WI,Watertown-Fort Atkinson,WI,80213,1
+Olean_NY,Olean,NY,80087,1
+Auburn_NY,Auburn,NY,80066,1
+Columbia_TN,Columbia,TN,79966,1
+Stillwater_OK,Stillwater,OK,79931,1
+Beckley_WV,Beckley,WV,79170,1
+Athens_TX,Athens,TX,78897,1
+Somerset_PA,Somerset,PA,77861,1
+Keene_NH,Keene,NH,77725,1
+Sandusky_OH,Sandusky,OH,77323,1
+Branson_MO,Branson,MO,77273,1
+Quincy_IL-MO,Quincy,IL-MO,77086,1
+Wilson_NC,Wilson,NC,76754,1
+Warsaw_IN,Warsaw,IN,76115,1
+Portsmouth_OH,Portsmouth,OH,75958,1
+Roanoke Rapids_NC,Roanoke Rapids,NC,75890,1
+Chillicothe_OH,Chillicothe,OH,75398,1
+New Iberia_LA,New Iberia,LA,74965,1
+Columbus_IN,Columbus,IN,74750,1
+Findlay_OH,Findlay,OH,74204,1
+Marshfield-Wisconsin Rapids_WI,Marshfield-Wisconsin Rapids,WI,73944,1
+Palatka_FL,Palatka,FL,73821,1
+Centralia_WA,Centralia,WA,73645,1
+Searcy_AR,Searcy,AR,73441,1
+Lancaster_SC,Lancaster,SC,73393,1
+Key West_FL,Key West,FL,73223,1
+Lincolnton_NC,Lincolnton,NC,73106,1
+Mount Airy_NC,Mount Airy,NC,72380,1
+The Villages_FL,The Villages,FL,72246,1
+Hinesville-Fort Stewart_GA,Hinesville-Fort Stewart,GA,71803,1
+Owosso_MI,Owosso,MI,71753,1
+Casper_WY,Casper,WY,71750,1
+Aberdeen_WA,Aberdeen,WA,71335,1
+Helena_MT,Helena,MT,71119,1
+Muskogee_OK,Muskogee,OK,71116,1
+Seneca_SC,Seneca,SC,70753,1
+Port Angeles_WA,Port Angeles,WA,70474,1
+Martinsville_VA,Martinsville,VA,70122,1
+Gallup_NM,Gallup,NM,70059,1
+Grand Island_NE,Grand Island,NE,69944,1
+Frankfort_KY,Frankfort,KY,69670,1
+Galesburg_IL,Galesburg,IL,69257,1
+Shawnee_OK,Shawnee,OK,69038,1
+Marion_IN,Marion,IN,68847,1
+Stevens Point_WI,Stevens Point,WI,68272,1
+Richmond_IN,Richmond,IN,68260,1
+Greenwood_SC,Greenwood,SC,68259,1
+Fort Payne_AL,Fort Payne,AL,68016,1
+Lake City_FL,Lake City,FL,67985,1
+North Wilkesboro_NC,North Wilkesboro,NC,66844,1
+Marinette_WI-MI,Marinette,WI-MI,66820,1
+Mount Pleasant_MI,Mount Pleasant,MI,66693,1
+Klamath Falls_OR,Klamath Falls,OR,66512,1
+Statesboro_GA,Statesboro,GA,66176,1
+Greeneville_TN,Greeneville,TN,65971,1
+Marion_OH,Marion,OH,65248,1
+Marquette_MI,Marquette,MI,65216,1
+Clearlake_CA,Clearlake,CA,64664,1
+Marion-Herrin_IL,Marion-Herrin,IL,64541,1
+Huntsville_TX,Huntsville,TX,63902,1
+LaGrange_GA,LaGrange,GA,63535,1
+Coos Bay_OR,Coos Bay,OR,63505,1
+Marshall_TX,Marshall,TX,63504,1
+Minot_ND,Minot,ND,63465,1
+Athens_OH,Athens,OH,63275,1
+Rutland_VT,Rutland,VT,63270,1
+Morehead City_NC,Morehead City,NC,63238,1
+Hutchinson_KS,Hutchinson,KS,63145,1
+Alamogordo_NM,Alamogordo,NM,63129,1
+Forest City_NC,Forest City,NC,63012,1
+Kapaa_HI,Kapaa,HI,62828,1
+Farmington_MO,Farmington,MO,62810,1
+Roswell_NM,Roswell,NM,62595,1
+Elizabeth City_NC,Elizabeth City,NC,62531,1
+Sturgis_MI,Sturgis,MI,62449,1
+Nacogdoches_TX,Nacogdoches,TX,62435,1
+Oneonta_NY,Oneonta,NY,62397,1
+Hudson_NY,Hudson,NY,62363,1
+Faribault-Northfield_MN,Faribault-Northfield,MN,61955,1
+Charleston-Mattoon_IL,Charleston-Mattoon,IL,61853,1
+Rio Grande City-Roma_TX,Rio Grande City-Roma,TX,61833,1
+Sayre_PA,Sayre,PA,61471,1
+Red Bluff_CA,Red Bluff,CA,61114,1
+Laconia_NH,Laconia,NH,61048,1
+Fremont_OH,Fremont,OH,60997,1
+Salina_KS,Salina,KS,60589,1
+Georgetown_SC,Georgetown,SC,60499,1
+Somerset_KY,Somerset,KY,60148,1
+Lewiston_ID-WA,Lewiston,ID-WA,60043,1
+Crowley_LA,Crowley,LA,59958,1
+Norwalk_OH,Norwalk,OH,59801,1
+Columbus_MS,Columbus,MS,59614,1
+Edwards_CO,Edwards,CO,59272,1
+Sterling_IL,Sterling,IL,59198,1
+Albemarle_NC,Albemarle,NC,59195,1
+Mount Vernon_OH,Mount Vernon,OH,58961,1
+Barre_VT,Barre,VT,58926,1
+Carbondale_IL,Carbondale,IL,58841,1
+Baraboo_WI,Baraboo,WI,58477,1
+Batavia_NY,Batavia,NY,58122,1
+Hobbs_NM,Hobbs,NM,58043,1
+Sanford_NC,Sanford,NC,57973,1
+Walla Walla_WA,Walla Walla,WA,57709,1
+Ruston_LA,Ruston,LA,57701,1
+Enid_OK,Enid,OK,57657,1
+London_KY,London,KY,57351,1
+Picayune_MS,Picayune,MS,57071,1
+Dublin_GA,Dublin,GA,57053,1
+Fergus Falls_MN,Fergus Falls,MN,57031,1
+Granbury_TX,Granbury,TX,56927,1
+Kinston_NC,Kinston,NC,56761,1
+Palestine_TX,Palestine,TX,56760,1
+Fairmont_WV,Fairmont,WV,56728,1
+Tiffin_OH,Tiffin,OH,56705,1
+Ardmore_OK,Ardmore,OK,56694,1
+Point Pleasant_WV-OH,Point Pleasant,WV-OH,56387,1
+Shelton_WA,Shelton,WA,56384,1
+Phoenix Lake-Cedar Ridge_CA,Phoenix Lake-Cedar Ridge,CA,55806,1
+Abbeville_LA,Abbeville,LA,55691,1
+Greenville_MS,Greenville,MS,55644,1
+Milledgeville_GA,Milledgeville,GA,55625,1
+Gloversville_NY,Gloversville,NY,55114,1
+Rochelle_IL,Rochelle,IL,55011,1
+Carson City_NV,Carson City,NV,54939,1
+Ashland_OH,Ashland,OH,54902,1
+Oil City_PA,Oil City,PA,54763,1
+Muscatine_IA,Muscatine,IA,54218,1
+Gaffney_SC,Gaffney,SC,54015,1
+Danville_KY,Danville,KY,53909,1
+Ontario_OR-ID,Ontario,OR-ID,53886,1
+Jasper_IN,Jasper,IN,53830,1
+Waycross_GA,Waycross,GA,53712,1
+Harriman_TN,Harriman,TN,53399,1
+McComb_MS,McComb,MS,53143,1
+Crossville_TN,Crossville,TN,53040,1
+Scottsboro_AL,Scottsboro,AL,53030,1
+Fernley_NV,Fernley,NV,52479,1
+Greenville_OH,Greenville,OH,52205,1
+Athens_TN,Athens,TN,52131,1
+Calhoun_GA,Calhoun,GA,52044,1
+Payson_AZ,Payson,AZ,51994,1
+Warrensburg_MO,Warrensburg,MO,51928,1
+Mason City_IA,Mason City,IA,51701,1
+Eagle Pass_TX,Eagle Pass,TX,51656,1
+Alexander City_AL,Alexander City,AL,51611,1
+Kearney_NE,Kearney,NE,51578,1
+Glasgow_KY,Glasgow,KY,51452,1
+Morgan City_LA,Morgan City,LA,51311,1
+Carlsbad-Artesia_NM,Carlsbad-Artesia,NM,51002,1
+Natchez_MS-LA,Natchez,MS-LA,50768,1
+Malone_NY,Malone,NY,50449,1
+Bartlesville_OK,Bartlesville,OK,49888,1
+Winona_MN,Winona,MN,49802,1
+Durango_CO,Durango,CO,49555,1
+Corsicana_TX,Corsicana,TX,49396,1
+Ocean Pines_MD,Ocean Pines,MD,49374,1
+Paris_TX,Paris,TX,49255,1
+Rexburg_ID,Rexburg,ID,49164,1
+Clinton_IA,Clinton,IA,49051,1
+Vicksburg_MS,Vicksburg,MS,48866,1
+Sidney_OH,Sidney,OH,48834,1
+Platteville_WI,Platteville,WI,48792,1
+Amsterdam_NY,Amsterdam,NY,48695,1
+St. Marys_GA,St. Marys,GA,48689,1
+Elko_NV,Elko,NV,48569,1
+Humboldt_TN,Humboldt,TN,48553,1
+Mount Vernon_IL,Mount Vernon,IL,48413,1
+Cortland_NY,Cortland,NY,48369,1
+Douglas_GA,Douglas,GA,48308,1
+Burlington_IA-IL,Burlington,IA-IL,48288,1
+Jacksonville_TX,Jacksonville,TX,48169,1
+Del Rio_TX,Del Rio,TX,48029,1
+Kerrville_TX,Kerrville,TX,47860,1
+Brigham City_UT,Brigham City,UT,47846,1
+Norfolk_NE,Norfolk,NE,47813,1
+Kendallville_IN,Kendallville,IN,47526,1
+Ca&ntilde;on City_CO,Ca&ntilde;on City,CO,47389,1
+Fort Polk South_LA,Fort Polk South,LA,47380,1
+New Castle_IN,New Castle,IN,47181,1
+Lewistown_PA,Lewistown,PA,46941,1
+Cadillac_MI,Cadillac,MI,46768,1
+Plymouth_IN,Plymouth,IN,46698,1
+Blytheville_AR,Blytheville,AR,46664,1
+Freeport_IL,Freeport,IL,46573,1
+Wapakoneta_OH,Wapakoneta,OH,46429,1
+Oak Hill_WV,Oak Hill,WV,46334,1
+Madisonville_KY,Madisonville,KY,46286,1
+Bellefontaine_OH,Bellefontaine,OH,46279,1
+Coldwater_MI,Coldwater,MI,46194,1
+Bedford_IN,Bedford,IN,46033,1
+Rockingham_NC,Rockingham,NC,45985,1
+Red Wing_MN,Red Wing,MN,45839,1
+Washington_NC,Washington,NC,45771,1
+Culpeper_VA,Culpeper,VA,45723,1
+Ponca City_OK,Ponca City,OK,45638,1
+Huntingdon_PA,Huntingdon,PA,45556,1
+Gardnerville Ranchos_NV,Gardnerville Ranchos,NV,45406,1
+Tahlequah_OK,Tahlequah,OK,45393,1
+Greenwood_MS,Greenwood,MS,45392,1
+Clovis_NM,Clovis,NM,45328,1
+Thomasville_GA,Thomasville,GA,45237,1
+Harrison_AR,Harrison,AR,45011,1
+Bogalusa_LA,Bogalusa,LA,44920,1
+Moultrie_GA,Moultrie,GA,44814,1
+McAlester_OK,McAlester,OK,44711,1
+Boone_NC,Boone,NC,44541,1
+Fort Leonard Wood_MO,Fort Leonard Wood,MO,44326,1
+Bucyrus_OH,Bucyrus,OH,44227,1
+Pahrump_NV,Pahrump,NV,44116,1
+Shelbyville_TN,Shelbyville,TN,44062,1
+Starkville_MS,Starkville,MS,43898,1
+Lewisburg_PA,Lewisburg,PA,43724,1
+Bradford_PA,Bradford,PA,43633,1
+Bemidji_MN,Bemidji,MN,43609,1
+Mount Sterling_KY,Mount Sterling,KY,43584,1
+Cedar City_UT,Cedar City,UT,43526,1
+Blackfoot_ID,Blackfoot,ID,43466,1
+Duncan_OK,Duncan,OK,43322,1
+El Dorado_AR,El Dorado,AR,43230,1
+Selma_AL,Selma,AL,43079,1
+Wilmington_OH,Wilmington,OH,43071,1
+Henderson_NC,Henderson,NC,42992,1
+Nogales_AZ,Nogales,AZ,42845,1
+Fort Madison-Keokuk_IA-MO,Fort Madison-Keokuk,IA-MO,42839,1
+Oxford_MS,Oxford,MS,42716,1
+Claremont_NH,Claremont,NH,42689,1
+Rolla_MO,Rolla,MO,42550,1
+Safford_AZ,Safford,AZ,42523,1
+Menomonie_WI,Menomonie,WI,42329,1
+Cornelia_GA,Cornelia,GA,42272,1
+Seymour_IN,Seymour,IN,42184,1
+Alma_MI,Alma,MI,42141,1
+Big Rapids_MI,Big Rapids,MI,42090,1
+Mountain Home_AR,Mountain Home,AR,41950,1
+Auburn_IN,Auburn,IN,41796,1
+Tifton_GA,Tifton,GA,41610,1
+Cedartown_GA,Cedartown,GA,41460,1
+Poplar Bluff_MO,Poplar Bluff,MO,41326,1
+Pullman_WA,Pullman,WA,41229,1
+Alice_TX,Alice,TX,41119,1
+Warren_PA,Warren,PA,40986,1
+Minden_LA,Minden,LA,40924,1
+El Campo_TX,El Campo,TX,40897,1
+Celina_OH,Celina,OH,40888,1
+Lawrenceburg_TN,Lawrenceburg,TN,40887,1
+Espanola_NM,Espanola,NM,40827,1
+Sedalia_MO,Sedalia,MO,40807,1
+Willmar_MN,Willmar,MN,40784,1
+Rockland_ME,Rockland,ME,40781,1
+La Follette_TN,La Follette,TN,40771,1
+Sikeston_MO,Sikeston,MO,40735,1
+Jacksonville_IL,Jacksonville,IL,40487,1
+Gillette_WY,Gillette,WY,40433,1
+Cambridge_OH,Cambridge,OH,40409,1
+Paragould_AR,Paragould,AR,40397,1
+Okeechobee_FL,Okeechobee,FL,40311,1
+McMinnville_TN,McMinnville,TN,39690,1
+Clewiston_FL,Clewiston,FL,39611,1
+Centralia_IL,Centralia,IL,39587,1
+Durant_OK,Durant,OK,39563,1
+Montrose_CO,Montrose,CO,39527,1
+Burley_ID,Burley,ID,39524,1
+Urbana_OH,Urbana,OH,39522,1
+Natchitoches_LA,Natchitoches,LA,39485,1
+Hastings_NE,Hastings,NE,39320,1
+Marshalltown_IA,Marshalltown,IA,39316,1
+Rock Springs_WY,Rock Springs,WY,39305,1
+Berlin_NH-VT,Berlin,NH-VT,39267,1
+Logansport_IN,Logansport,IN,39193,1
+Aberdeen_SD,Aberdeen,SD,39121,1
+Sault Ste. Marie_MI,Sault Ste. Marie,MI,38922,1
+Walterboro_SC,Walterboro,SC,38903,1
+Emporia_KS,Emporia,KS,38863,1
+Pittsburg_KS,Pittsburg,KS,38860,1
+West Plains_MO,West Plains,MO,38639,1
+Fort Dodge_IA,Fort Dodge,IA,38587,1
+Brownwood_TX,Brownwood,TX,38585,1
+Defiance_OH,Defiance,OH,38543,1
+Ellensburg_WA,Ellensburg,WA,38542,1
+Gainesville_TX,Gainesville,TX,38486,1
+Union City_TN-KY,Union City,TN-KY,38428,1
+Corbin_KY,Corbin,KY,38342,1
+Garden City_KS,Garden City,KS,38295,1
+Pontiac_IL,Pontiac,IL,38258,1
+Selinsgrove_PA,Selinsgrove,PA,38113,1
+Austin_MN,Austin,MN,38040,1
+Hannibal_MO,Hannibal,MO,38016,1
+Vincennes_IN,Vincennes,IN,37949,1
+Crawfordsville_IN,Crawfordsville,IN,37881,1
+Huntington_IN,Huntington,IN,37743,1
+Dyersburg_TN,Dyersburg,TN,37684,1
+Cleveland_MS,Cleveland,MS,37635,1
+Newberry_SC,Newberry,SC,37633,1
+Mayfield_KY,Mayfield,KY,37557,1
+Riverton_WY,Riverton,WY,37479,1
+Escanaba_MI,Escanaba,MI,37367,1
+Astoria_OR,Astoria,OR,37364,1
+Houghton_MI,Houghton,MI,37352,1
+Hutchinson_MN,Hutchinson,MN,37220,1
+Lock Haven_PA,Lock Haven,PA,37213,1
+Scottsbluff_NE,Scottsbluff,NE,37104,1
+Bay City_TX,Bay City,TX,37024,1
+Vidalia_GA,Vidalia,GA,36880,1
+Canton_IL,Canton,IL,36843,1
+Newton_IA,Newton,IA,36748,1
+North Platte_NE,North Platte,NE,36747,1
+Americus_GA,Americus,GA,36655,1
+Peru_IN,Peru,IN,36641,1
+Ada_OK,Ada,OK,36571,1
+Bennington_VT,Bennington,VT,36452,1
+Owatonna_MN,Owatonna,MN,36378,1
+Laurinburg_NC,Laurinburg,NC,36364,1
+Coshocton_OH,Coshocton,OH,36341,1
+Moscow_ID,Moscow,ID,36299,1
+Easton_MD,Easton,MD,36193,1
+Murray_KY,Murray,KY,36189,1
+Alexandria_MN,Alexandria,MN,36075,1
+Fremont_NE,Fremont,NE,36004,1
+Plainview_TX,Plainview,TX,35731,1
+Monroe_WI,Monroe,WI,35727,1
+Stephenville_TX,Stephenville,TX,35633,1
+Corinth_MS,Corinth,MS,35609,1
+Ottumwa_IA,Ottumwa,IA,35551,1
+Dixon_IL,Dixon,IL,35450,1
+Lebanon_MO,Lebanon,MO,35391,1
+Newport_TN,Newport,TN,35337,1
+Susanville_CA,Susanville,CA,35031,1
+De Ridder_LA,De Ridder,LA,34776,1
+Valley_AL,Valley,AL,34764,1
+Arcadia_FL,Arcadia,FL,34675,1
+Batesville_AR,Batesville,AR,34566,1
+Taylorville_IL,Taylorville,IL,34543,1
+Brookhaven_MS,Brookhaven,MS,34529,1
+Coffeyville_KS,Coffeyville,KS,34511,1
+Winfield_KS,Winfield,KS,34251,1
+Seneca Falls_NY,Seneca Falls,NY,34228,1
+Effingham_IL,Effingham,IL,34225,1
+Frankfort_IN,Frankfort,IN,33795,1
+Kill Devil Hills_NC,Kill Devil Hills,NC,33776,1
+Sulphur Springs_TX,Sulphur Springs,TX,33769,1
+Decatur_IN,Decatur,IN,33644,1
+Angola_IN,Angola,IN,33450,1
+Dodge City_KS,Dodge City,KS,33340,1
+Martin_TN,Martin,TN,33227,1
+Bonham_TX,Bonham,TX,33067,1
+Wabash_IN,Wabash,IN,32918,1
+Pella_IA,Pella,IA,32775,1
+Madison_IN,Madison,IN,32704,1
+Beeville_TX,Beeville,TX,32689,1
+Butte-Silver Bow_MT,Butte-Silver Bow,MT,32652,1
+St. Marys_PA,St. Marys,PA,32610,1
+Hope_AR,Hope,AR,32602,1
+Chester_SC,Chester,SC,32531,1
+Miami_OK,Miami,OK,32474,1
+Big Spring_TX,Big Spring,TX,32295,1
+Laramie_WY,Laramie,WY,32227,1
+Brenham_TX,Brenham,TX,32034,1
+Macomb_IL,Macomb,IL,31992,1
+Watertown_SD,Watertown,SD,31977,1
+Columbus_NE,Columbus,NE,31849,1
+Cambridge_MD,Cambridge,MD,31846,1
+Iron Mountain_MI-WI,Iron Mountain,MI-WI,31705,1
+Paris_TN,Paris,TN,31630,1
+Kennett_MO,Kennett,MO,31623,1
+Taos_NM,Taos,NM,31608,1
+Camden_AR,Camden,AR,31603,1
+Central City_KY,Central City,KY,31341,1
+Albert Lea_MN,Albert Lea,MN,31257,1
+Jennings_LA,Jennings,LA,31177,1
+Maysville_KY,Maysville,KY,31075,1
+Indianola_MS,Indianola,MS,30964,1
+Kingsville_TX,Kingsville,TX,30784,1
+Dillon_SC,Dillon,SC,30694,1
+Juneau_AK,Juneau,AK,30690,1
+Eufaula_AL-GA,Eufaula,AL-GA,30607,1
+Washington_IN,Washington,IN,30035,1
+Brevard_NC,Brevard,NC,29984,1
+Lincoln_IL,Lincoln,IL,29962,1
+Troy_AL,Troy,AL,29925,1
+Alpena_MI,Alpena,MI,29707,1
+Silver City_NM,Silver City,NM,29699,1
+Merrill_WI,Merrill,WI,29659,1
+Mount Pleasant_TX,Mount Pleasant,TX,29392,1
+Brookings_SD,Brookings,SD,29241,1
+McPherson_KS,McPherson,KS,29196,1
+Lewisburg_TN,Lewisburg,TN,29179,1
+Jesup_GA,Jesup,GA,29046,1
+Vernal_UT,Vernal,UT,29042,1
+Crescent City_CA,Crescent City,CA,29022,1
+Middlesborough_KY,Middlesborough,KY,28987,1
+Van Wert_OH,Van Wert,OH,28889,1
+Mountain Home_ID,Mountain Home,ID,28856,1
+Wauchula_FL,Wauchula,FL,28830,1
+Bennettsville_SC,Bennettsville,SC,28819,1
+Bastrop_LA,Bastrop,LA,28783,1
+Kirksville_MO,Kirksville,MO,28744,1
+Las Vegas_NM,Las Vegas,NM,28655,1
+Bainbridge_GA,Bainbridge,GA,28544,1
+Jackson_WY-ID,Jackson,WY-ID,28351,1
+Washington Court House_OH,Washington Court House,OH,28308,1
+North Vernon_IN,North Vernon,IN,28106,1
+Sheridan_WY,Sheridan,WY,27998,1
+Fort Morgan_CO,Fort Morgan,CO,27961,1
+Union_SC,Union,SC,27770,1
+Great Bend_KS,Great Bend,KS,27768,1
+Fitzgerald_GA,Fitzgerald,GA,27584,1
+Thomaston_GA,Thomaston,GA,27562,1
+Clarksdale_MS,Clarksdale,MS,27543,1
+Hays_KS,Hays,KS,27464,1
+Mineral Wells_TX,Mineral Wells,TX,27321,1
+Grants_NM,Grants,NM,27261,1
+Yazoo City_MS,Yazoo City,MS,27187,1
+Deming_NM,Deming,NM,26996,1
+Forrest City_AR,Forrest City,AR,26900,1
+Summerville_GA,Summerville,GA,26797,1
+Lexington_NE,Lexington,NE,26715,1
+Uvalde_TX,Uvalde,TX,26581,1
+Silverthorne_CO,Silverthorne,CO,26547,1
+Boone_IA,Boone,IA,26391,1
+Harrisburg_IL,Harrisburg,IL,26102,1
+New Ulm_MN,New Ulm,MN,26013,1
+Mexico_MO,Mexico,MO,25892,1
+Altus_OK,Altus,OK,25778,1
+Fort Valley_GA,Fort Valley,GA,25672,1
+Moberly_MO,Moberly,MO,25590,1
+Toccoa_GA,Toccoa,GA,25268,1
+Greensburg_IN,Greensburg,IN,24959,1
+Fallon_NV,Fallon,NV,24891,1
+La Grande_OR,La Grande,OR,24753,1
+Marshall_MN,Marshall,MN,24695,1
+Magnolia_AR,Magnolia,AR,24351,1
+Connersville_IN,Connersville,IN,24273,1
+Campbellsville_KY,Campbellsville,KY,23917,1
+City of The Dalles_OR,City of The Dalles,OR,23762,1
+Scottsburg_IN,Scottsburg,IN,23679,1
+Arkadelphia_AR,Arkadelphia,AR,23585,1
+Fredericksburg_TX,Fredericksburg,TX,23507,1
+Spearfish_SD,Spearfish,SD,23347,1
+Dickinson_ND,Dickinson,ND,23256,1
+Beatrice_NE,Beatrice,NE,23219,1
+Liberal_KS,Liberal,KS,23109,1
+Grenada_MS,Grenada,MS,23076,1
+Pierre Part_LA,Pierre Part,LA,22991,1
+Wahpeton_ND-MN,Wahpeton,ND-MN,22916,1
+Prineville_OR,Prineville,OR,22906,1
+Pampa_TX,Pampa,TX,22878,1
+Marshall_MO,Marshall,MO,22701,1
+Mitchell_SD,Mitchell,SD,22641,1
+Tuskegee_AL,Tuskegee,AL,22336,1
+Oskaloosa_IA,Oskaloosa,IA,22280,1
+Levelland_TX,Levelland,TX,22226,1
+Cordele_GA,Cordele,GA,22125,1
+Maryville_MO,Maryville,MO,22120,1
+Helena-West Helena_AR,Helena-West Helena,AR,22035,1
+Parsons_KS,Parsons,KS,21973,1
+Borger_TX,Borger,TX,21845,1
+Brookings_OR,Brookings,OR,21767,1
+Yankton_SD,Yankton,SD,21645,1
+Hood River_OR,Hood River,OR,21296,1
+Sterling_CO,Sterling,CO,21055,1
+West Point_MS,West Point,MS,20969,1
+Ruidoso_NM,Ruidoso,NM,20783,1
+Heber_UT,Heber,UT,20535,1
+Raymondville_TX,Raymondville,TX,20513,1
+Jamestown_ND,Jamestown,ND,20480,1
+Fairmont_MN,Fairmont,MN,20462,1
+Evanston_WY,Evanston,WY,20195,1
+Worthington_MN,Worthington,MN,20128,1
+Dumas_TX,Dumas,TX,20081,1
+Guymon_OK,Guymon,OK,20032,1
+Storm Lake_IA,Storm Lake,IA,19776,1
+Elk City_OK,Elk City,OK,19700,1
+Pierre_SD,Pierre,SD,19667,1
+Price_UT,Price,UT,19634,1
+Williston_ND,Williston,ND,19540,1
+Woodward_OK,Woodward,OK,19505,1
+Portales_NM,Portales,NM,19142,1
+Brownsville_TN,Brownsville,TN,19126,1
+Los Alamos_NM,Los Alamos,NM,18558,1
+Hereford_TX,Hereford,TX,18452,1
+Bishop_CA,Bishop,CA,17449,1
+Spirit Lake_IA,Spirit Lake,IA,16696,1
+Spencer_IA,Spencer,IA,16689,1
+Atchison_KS,Atchison,KS,16571,1
+Havre_MT,Havre,MT,16568,1
+Snyder_TX,Snyder,TX,16011,1
+Huron_SD,Huron,SD,15669,1
+Sweetwater_TX,Sweetwater,TX,14614,1
+Vernon_TX,Vernon,TX,14037,1
+Lamesa_TX,Lamesa,TX,13870,1
+Vermillion_SD,Vermillion,SD,13364,1
+Ketchikan_AK,Ketchikan,AK,13227,1
+Andrews_TX,Andrews,TX,13140,1
+Kodiak_AK,Kodiak,AK,12997,1
+Tallulah_LA,Tallulah,LA,11858,1
+Pecos_TX,Pecos,TX,11183,1

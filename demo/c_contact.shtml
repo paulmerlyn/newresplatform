@@ -1,0 +1,296 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/MasterTemplate1F.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="CONTENT-LANGUAGE" CONTENT="en-US">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Contact New Resolution&reg; Mediators</title>
+<meta NAME="description" CONTENT="Contact members of the New Resolution network of independent mediators.">
+<meta NAME="keywords" CONTENT="contact, New Resolution, mediators">
+<!-- InstanceEndEditable -->
+<link href="/nrcss.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="http://newresolutionmediation.com/favicon.ico" type="image/x-icon">
+<SCRIPT language="JavaScript" src="/milonic_src.js" type="text/javascript"></SCRIPT>
+<script language="JavaScript" type="text/javascript">
+if(ns4)_d.write("<scr"+"ipt language='JavaScript' src='/mmenuns4.js'><\/scr"+"ipt>");
+else _d.write("<scr"+"ipt language='JavaScript' src='/mmenudom.js'><\/scr"+"ipt>"); </script>
+<SCRIPT language='JavaScript' src="/menu_data_1.js" type='text/javascript'></SCRIPT>
+<script type="text/javascript" src="/openmenusbyurl.js"></script>
+<script language="JavaScript" src="/scripts/emailaddresschecker.js" type="text/javascript"></script>
+<script language="JavaScript" src="/scripts/windowpops.js" type='text/javascript'></script>
+<!-- InstanceBeginEditable name="head" -->
+<script type="text/javascript" src="/scripts/coremediatorfunctions.js"></script>
+<script type="text/javascript" src="/scripts/dynamicformutility.js"></script>
+<script type="text/javascript" src="/scripts/cookiefunctions.js"></script>
+<!-- InstanceEndEditable --><!-- InstanceParam name="ReferralTable" type="boolean" value="false" --><!-- InstanceParam name="LocationsList" type="boolean" value="false" --><!-- InstanceParam name="Statcounter" type="boolean" value="true" --><!-- InstanceParam name="GoogleAnalytics" type="boolean" value="true" --><!-- InstanceParam name="Google Analytics Tracking Code" type="boolean" value="true" -->
+</head>
+
+<body>
+<div id="main">
+<div id="relwrapper">
+
+<script type="text/javascript"> 
+var _gaq = _gaq || []; 
+_gaq.push(['_setAccount', 'UA-1100858-3']); 
+_gaq.push(['_trackPageview']); 
+(function() { 
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga); 
+})(); 
+</script>
+
+<a name="backtotop"></a>
+<a href="index.shtml" onClick="wintasticself('index.shtml'); return false;"><img src="/images/mediation_animlogo.gif" alt="New Resolution logo" width="204" height="96" class="toprightlogo_1" border="0">
+<div id="toprightlogotm_1" style="color: #000000;">&reg;</div><div id="LLCsuffix_1">LLC</div></a>
+<table width="100%"  border="0" cellpadding="0" cellspacing="0"><!--DWLayoutTable-->
+  <tr>
+    <td width="750"><img src="/images/TangBlock.jpg" alt="tangerine block" width="750" height="100"></td>
+    <td height="100%" rowspan="4">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>
+	<a href="r_onlinehelp.php"><img style="position: absolute; top: 100px; left: 672px" src="/images/WrenchIcon.jpg" alt="Mediation Self-Help" border="0"></a>
+	<a href="locations.php"><img style="position: absolute; top: 100px; left: 40px" src="/images/LocationIcon.jpg" alt="Our Locations" border="0"></a>
+	<a href="index.shtml"><img style="position: absolute; top: 100px; left: 0px" src="/images/HomeIcon.jpg" alt="Tour Site" border="0"></a>
+	</td>
+  </tr>
+  <tr>
+    <td height="86"><img src="/images/tangmenubg.jpg" alt="mediation" width="750" height="30" class="tangmenucover_1"></td>
+  </tr>
+  <tr>
+    <td width="750"><!-- InstanceBeginEditable name="Content" -->
+		<script type="text/javascript" src="scripts/utilitymediatordata.js"></script>
+		<script type="text/javascript" src="/scripts/utilitymediatorcode.js"></script>
+	<h1>Contact Us</h1>
+	<p class="text">You may contact our <a href="s_mediators.shtml" onClick="wintasticsecond('s_mediators.shtml'); return false;">mediators</a> directly to discuss how mediation can help you:</p>
+	<form method="post" name="contactus" onSubmit="return emailCheck(this.email.value,'standard')" action="/scripts/formmail.php">
+	<table class="formmargins" cellspacing="0" cellpadding="0">
+	<tr>
+	<td class="formcol1_2">
+	<script type="text/javascript">
+	contactpageflag = true;
+	document.write(GenerateLocalesDrop()); // Don't confuse this with very similar GenerateUniqueLocaleDrop() function.
+	</script>
+   	 </td>
+	 </tr>
+	 </table>
+    <HR align="left" size="1px" noshade color="#FF9900" class="formdivider3">
+<div id="instructions" style="display:block">
+<table style='margin-left:150px' class='invertbox1' width='470' cellpadding='10px' cellspacing='0'>
+	<tr><td>Mediator contact information will appear here when you select a locale.</td></tr>
+</table>
+<HR align="left" size="1px" noshade color="#FF9900" class="formdivider3">
+</div>
+<div id="holding_pen1" style="display: none"></div>
+<p class="text">Alternatively, select one or more mediator(s) via the checkbox(es) above and fill out the form below. Your request will be sent directly to the selected mediator(s):<br>
+	  <br>
+	  </p>
+	  <table class="formmargins">
+	  <tr>
+	  	<td class="formcol1">
+		<label for="realname">Your name:&nbsp;</label>
+		<input type="text" name="realname" id="realname" size="19" maxlength="30">
+		<span class="tangsup">&nbsp;&nbsp;<b>*</b> (required)</span>
+		</td>
+		<td colspan="2" class="formcol2_3">
+		<label for="title_p1">Title:&nbsp;</label>
+		<select name="title_p1" id="title_p1" style="font-size: 12px; font-weight:normal; font-family:Arial,Helvetica,'Century Gothic',sans-serif" onChange="document.getElementById('primary_areacode_p1').focus();">
+		<option value="">&lt;&nbsp;select&nbsp;&gt;</option>
+		<option value="Mr.">Mr</option>
+		<option value="Ms.">Ms</option>
+		<option value="Mrs.">Mrs</option>
+		<option value="Dr.">Dr</option>
+		<option value="Professor">Prof</option>
+		</select>
+		</td>
+		<td></td>
+	  </tr>
+	  <tr>
+	  	<td class="formcol1">
+		<label for="primary_areacode_p1">Tel (primary):&nbsp;</label>
+		<input type="text" name="primary_areacode_p1" id="primary_areacode_p1" size="3" maxlength="3" onKeyUp="if (document.getElementById('primary_areacode_p1').value.length == 3) document.getElementById('primary_localcode_p1').focus();">
+		&nbsp;&nbsp;&nbsp;<input type="text" name="primary_localcode_p1" id="primary_localcode_p1" size="3" maxlength="3" onKeyUp="if (document.getElementById('primary_localcode_p1').value.length == 3) document.getElementById('primary_tel_p1').focus();">
+		&ndash;&nbsp;<input type="text" name="primary_tel_p1" id="primary_tel_p1" size="4" maxlength="4">
+		<span class="tangsup">&nbsp;&nbsp;<b>*</b></span>
+		</td>
+		<td class="formcol2_3_4">
+		<input type="checkbox" name="prim_tel_type_p1" id="prim_tel_is_home_p1" value="home">
+		<label for="prim_tel_is_home_p1">Home&nbsp;&nbsp;&nbsp;</label>
+		<input type="checkbox" name="prim_tel_type_p1" id="prim_tel_is_work_p1" value="work">
+		<label for="prim_tel_is_work_p1">Work&nbsp;&nbsp;&nbsp;</label>
+		<input type="checkbox" name="prim_tel_type_p1" id="prim_tel_is_cell_p1" value="cell">
+		<label for="prim_tel_is_cell_p1">Cell</label>
+		</td>
+	  </tr>
+	  <tr>
+	  	<td class="formcol1">
+		<label for="secondary_areacode_p1">Tel (secondary):&nbsp;</label>
+		<input type="text" name="secondary_areacode_p1" id="secondary_areacode_p1" size="3" maxlength="3" onKeyUp="if (document.getElementById('secondary_areacode_p1').value.length == 3) document.getElementById('secondary_localcode_p1').focus();">
+		&nbsp;&nbsp;&nbsp;<input type="text" name="secondary_localcode_p1" size="3" maxlength="3" onKeyUp="if (document.getElementById('secondary_localcode_p1').value.length == 3) document.getElementById('secondary_tel_p1').focus();">
+		&ndash;&nbsp;<input type="text" name="secondary_tel_p1" size="4" maxlength="4">
+		</td>
+		<td class="formcol2_3_4">
+		<input type="checkbox" name="sec_tel_type_p1" id="sec_tel_is_home" value="home">
+		<label for="sec_tel_is_home">Home&nbsp;&nbsp;&nbsp;</label>
+		<input type="checkbox" name="sec_tel_type_p1" id="sec_tel_is_work" value="work">
+		<label for="sec_tel_is_work">Work&nbsp;&nbsp;&nbsp;</label>
+		<input type="checkbox" name="sec_tel_type_p1" id="sec_tel_is_cell" value="cell">
+		<label for="sec_tel_is_cell">Cell</label>
+		</td>
+	  </tr>
+	  <tr>
+	  <td colspan="4">
+	  <span class="basictextbold">May we call you?</span>
+		<input type="checkbox" name="may_we_call_p1" id="yes_call_p1" value="yes">
+		<label for="yes_call_p1">Yes&nbsp;&nbsp;</label>
+		<input type="checkbox" name="may_we_call_p1" id="no_call_p1" value="no">
+		<label for="no_call_p1">No</label>
+	  </td>
+	  </tr>
+	  <tr>
+	  <td colspan="4" valign="top">
+	  <span class="basictextbold">Please indicate when we may call:&nbsp;&nbsp;&nbsp;</span>
+	  <input type="checkbox" name="call_p1_mornings" id="call_p1_mornings" value="mornings">
+	  <label for="call_p1_mornings">Mornings&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+	  <input type="checkbox" name="call_p1_lunch" id="call_p1_lunch" value="lunchtime">
+	  <label for="call_p1_lunch">Lunch&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+	  <input type="checkbox" name="call_p1_afternoons" id="call_p1_afternoons" value="afternoons">
+	  <label for="call_p1_afternoons">Afternoons</label><br>
+	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	  <input type="checkbox" name="call_p1_evenings" id="call_p1_evenings" value="evenings">
+	  <label for="call_p1_evenings">Evenings&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+	  <input type="checkbox" name="call_p1_weekdays" id="call_p1_weekdays" value="weekdays">
+	  <label for="call_p1_weekdays">Weekdays</label>
+	  <input type="checkbox" name="call_p1_weekends" id="call_p1_weekends" value="Saturday">
+	  <label for="call_p1_weekends">Saturdays&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+	  <br>
+	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <input type="text" name="other_time_to_call_p1" id="other_time_to_call_p1" size="30" maxlength="50">
+	  <label for="other_time_to_call_p1">Other (specify)</label>
+	  </td> 
+	  </tr>
+	  <tr>
+	  <td colspan="4">
+	  <label for="email">E-mail address:&nbsp;</label>
+	  <input type="text" name="email" id="email" size="30" maxlength="45">
+      <span class="tangsup">&nbsp;&nbsp;<b>*</b></span>
+	  </td>
+	  </tr>
+	  <tr>
+	  <td colspan="4">
+	  <label for="notes"><span style="position:relative;bottom:120px">Notes:&nbsp;</span></label>
+	  <textarea name="notes" id="notes" rows="10" cols="55" wrap="soft"></textarea>
+	  </td></tr>
+	  </table>
+	  <br>
+<!-- Form validation: The emailCheck() function (in the external emailaddresschecker.js file) performs client-side validation of P1's email-address. The emailCheck() function is invoked by the onSubmit event handler within the <form> tag. I currently have no other client-side form validation. All the rest of the validation is via FormMail's server-side utility, whereby the hidden field name = 'required' (below) allows me to specify which form fields must have values. -->
+<!-- Very important. If the server-side validation utility picks up an error, the error page will load and the user will then be sent back to the form. This results in the form being redisplayed with whatever values the user had previously entered still displaying. It is necessary to reset the locale drop-down menu to its default value of 'no_locale_selected' (see GenerateUniqueLocaleDrop() in coremediatorfunctions.js) using the onClick="document.forms[0].locale.selectedIndex = 0" event handler because failure to do so may result in the following scenario: -->
+<!-- Scenario: (i) User selects a locale with multiple mediators (e.g. Dallas), (ii) the form displays a drop-down of Dallas mediators, (iii) the user completes every field except that she doesn't select any mediator from that mediators drop-down, (iv) the user submits the form by clicking the 'Submit' button, (v) the server-side validation utility detects an error because the user's failure to select a mediator means that the 'recipients' field (a required field) still has its null ("") value, (vi) the error page is loaded, (vii) the user reads the error page content and clicks back to the form page, (viii) the form page reloads, displaying the locale drop-down still set to Dallas and showing no mediators drop-down. Such a scenario is a problem because there's nothing on the redisplayed form page that would trigger the user to change the locale drop-down selection from and back to Dallas in order to trigger the redisplaying of the mediators drop-down. Hence, my solution to averting this scenario is to force the locale field to reset to a value of 'no locale selected', thereby forcing the user to select again her locale and (hopefully) this time notice that she also needs to select a mediator from the mediators drop-down menu that will subsequently appear (unless there's only one mediator automatically assigned for the chosen locale). -->
+<!-- The following table encapsulates captcha, as implemented via integration of third-party Securimage CAPTCHA (see www.phpcaptcha.org). I tried and failed to get formmail.php to integrate with either Tectite's natively recommended CAPTCHA implementation and White Hat's implementation (see www.white-hat-web-design.co.uk/articles/php-captcha.php), which I used in mediationcareersform.shtml (at the time of creating that form, I hadn't yet discovered Securimage CAPTCHA. Securimage CAPTCHA works great as a code injection to formmail.php. However, it's a more complex solution than White Hat's CAPTCHA. -->
+<table class="formmargins" cellspacing="0" cellpadding="5">
+<tr>
+<td height="60px" valign="bottom">
+<img id="captcha" src="/scripts/securimage/securimage_show.php" alt="CAPTCHA Image"/ style="margin-left: 195px;"><br>
+</td>
+</tr>
+<tr>
+<td height="20px" valign="middle">
+<label style="margin-left: 215px;">Security Code:</label><br>
+</td>
+</tr>
+<tr>
+<td align="center" height="70px" valign="middle">
+<div style="margin-left: 208px;">
+<input type="text" name="captcha_code" size="10" maxlength="6"/>
+&nbsp;&nbsp;<a href="#" class="indexlink" onclick="document.getElementById('captcha').src = '/scripts/securimage/securimage_show.php?' + Math.random(); return false">Load Alternate Image</a>
+</div>
+</td>
+</tr>
+</table>
+<input type="submit" class="buttonstyle" style="margin-left:380px; margin-bottom:20px;" value="Submit">
+	<input type="hidden" name="subject" value="Contact Request">
+	<div id="mediatoremailholder"></div>
+	<input type="hidden" name="required" value="email:Email address of sender is ,realname:Name of sender is " />
+	<!-- I have commented out the autorespond feature for formmail.php because it will only work if I integrate verifyimg.php (an anti-spamming image-matching utility where the user must type a random sequence of wavy characters) - see http://www.tectite.com/fmhowto/autorespond.php. I don't think it's worth the trouble to effect an autoresponse. -->
+<!--	<input type="hidden" name="autorespond" value="Subject=We Have Received Your Request,PlainTemplate=submitautoreply.txt"/>  -->
+	<input type="hidden" name="derive_fields" value="Name=title_p1+realname, Primary_phone=primary_areacode_p1+primary_localcode_p1+primary_tel_p1+prim_tel_type_p1,Secondary_phone=secondary_areacode_p1+secondary_localcode_p1+secondary_tel_p1+sec_tel_type_p1,Permission_and_best_time_to_call=may_we_call_p1+call_p1_mornings+call_p1_lunch+call_p1_afternoons+call_p1_evenings+call_p1_weekdays+call_p1_weekends+other_time_to_call_p1,Email=email,Notes=notes"/>
+	  <input type="hidden" name="mail_options" value="KeepLines,Exclude=title_p1;realname;locale;primary_areacode_p1;primary_localcode_p1;primary_tel_p1;prim_tel_type_p1;secondary_areacode_p1;secondary_localcode_p1;secondary_tel_p1;sec_tel_type_p1;may_we_call_p1;time_to_call_p1;other_time_to_call_p1;email;notes,PlainTemplate=contactussubmitemail.txt,TemplateMissing=blank"/>
+	  <input type="hidden" name="good_url" value="http://www.newresolutionmediation.com/demo/submitsuccess.shtml">
+	  <script type='text/javascript' language='javascript'>var a = new Array('hoo.','a','y', 'pa','mer','ul','lyn','@','com');document.write("<input type='hidden' name='bcc' value='"+a[3]+a[5]+a[4]+a[6]+a[7]+a[2]+a[1]+a[0]+a[8]+"'>");</script>
+	  </form>
+<p class="privacy"><b>Privacy Statement.</b>&nbsp;&nbsp;Your privacy is important.&nbsp;&nbsp;We will only contact you with permission.&nbsp;&nbsp;We never 
+rent, sell or otherwise release your personal information to third parties without your explicit consent.</p>
+<script type="text/javascript" language="javascript">
+PresetLocalesDropSelection();  //Call this function to (i) get the value of the "selectedlocale" cookie,  (ii) preset the selected option to match the value of this cookie, and (iii) show/hide either the "instructions" div or the div for the selected locale accordingly. Make sure it's called AFTER I've declared the position of the mediatoremailholder div.
+</script>
+<!-- InstanceEndEditable --></td>
+  </tr>
+  
+
+<tr>
+    <td height="40" valign="bottom">
+	   <div id="copyright">&copy; <?php echo date("Y"); ?> New Resolution LLC. All rights reserved. <a class="footer" href="sitemap.shtml">Site Map</a>&nbsp;|&nbsp;<a class="footer" href="/scripts/updateprofile.php">Log In</a>&nbsp;|&nbsp;<a class="footer" href="/mediationcareersform.shtml" onClick="window.open('/mediationcareersform.shtml','','height=615,width=750,top=30,left=290,scrollbars=yes,menubar=no,toolbar=no,location=no,status=yes'); return false;">Careers</a>&nbsp;|&nbsp;
+<script type='text/javascript'><!--
+var v2="GT8BC3B8MXVANVDIFET4CPDDI2MDGJN5H4";var v7=unescape("%24%3BV6%22P6x%23%3D%213+%25+%2531%3D%5B-%3D%21%20%20S9-%28%24%60V%27Y");var v5=v2.length;var v1="";for(var v4=0;v4<v5;v4++){v1+=String.fromCharCode(v2.charCodeAt(v4)^v7.charCodeAt(v4));}document.write('<a class="footer" href="javascript:void(0)" onclick="window.location=\'mail\u0074o\u003a'+v1+'?subject=Inquiry'+'\'">Email<\/a>');
+//--></script><noscript><a class="footer" href='http://w2.syronex.com/jmr/safemailto/#noscript'>Email</a></noscript></div></td></tr>
+</table>
+<?php require('/home/paulme6/public_html/nrmedlic/ssi/noscriptnavigation.php'); ?>
+
+<!-- Place this tag where you want the +1 button to render (Note: I have two +1 buttons on each page.) -->
+<span id="plusone"><g:plusone size="small" count="false" href="<?php
+function curPageURL() // Courtesy: http://www.webcheatsheet.com/PHP/get_current_page_url.php
+	{
+	$pageURL = 'http';
+	if ($_SERVER["HTTPS"] == "on") {$pageURL .= "s";}
+	$pageURL .= "://";
+	if ($_SERVER["SERVER_PORT"] != "80")
+		{
+		$pageURL .= $_SERVER["SERVER_NAME"].":".$_SERVER["SERVER_PORT"].$_SERVER["REQUEST_URI"];
+		} 
+	else
+		{
+		$pageURL .= $_SERVER["SERVER_NAME"].$_SERVER["REQUEST_URI"];
+		}
+	return $pageURL;
+	}
+echo curPageURL();
+?>
+"></g:plusone></span>
+<!--  Place this tag after the last plusone tag -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=5651836; 
+var sc_invisible=1; 
+var sc_partition=60; 
+var sc_click_stat=1; 
+var sc_security="97c14d16"; 
+</script>
+
+<script type="text/javascript"
+src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="joomla counter"
+href="http://www.statcounter.com/joomla/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/5651836/0/97c14d16/1/"
+alt="joomla counter" ></a></div></noscript>
+<!-- End of StatCounter Code -->
+
+</div>
+</div>
+</body>
+<!-- InstanceEnd --></html>

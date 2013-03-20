@@ -1,0 +1,480 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/MasterTemplate1F.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="CONTENT-LANGUAGE" CONTENT="en-US">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Division of Marital Property/Community Property/Separate Property in Divorce Mediation</title>
+<meta NAME="description" CONTENT="Describes how marital/community property and non-marital/separate property is divided in divorce by either mediated settlement or divorce litigation.">
+<meta NAME="keywords" CONTENT="marital property,separate property,non-marital,community property,division of property,litigation,estate,equitable settlement, mediation,valuation,date of separation">
+<!-- InstanceEndEditable -->
+<link href="/nrcss.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="http://newresolutionmediation.com/favicon.ico" type="image/x-icon">
+<SCRIPT language="JavaScript" src="/milonic_src.js" type="text/javascript"></SCRIPT>
+<script language="JavaScript" type="text/javascript">
+if(ns4)_d.write("<scr"+"ipt language='JavaScript' src='/mmenuns4.js'><\/scr"+"ipt>");
+else _d.write("<scr"+"ipt language='JavaScript' src='/mmenudom.js'><\/scr"+"ipt>"); </script>
+<SCRIPT language='JavaScript' src="/menu_data_1.js" type='text/javascript'></SCRIPT>
+<script type="text/javascript" src="/openmenusbyurl.js"></script>
+<script language="JavaScript" src="/scripts/emailaddresschecker.js" type="text/javascript"></script>
+<script language="JavaScript" src="/scripts/windowpops.js" type='text/javascript'></script>
+<!-- InstanceBeginEditable name="head" -->
+<script type="text/javascript" src="/scripts/coremediatorfunctions.js"></script>
+<script type="text/javascript" src="/scripts/dynamicformutility.js"></script>
+<script src="/scripts/cookiefunctions.js"></script>
+<!-- InstanceEndEditable --><!-- InstanceParam name="ReferralTable" type="boolean" value="true" --><!-- InstanceParam name="LocationsList" type="boolean" value="true" --><!-- InstanceParam name="Statcounter" type="boolean" value="true" --><!-- InstanceParam name="GoogleAnalytics" type="boolean" value="true" --><!-- InstanceParam name="Google Analytics Tracking Code" type="boolean" value="true" -->
+</head>
+
+<body>
+<div id="main">
+<div id="relwrapper">
+
+<script type="text/javascript"> 
+var _gaq = _gaq || []; 
+_gaq.push(['_setAccount', 'UA-1100858-3']); 
+_gaq.push(['_trackPageview']); 
+(function() { 
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga); 
+})(); 
+</script>
+
+<a name="backtotop"></a>
+<a href="index.shtml" onClick="wintasticself('index.shtml'); return false;"><img src="/images/mediation_animlogo.gif" alt="New Resolution logo" width="204" height="96" class="toprightlogo_1" border="0">
+<div id="toprightlogotm_1" style="color: #000000;">&reg;</div><div id="LLCsuffix_1">LLC</div></a>
+<table width="100%"  border="0" cellpadding="0" cellspacing="0"><!--DWLayoutTable-->
+  <tr>
+    <td width="750"><img src="/images/TangBlock.jpg" alt="tangerine block" width="750" height="100"></td>
+    <td height="100%" rowspan="4">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>
+	<a href="r_onlinehelp.php"><img style="position: absolute; top: 100px; left: 672px" src="/images/WrenchIcon.jpg" alt="Mediation Self-Help" border="0"></a>
+	<a href="locations.php"><img style="position: absolute; top: 100px; left: 40px" src="/images/LocationIcon.jpg" alt="Our Locations" border="0"></a>
+	<a href="index.shtml"><img style="position: absolute; top: 100px; left: 0px" src="/images/HomeIcon.jpg" alt="Tour Site" border="0"></a>
+	</td>
+  </tr>
+  <tr>
+    <td height="86"><img src="/images/tangmenubg.jpg" alt="mediation" width="750" height="30" class="tangmenucover_1"></td>
+  </tr>
+  <tr>
+    <td width="750"><!-- InstanceBeginEditable name="Content" -->
+		<script type="text/javascript" src="scripts/utilitymediatordata.js"></script>
+		<script type="text/javascript" src="/scripts/utilitymediatorcode.js"></script>
+	<h1>Property Division</h1>
+	<form name="generatestatesform">
+	<table class="formmargins" cellspacing="0" cellpadding="0">
+	<tr>
+	<td class="formcol1_2">
+	<script type="text/javascript" language="javascript">
+	document.write(GenerateStatesDrop());
+	</script>
+   	 </td>
+	 </tr>
+	 </table>
+	 </form>
+    <HR align="left" size="1px" noshade color="#FF9900" class="formdivider4">
+	<div id="instructions" style="display:block">
+	<div class="basictextsemiparag">
+	<table class='invertbox2' width='470' cellpadding='10px' cellspacing='0'>
+	<tr><td>State-specific information will appear here when you select a state.</td></tr>
+	</table>
+	</div>
+	<HR align="left" size="1px" noshade color="#FF9900" class="formdivider4">
+	</div>
+	<div id="CA" style="display: none">
+	<h2>Separate & Community Property</h2>
+	<p class="text">When spouses divorce or legally separate in California, they are each entitled to their separate property and 
+	a half share of so-called community property.</p>
+	<table class="propertydefs" cellspacing="0">
+	<tr>
+	<td>
+	<p class="seriftext"><span class="seriftextbold">property</span>&nbsp;<i>n.</i>&nbsp;all assets and debts, including real property, retirement accounts, stocks, bonds, cash, business interests, intellectual property, household furnishings, and loans.</p>
+	<p class="seriftext"><span class="seriftextbold">separate property</span>&nbsp;<i>n.</i>&nbsp;any property, and 
+	the rents and profits therefrom, acquired by one spouse (i) before marriage, (ii) after marriage through gift or 
+	inheritance, or (iii) through the exchange of other separate property (e.g. cash from sale of a house owned before 
+	marriage). The earnings and accumulations of one spouse after the date of separation are also the separate property 
+	of that spouse.</p>
+	<p class="seriftext"><span class="seriftextbold">community property</span>&nbsp;<i>n.</i>&nbsp;any property 
+	acquired by either spouse between the date of marriage and the date of separation, excepting gifts, inheritances, 
+	and property acquired through the exchange of separate property (e.g. cash from the sale of a house owned before 
+	marriage).</p>
+	<p class="seriftext"><span class="seriftextbold">date of separation</span>&nbsp;<i>n.</i>&nbsp;absent a statutory 
+	definition in California, generally the date on which the spouses separate with intent to end the marital 
+	relationship, either by one leaving the marital home or by agreeing to separate while sharing a residence 
+	without sexual relations.</p>
+	</td>
+	</tr>
+	</table>
+	<h2>Dividing Community Property</h2>
+	<p class="text">Identifying what&rsquo;s separate property and what&rsquo;s community property is the easy part 
+	in most cases. For example, the wife&rsquo;s Steinway piano inherited from her grandfather during her marriage 
+	remains her separate property whereas retire-<br>
+	ment accounts funded during the marriage are community property and therefore
+	subject to division.</p>
+	<p class="text">For property as for other aspects of a marital settlement &mdash; <a href="d_support.shtml" onClick="wintasticsecond('d_support.shtml'); return false;">child support</a>, 
+	<a href="d_support.shtml" onClick="wintasticsecond('d_support.shtml'); return false;">spousal support</a>, and <a href="d_children.shtml" onClick="wintasticsecond('d_children.shtml'); return false;">children</a> &mdash; you 
+	have a choice: You can either litigate, ultimately allowing a judge to decide who gets what, or you can settle 
+	your own division of community property. Our professional mediators help spouses achieve an equitable division that 
+	serves both their interests. Compare litigation with mediation and decide for yourself  which is the better way to 
+	divide your estate.</p>
+	<h2>Litigation</h2>
+	<p class="text">Unless your  estate is extensive, you&rsquo;ll likely have to liquidate much of it to 
+	pay your respective attorneys. But cost isn&rsquo;t the only reason to think twice before engaging your spouse 
+	in litigation. A fight over property is emotionally exhausting, and the ensuing rancor can poison your relationship 
+	forever. Community property litigation can also slow a divorce or legal separation while spouses squabble over 
+	valuations and rightful ownership. And the  fees expended will often far exceed the 
+	value of the disputed items.</p>
+	<p class="text">In addition, you&rsquo;ll surrender <a href="l_empowerment.shtml" onClick="wintasticsecond('l_empowerment.shtml'); return false;">control</a> of the outcome, allowing a judge to make decisions 
+	such as when and whether the family home should be sold and who should keep which items. Moreover, supposing an unwillingness 
+	to settle before the trial date, a judge&rsquo;s ruling is likely to offend both your and your spouse&rsquo;s sense 
+	of an equitable division.</p>
+	<h2>Mediation</h2>
+	<p class="text">Quite different from contest-oriented litigation, mediation approaches property division as a 
+	set of problems or questions to resolve: What are the assets and debts in our estate? Which items are separate 
+	property and which are community property? How can we determine fair valuations for each item of community 
+	property? How should the community property be divided?</p>
+	<p class="text">To help answer these questions,  parties may choose to meet as often as they wish with their <a href="m_mat.shtml" onClick="wintasticsecond('m_mat.shtml'); return false;">consultant attorneys</a> and other experts such as appraisers and CPAs. In this way, you retain control, agreeing only to a property division that you feel is fair. Furthermore, by avoiding the <a href="l_costs.shtml" onClick="wintasticsecond('l_costs.shtml'); return false;">cost</a> of litigation, the total professional fees for dividing your property will be considerably lower in mediation.</p>
+	<p class="text">Couples frequently argue or withdraw when they try to talk to each other about a division of 
+	property. Our skilled and experienced mediators will help you through such an impasse by reviewing 
+	options such as:</p>
+	<ul class="bulletv1">
+	<li><span class="basictextbold">Cash buyout.</span> One party can acquire an item by purchasing the other party's interest in that item. <i>Example: 
+	the wife pays the husband $35,000 from her separate property for an undivided interest in her (community property) company pension.</i></li>
+	<li><span class="basictextbold">Sale or liquidation.</span> Some or all of the community estate can be sold and the proceeds allocated. <i>Example: 
+	the vacation home is sold for $92,000 in equity after paying the balance on the mortgage and real-estate fees.</i></li>
+	<li><span class="basictextbold">Barter or in-kind exchange.</span> Each party takes certain community property in exchange for yielding to the other party an interest in other items. <i>Example: the husband gains exclusive ownership of the truck and sailboat in exchange 
+	for the minivan and the household furnishings.</i></li>
+	</ul>
+	<p class="text">Presuming you reach an agreement, your mediator will draft it as a <a href="d_msa.shtml" onClick="wintasticsecond('d_msa.shtml'); return false;">Memorandum of Understanding</a> 
+	(MoU). This document describes the property division along with other proposed aspects of your  settlement in 
+	clear language. You can each review the MoU with your consultant attorneys and make any changes as necessary.</p>
+	<p class="text">You may then ask either our <!-- <a href="http://www.burkefamilylaw.net" onClick="wintasticthirdparty('http://www.burkefamilylaw.net'); return false;"> -->attorney-in-residence <!--</a> &mdash; Katherine Burke of <a href="http://www.burkefamilylaw.net" onClick="wintasticthirdparty('http://www.burkefamilylaw.net'); return false;">Burke Family Law</a> &mdash; -->or any other attorney on whom you both agree or a Legal Document Assistant to prepare a Marital Settlement Agreement based on your MoU for filing with the court.</p>
+	<p class="text" style="text-align: right"><a href="http://www.supportcourt.com/california_family_law_code.htm" rel="nofollow" onClick="wintasticthirdparty('http://www.supportcourt.com/california_family_law_code.htm'); return false;">[Divorce laws of California]</a></p>
+	</div>
+	<div id="AZ" style="display: none">
+	<h2>Separate & Community Property</h2>
+	<p class="text">When spouses divorce or legally separate in Arizona, they are each entitled to their separate property and a half share of so-called community property.</p>
+	<table class="propertydefs" cellspacing="0">
+	<tr>
+	<td>
+	<p class="seriftext"><span class="seriftextbold">property</span>&nbsp;<i>n.</i>&nbsp;all assets and debts, including real property, retirement accounts, stocks, bonds, cash, business interests, intellectual property, household furnishings, and loans.</p>
+	<p class="seriftext"><span class="seriftextbold">separate property</span>&nbsp;<i>n.</i>&nbsp;any property, and the increase in rents and profits therefrom, acquired by one spouse before marriage or after marriage through gift or inheritance. The earnings and accumulations of one spouse after the date of service of a petition for dissolution of marriage, legal separation, or annulment are also the separate property of that spouse if the petition results in a decree of dissolution of marriage, legal separation, or annulment.</p>
+	<p class="seriftext"><span class="seriftextbold">community property</span>&nbsp;<i>n.</i>&nbsp;any property acquired by either spouse between the date of marriage and the date of service of a petition for dissolution of marriage, legal separation, or annulment, excepting gifts and inheritances.</p>
+	<p class="seriftext"><span class="seriftextbold">date of separation</span>&nbsp;<i>n.</i>&nbsp;absent a statutory definition in California, generally the date on which the spouses separate with intent to end the marital relationship, either by one leaving the marital home or by agreeing to separate while sharing a residence without sexual relations.</p>
+	</td>
+	</tr>
+	</table>
+	<h2>Dividing Community Property</h2>
+	<p class="text">Identifying what&rsquo;s separate property and what&rsquo;s community property is the easy part in most cases. For example, the wife&rsquo;s Steinway piano inherited from her grandfather during her marriage remains her separate property whereas at least a portion of any retirement accounts funded from either spouse&rsquo;s income during the marriage will be community property and therefore subject to division.</p>
+	<p class="text">For property as for other aspects of a marital settlement &mdash; <a href="d_support.shtml" onClick="wintasticsecond('d_support.shtml'); return false;">child support</a>, 
+	<a href="d_support.shtml" onClick="wintasticsecond('d_support.shtml'); return false;">spousal maintenance</a>, and <a href="d_children.shtml" onClick="wintasticsecond('d_children.shtml'); return false;">children</a> &mdash; you have a choice: You can either litigate, ultimately allowing a judge to decide who gets what, or you can settle your own division of community property. Our professional mediators help spouses achieve an equitable division that serves both their interests. Compare litigation with mediation and decide for yourself  which is the better way to divide your estate.</p>
+	<h2>Litigation</h2>
+	<p class="text">Unless your  estate is extensive, you&rsquo;ll likely have to liquidate much of it to 
+	pay your respective attorneys. But cost isn&rsquo;t the only reason to think twice before engaging your spouse in litigation. A fight over property is emotionally exhausting, and the ensuing rancor can poison your relationship forever. Community property litigation can also slow a divorce or legal separation while spouses squabble over valuations and rightful ownership. And the  fees expended will often far exceed the 
+	value of the disputed items.</p>
+	<p class="text">In addition, you&rsquo;ll surrender <a href="l_empowerment.shtml" onClick="wintasticsecond('l_empowerment.shtml'); return false;">control</a> of the outcome, allowing a judge to make decisions such as when and whether the family home should be sold and who should keep which items. Moreover, supposing an unwillingness to settle before the trial date, a judge&rsquo;s ruling is likely to offend both your and your spouse&rsquo;s sense of an equitable division.</p>
+	<h2>Mediation</h2>
+	<p class="text">Quite different from contest-oriented litigation, mediation approaches property division as a set of problems or questions to resolve: What are the assets and debts in our estate? Which items are separate property and which are community property? How can we determine fair valuations for each item of community property? How should the community property be divided?</p>
+	<p class="text">To help answer these questions,  parties may choose to meet as often as they wish with their <a href="m_mat.shtml" onClick="wintasticsecond('m_mat.shtml'); return false;">consultant attorneys</a> and other experts such as appraisers and CPAs. In this way, you retain control, agreeing only to a property division that you feel is fair. Furthermore, by avoiding the <a href="l_costs.shtml" onClick="wintasticsecond('l_costs.shtml'); return false;">cost</a> of litigation, the total professional fees for dividing your property will be considerably lower in mediation.</p>
+	<p class="text">Couples frequently argue or withdraw when they try to talk to each other about a division of property. Our skilled and experienced mediators will help you through such an impasse by reviewing 
+	options such as:</p>
+	<ul class="bulletv1">
+	<li><span class="basictextbold">Cash buyout.</span> One party can acquire an item by purchasing the other party's interest in that item. <i>Example: the wife pays the husband $35,000 from her separate property for an undivided interest in her (community property) company pension.</i></li>
+	<li><span class="basictextbold">Sale or liquidation.</span> Some or all of the community estate can be sold and the proceeds allocated. <i>Example: the vacation home is sold for $92,000 in equity after paying the balance on the mortgage and real-estate fees.</i></li>
+	<li><span class="basictextbold">Barter or in-kind exchange.</span> Each party takes certain community property in exchange for yielding to the other party an interest in other items. <i>Example: the husband gains exclusive ownership of the truck and sailboat in exchange for the minivan and the household furnishings.</i></li>
+	</ul>
+	<p class="text">Presuming you reach an <a href="d_msa.shtml" onClick="wintasticsecond('d_msa.shtml'); return false;">agreement</a>, your mediator will draft it as a Memorandum of Understanding (MoU) or Marital Settlement Agreement (MSA).</p>
+	<p class="text" style="text-align: right"><a href="http://www.azleg.state.az.us/ArizonaRevisedStatutes.asp?Title=25" rel="nofollow" onClick="wintasticthirdparty('http://www.azleg.state.az.us/ArizonaRevisedStatutes.asp?Title=25'); return false;">[Divorce laws of Arizona]</a></p>
+	</div>
+	<div id="NM" style="display: none">
+	<h2>Separate & Community Property</h2>
+	<p class="text">When spouses divorce or legally separate in New Mexico, they are each entitled to their separate property and a half share of so-called community property.</p>
+	<table class="propertydefsnoimage" cellspacing="0">
+	<tr>
+	<td>
+	<p class="seriftext"><span class="seriftextbold">property</span>&nbsp;<i>n.</i>&nbsp;all assets and debts, including real property, retirement accounts, stocks, bonds, cash, business interests, intellectual property, household furnishings, and loans.</p>
+	<p class="seriftext"><span class="seriftextbold">separate property</span>&nbsp;<i>n.</i>&nbsp;property acquired by either spouse before marriage, after entry of a decree of dissolution of marriage or legal separation, or by gift or inheritance during the marriage. Property designated as separate property by a written agreement between the spouses is also designated as separate property.</p>
+	<p class="seriftext"><span class="seriftextbold">community property</span>&nbsp;<i>n.</i>&nbsp;all property acquired by either spouse during the marriage that is not separate property.</p>
+	</td>
+	</tr>
+	</table>
+	<h2>Dividing Community Property</h2>
+	<p class="text">Identifying what&rsquo;s separate property and what&rsquo;s community property is the easy part in most cases. For example, the wife&rsquo;s Steinway piano inherited from her grandfather during her marriage remains her separate property whereas at least a portion of any retirement accounts funded from either spouse&rsquo;s income during the marriage will be community property and therefore subject to division.</p>
+	<p class="text">For property as for other aspects of a marital settlement &mdash; <a href="d_support.shtml" onClick="wintasticsecond('d_support.shtml'); return false;">child support</a>, <a href="d_support.shtml" onClick="wintasticsecond('d_support.shtml'); return false;">spousal support</a>, and <a href="d_children.shtml" onClick="wintasticsecond('d_children.shtml'); return false;">children</a> &mdash; you have a choice: You can either litigate, allowing a judge to decide in this way, or you can settle your own division of marital property. Our professional mediators help spouses achieve an equitable division that serves both their interests. Compare litigation with mediation and decide for yourself which is the better way to divide your estate.</p>
+	<h2>Litigation</h2>
+	<p class="text">Unless your estate is extensive, you&rsquo;ll likely have to liquidate much of it to pay your respective attorneys. But cost isn&rsquo;t the only reason to think twice before engaging your spouse in litigation. A fight over property is emotionally exhausting, and the ensuing rancor can poison your relationship forever. Property litigation can also slow a divorce while spouses squabble over valuations and rightful ownership. And the fees expended will often far exceed the value of the disputed items.</p>
+	<p class="text">In addition, you&rsquo;ll surrender control of the outcome, allowing a judge to make decisions such as when and whether the family home should be sold and who should keep which items. Moreover, supposing an unwillingness to settle before the trial date, a judge&rsquo;s ruling is likely to offend both your and your spouse&rsquo;s sense of an equitable division.</p>
+	<h2>Mediation</h2>
+	<p class="text">Quite different from contest-oriented litigation, mediation approaches property division as a set of problems or questions to resolve: What are the assets and debts in our estate? Which items are community property and which are separate property? How can we determine fair valuations for each item of community property? How should the community property be divided?</p>
+	<p class="text">To help answer these questions, parties may choose to meet as often as they wish with their <a href="m_mat.shtml" onClick="wintasticsecond('m_mat.shtml'); return false;">consultant attorneys</a> and other experts such as appraisers and CPAs. In this way, you retain control, agreeing only to a property division that you feel is fair. Furthermore, by avoiding the <a href="l_costs.shtml" onClick="wintasticsecond('l_costs.shtml'); return false;">cost</a> of litigation, the total professional fees for dividing your property will be considerably lower in mediation.</p>
+	<p class="text">Couples frequently argue or withdraw when they try to talk to each other about a division of property. Our skilled and experienced mediators will help you through such an impasse by reviewing options such as:</p>
+</p>
+	<ul class="bulletv1">
+	<li><span class="basictextbold">Cash buyout.</span> One party can acquire an item by purchasing the other party's interest in that item. <i>Example: the wife pays the husband $35,000 from her separate property for an undivided interest in her (community property) company pension.</i></li>
+	<li><span class="basictextbold">Sale or liquidation.</span> Some or all of the community estate can be sold and the proceeds allocated. <i>Example: the vacation home is sold for $92,000 in equity after paying the balance on the mortgage and real-estate fees.</i></li>
+	<li><span class="basictextbold">Barter or in-kind exchange.</span> Each party takes certain community property in exchange for yielding to the other party an interest in other items. <i>Example: the husband gains exclusive ownership of the truck and sailboat in exchange for the minivan and the household furnish-<br>ings.</i></li>
+	</ul>
+	<p class="text">Presuming you reach an agreement, your mediator will draft it as a <a href="d_msa.shtml" onClick="wintasticsecond('d_msa.shtml'); return false;">Marital Settlement Agreement</a> or <a href="d_msa.shtml" onClick="wintasticsecond('d_msa.shtml'); return false;">Memorandum of Understanding</a>.</p>
+	<p class="text" style="text-align: right"><a href="http://www.conwaygreene.com/nmsu/lpext.dll?f=templates&fn=main-h.htm&2.0" rel="nofollow" onClick="wintasticthirdparty('http://www.conwaygreene.com/nmsu/lpext.dll?f=templates&fn=main-h.htm&2.0'); return false;">[Divorce laws of New Mexico]</a></p>
+	</div>
+	<div id="WA" style="display: none">
+	<h2>Separate & Community Property</h2>
+	<p class="text">When spouses divorce or legally separate in New Mexico, they are each entitled to their separate property and a half share of so-called community property.</p>
+	<table class="propertydefsnoimage" cellspacing="0">
+	<tr>
+	<td>
+	<p class="seriftext"><span class="seriftextbold">property</span>&nbsp;<i>n.</i>&nbsp;all assets and debts, including real property, retirement accounts, stocks, bonds, cash, business interests, intellectual property, household furnishings, and loans.</p>
+	<p class="seriftext"><span class="seriftextbold">separate property</span>&nbsp;<i>n.</i>&nbsp;property acquired by either spouse before marriage, after entry of a decree of dissolution of marriage or legal separation, or by gift or inheritance during the marriage.</p>
+	<p class="seriftext"><span class="seriftextbold">community property</span>&nbsp;<i>n.</i>&nbsp;any property acquired by either spouse during the marriage, excepting gifts, inheritances.</p>
+	</td>
+	</tr>
+	</table>
+	<h2>Dividing Property</h2>
+	<p class="text">In most cases, the judge will award separate property to its associated spouse, and the  presumption for division of community property is an equal share to each spouse. However, Washington provides few specific laws on how a judge must divide property as part of a <a href="d_divandsep.shtml" onClick="wintasticsecond('d_divandsep.shtml'); return false;">dissolution of marriage</a>, <a href="d_divandsep.shtml" onClick="wintasticsecond('d_divandsep.shtml'); return false;">legal separation</a>, or <a href="d_divandsep.shtml" onClick="wintasticsecond('d_divandsep.shtml'); return false;">declaration of invalidity</a>. Title 26, <a href="http://apps.leg.wa.gov/RCW/default.aspx?cite=26.09.080" rel="nofollow" onclick="wintasticthirdparty('http://apps.leg.wa.gov/RCW/default.aspx?cite=26.09.080'); return false;">&sect;09.80</a> requires that the disposition be &ldquo;just and equitable&rdquo; and consider &ldquo;all relevant factors including, but not limited to&rdquo; the following:</p>
+	<ul class="bulletv1">
+	<li>The nature and extent of the community and the separate property.</li>
+	<li>The duration of the marriage.</li>
+	<li>The economic circumstances of each spouse at the time the division of property is to become effective, including the desirability of awarding the family home or the right to live therein for reasonable periods to a spouse with whom the children reside the majority of the time.</li>
+	</ul>
+	<p class="text">A judge can, for example, consider property acquired while spouses were living together before marriage when determining an equitable property division. A judge may also consider any disparity in their earning power after the marriage.</p>
+	<p class="text">Identifying what&rsquo;s separate property and what&rsquo;s community property is the easy part in most cases. For example, the wife&rsquo;s Steinway piano inherited from her grandfather during her marriage is her separate property whereas at least a portion of any retirement accounts funded from either spouse&rsquo;s income during the marriage will be community property and therefore subject to division.</p>
+	<p class="text">For property as for other aspects of a marital settlement &mdash; <a href="d_support.shtml" onClick="wintasticsecond('d_support.shtml'); return false;">child support</a>, <a href="d_support.shtml" onClick="wintasticsecond('d_support.shtml'); return false;">spousal maintenance</a>, and <a href="d_children.shtml" onClick="wintasticsecond('d_children.shtml'); return false;">children</a> &mdash; you have a choice: You can either litigate, allowing a judge to decide in this way, or you can settle your own division of marital property. Our professional mediators help spouses achieve an equitable division that serves both their interests. Compare litigation with mediation and decide for your-<br>self which is the better way to divide your estate.</p>
+	<h2>Litigation</h2>
+	<p class="text">Unless your estate is extensive, you&rsquo;ll likely have to liquidate much of it to pay your respective attorneys. But cost isn&rsquo;t the only reason to think twice before engaging your spouse in litigation. A fight over property is emotionally exhausting, and the ensuing rancor can poison your relationship forever. Property litigation can also slow a divorce while spouses squabble over valuations and rightful ownership. And the fees expended will often far exceed the value of the disputed items.</p>
+	<p class="text">In addition, you&rsquo;ll surrender control of the outcome, allowing a judge to make decisions such as when and whether the family home should be sold and who should keep which items. Moreover, supposing an unwillingness to settle before the trial date, a judge&rsquo;s ruling is likely to offend both your and your spouse&rsquo;s sense of an equitable division.</p>
+	<h2>Mediation</h2>
+	<p class="text">Quite different from contest-oriented litigation, mediation approaches property division as a set of problems or questions to resolve: What are the assets and debts in our estate? Which items are community property and which are separate property? How can we determine fair valuations for each item of community property? How should the community property be divided?</p>
+	<p class="text">To help answer these questions, parties may choose to meet as often as they wish with their <a href="m_mat.shtml" onClick="wintasticsecond('m_mat.shtml'); return false;">consultant attorneys</a> and other experts such as appraisers and CPAs. In this way, you retain control, agreeing only to a property division that you feel is fair. Furthermore, by avoiding the <a href="l_costs.shtml" onClick="wintasticsecond('l_costs.shtml'); return false;">cost</a> of litigation, the total professional fees for dividing your property will be considerably lower in mediation.</p>
+	<p class="text">Couples frequently argue or withdraw when they try to talk to each other about a division of property. Our skilled and experienced mediators will help you through such an impasse by reviewing options such as:</p>
+</p>
+	<ul class="bulletv1">
+	<li><span class="basictextbold">Cash buyout.</span> One party can acquire an item by purchasing the other party's interest in that item. <i>Example: the wife pays the husband $35,000 from her separate property for an undivided interest in her (community property) company pension.</i></li>
+	<li><span class="basictextbold">Sale or liquidation.</span> Some or all of the community estate can be sold and the proceeds allocated. <i>Example: the vacation home is sold for $92,000 in equity after paying the balance on the mortgage and real-estate fees.</i></li>
+	<li><span class="basictextbold">Barter or in-kind exchange.</span> Each party takes certain community property in exchange for yielding to the other party an interest in other items. <i>Example: the husband gains exclusive ownership of the truck and sailboat in exchange for the minivan and the household furnish-<br>ings.</i></li>
+	</ul>
+	<p class="text">Presuming you reach an agreement, your mediator will draft it as a <a href="d_msa.shtml" onClick="wintasticsecond('d_msa.shtml'); return false;">Marital Settlement Agreement</a> or <a href="d_msa.shtml" onClick="wintasticsecond('d_msa.shtml'); return false;">Memorandum of Understanding</a>.</p>
+	<p class="text" style="text-align: right"><a href="http://apps.leg.wa.gov/RCW/default.aspx?cite=26.09&full=true" rel="nofollow" onClick="wintasticthirdparty('http://apps.leg.wa.gov/RCW/default.aspx?cite=26.09&full=true'); return false;">[Divorce laws of Washington]</a></p>
+	</div>
+	<div id="FL" style="display: none">
+	<h2>Marital & Nonmarital Property</h2>
+	<p class="text">When spouses divorce or legally separate in Florida, they are each entitled to their nonmarital property and an equitable share of marital property.</p>
+	<table class="propertydefsnoimage" cellspacing="0">
+	<tr>
+	<td>
+	<p class="seriftext"><span class="seriftextbold">marital property</span>&nbsp;<i>n.</i>&nbsp;property acquired and debts incurred by either spouse or jointly between the date of marriage and the <em>cut-off date</em> (see below), including the enhancement in value of nonmarital assets resulting from the efforts of either spouse or the contribution of marital assets during the marriage; interspousal gifts during the marriage; all benefits accrued during the marriage in retirement, pension, profit-sharing, annuity, deferred compensation, and insurance plans, including both vested and nonvested benefits; and all real property held by the parties as tenants by the entireties, whether acquired prior to or during the marriage. (If a party makes a claim that such real property is nonmarital, the burden of proof is on the claimant.)</p>
+	<p class="seriftext"><span class="seriftextbold">nonmarital property</span>&nbsp;<i>n.</i>&nbsp;assets acquired and liabilities incurred by either party prior to the marriage, and assets acquired and liabilities incurred in exchange for such assets and liabilities; assets acquired separately by either party by noninterspousal gift or inheritance, and assets acquired in exchange for such assets; income derived from nonmarital assets during the marriage unless the income was treated, used, or relied upon by the parties as a marital asset; assets and liabilities excluded from marital assets and liabilities by valid written agreement of the parties, and assets acquired and liabilities incurred in exchange for such assets and liabilities; and any liability incurred by forgery or unauthorized signature of one spouse signing for the other spouse unless ratified by the other spouse.</p>
+	<p class="seriftext"><span class="seriftextbold">cut-off date</span>&nbsp;<i>n.</i>&nbsp;the earliest of (1) the date of filing a petition for dissolution of marriage, <br>(2) the date of a valid separation agreement, or (3) any date mutually agreed by the spouses and recorded in their separation agreement.</p>
+	</td>
+	</tr>
+	</table>
+	<h2>Dividing Marital Property</h2>
+	<p class="text">Identifying what&rsquo;s marital property and what&rsquo;s nonmarital property is the easy part in most cases. For example, the wife&rsquo;s Steinway piano inherited from her grand-<br>father during her marriage is her nonmarital property (unless she gifted it to her husband), whereas at least a portion of any retirement accounts funded from either spouse&rsquo;s income during the marriage will be marital property.</p>
+	<p class="text">When a judge divides marital property, the division should be equal, unless the judge determines an unequal division is more equitable in light of the following:</p>
+	<ul class="bulletv1">
+	<li>Contributions to the marriage by each spouse, including contributions to the care and education of children and services as homemaker.</li>
+	<li>The economic circumstances of the parties.</li>
+	<li>The duration of the marriage.</li>
+	<li>Any interruption of careers or educational opportunities for either party.</li>
+	<li>The contribution of one spouse to the other&rsquo;s career or educational advancement.</li>
+	<li>The desirability of retaining any asset, including an interest in a business, corporation, or professional practice, intact and free from any claim or interference by the other party.</li>
+	<li>The contribution of each spouse to the production of income, the enhance-<br>ment of marital and nonmarital assets, and the reduction or incurring of both marital and nonmarital liabilities.</li>
+	<li>The desirability of retaining the marital home as a residence for any dependent child of the marriage.</li>
+	<li>The intentional waste, or destruction of marital assets after the filing of the petition or within two years prior to filing.</li>
+	<li>Any other factors relevant to equity and justice between the parties.</li>
+	</ul>
+	<p class="text">For property as for other aspects of a marital settlement &mdash; <a href="d_support.shtml" onClick="wintasticsecond('d_support.shtml'); return false;">child support</a>, <a href="d_support.shtml" onClick="wintasticsecond('d_support.shtml'); return false;">alimony</a>, and <a href="d_children.shtml" onClick="wintasticsecond('d_children.shtml'); return false;">children</a> &mdash; you have a choice: You can either litigate, allowing a judge to decide in this way, or you can settle your own division of marital property. Our professional mediators help spouses achieve an equitable division that serves both their interests. Compare litigation with mediation and decide for yourself which is the better way to divide your estate.</p>
+	<h2>Litigation</h2>
+	<p class="text">Unless your estate is extensive, you&rsquo;ll likely have to liquidate much of it to pay your respective attorneys. But cost isn&rsquo;t the only reason to think twice before engaging your spouse in litigation. A fight over property is emotionally exhausting, and the ensuing rancor can poison your relationship forever. Property litigation can also slow a divorce while spouses squabble over valuations and rightful ownership. And the fees expended will often far exceed the value of the disputed items.</p>
+	<p class="text">In addition, you&rsquo;ll surrender control of the outcome, allowing a judge to make decisions such as when and whether the family home should be sold and who should keep which items. Moreover, supposing an unwillingness to settle before the trial date, a judge&rsquo;s ruling is likely to offend both your and your spouse&rsquo;s sense of an equitable division.</p>
+	<h2>Mediation</h2>
+	<p class="text">Quite different from contest-oriented litigation, mediation approaches property division as a set of problems or questions to resolve: What are the assets and debts in our estate? Which items are marital property and which are nonmarital property? How can we determine fair valuations for each item of marital property? How should the marital property be divided?</p>
+	<p class="text">To help answer these questions, parties may choose to meet as often as they wish with their <a href="m_mat.shtml" onClick="wintasticsecond('m_mat.shtml'); return false;">consultant attorneys</a> and other experts such as appraisers and CPAs. In this way, you retain control, agreeing only to a property division that you feel is fair. Furthermore, by avoiding the <a href="l_costs.shtml" onClick="wintasticsecond('l_costs.shtml'); return false;">cost</a> of litigation, the total professional fees for dividing your property will be considerably lower in mediation.</p>
+	<p class="text">Couples frequently argue or withdraw when they try to talk to each other about a division of property. Our skilled and experienced mediators will help you through such an impasse by reviewing options such as:</p>
+</p>
+	<ul class="bulletv1">
+	<li><span class="basictextbold">Cash buyout.</span> One party can acquire an item by purchasing the other party's interest in that item. <i>Example: the wife pays the husband $35,000 from her separate (nonmarital) property for an undivided interest in her (marital property) company pension.</i></li>
+	<li><span class="basictextbold">Sale or liquidation.</span> Some or all of the marital estate can be sold and the proceeds allocated. <i>Example: the vacation home is sold for $92,000 in equity after paying the balance on the mortgage and real-estate fees.</i></li>
+	<li><span class="basictextbold">Barter or in-kind exchange.</span> Each party takes certain marital property in exchange for yielding an interest in other items. <i>Example: the husband gains exclusive ownership of the truck and sailboat in exchange for the minivan and the household furnishings.</i></li>
+	</ul>
+	<p class="text">Presuming you reach an agreement, your mediator will draft it as a <a href="d_msa.shtml" onClick="wintasticsecond('d_msa.shtml'); return false;">Marital Settlement Agreement</a> or <a href="d_msa.shtml" onClick="wintasticsecond('d_msa.shtml'); return false;">Memorandum of Understanding</a>.</p>
+	<p class="text" style="text-align: right"><a href="http://www.flsenate.gov/Statutes/index.cfm?App_mode=Display_Statute&URL=Ch0061/ch0061.htm" rel="nofollow" onClick="wintasticthirdparty('http://www.flsenate.gov/Statutes/index.cfm?App_mode=Display_Statute&URL=Ch0061/ch0061.htm'); return false;">[Divorce laws of Florida]</a></p>
+	</div>
+	<div id="TX" style="display: none">
+	<h2>Separate and Community Property and Debts</h2>
+	<p class="text">When spouses divorce or legally separate in Texas, they are each entitled to their separate property and debts and an equitable share of so-called community (or marital) property and debts.</p>
+	<table class="propertydefsnoimage" cellspacing="0">
+	<tr>
+	<td>
+	<p class="seriftext"><span class="seriftextbold">property</span>&nbsp;<i>n.</i>&nbsp;all assets, including real property, retirement accounts, stocks, bonds, cash, business interests, intellectual property, household furnishings, and loans.</p>
+	<p class="seriftext"><span class="seriftextbold">debts</span>&nbsp;<i>n.</i>&nbsp;all debts, including unsecured credit card debt, mortgage notes, loans, liens, tort liabilities, and other judgments.</p>
+	<p class="seriftext"><span class="seriftextbold">separate property</span>&nbsp;<i>n.</i>&nbsp;property acquired by either spouse before marriage; after entry of a decree of dissolution of marriage; by gift or inheritance during the marriage; or from a recovery for personal injuries sustained by the spouse during marriage, except any portion of the recovery for loss of earnings. Property designated as separate property by a Marital Settlement Agreement (or other contract) between the spouses is also separate property.</p>
+	<p class="seriftext"><span class="seriftextbold">separate debts</span>&nbsp;<i>n.</i>&nbsp;debts incurred by one spouse before the marriage; after entry of a decree of dissolution of marriage; during the marriage unless the debts were for necessary expenses, or the other spouse acted as an agent for the spouse who incurred the debt. Debts designated as separate by a Marital Settlement Agreement (or other contract) between the spouses are also designated as separated but are still subject to the rights of preexisting creditors.</p>
+	<p class="seriftext"><span class="seriftextbold">community property</span>&nbsp;<i>n.</i>&nbsp;all property acquired by either spouse during the marriage that is not separate property.</p>
+	<p class="seriftext"><span class="seriftextbold">community debts</span>&nbsp;<i>n.</i>&nbsp;debts incurred by either spouse during the marriage that are not separate debts.</p>
+	</td>
+	</tr>
+	</table>
+	<h2>Dividing Community Property and Debts</h2>
+	<p class="text">Identifying which property and debts are separate and which are community is the easy part in most cases. For example, the wife&rsquo;s Steinway piano inherited from her grandfather during her marriage remains her separate property whereas at least a portion of any retirement accounts funded from either spouse&rsquo;s income during the marriage will be community property and therefore subject to division.</p>
+	<p class="text">As with other aspects of a marital settlement &mdash; <a href="d_support.shtml" onClick="wintasticsecond('d_support.shtml'); return false;">maintenance</a>, <a href="d_support.shtml" onClick="wintasticsecond('d_support.shtml'); return false;">child support</a>, and <a href="d_children.shtml" onClick="wintasticsecond('d_children.shtml'); return false;">parenting arrangements</a> &mdash; you have a choice: You can either litigate, allowing a judge to decide the property division, or you can devise your own property settle-<br>ment. Our professional mediators help spouses achieve an equitable division that serves both their interests. Compare litigation with mediation and decide for yourself which is the better way to divide your estate.</p>
+	<h2>Litigation</h2>
+	<p class="text">Spouses can litigate the division of their property, asking a judge to decide. The judge must consider many factors in determining an equitable division, including:</p>
+	<ul class="bulletv1">
+	<li>Fault in the breakdown of the marriage.</li>
+	<li>Any disparity in the spouses&rsquo; earning power and their ability to support themselves with reference to their health, education, employability, and separate property.</li>
+	<li>Special needs of children in reference to each parent&rsquo;s time share.</li>
+	</ul>
+	<p class="text">Unless your estate is extensive, you&rsquo;ll likely have to liquidate much of it to pay your respective attorneys. But cost isn&rsquo;t the only reason to think twice before engaging your spouse in litigation. A fight over property is emotionally exhausting, and the ensuing rancor can poison your relationship forever. Property litigation can also slow a divorce while spouses squabble over valuations and rightful ownership. And the fees expended will often far exceed the value of the disputed items.</p>
+	<p class="text">In addition, you&rsquo;ll surrender control of the outcome, allowing a judge to make decisions such as when and whether the family home should be sold and who should keep which items. Moreover, supposing an unwillingness to settle before the trial date, a judge&rsquo;s ruling is likely to offend both your and your spouse&rsquo;s sense of an equitable division.</p>
+	<h2>Mediation</h2>
+	<p class="text">Quite different from contest-oriented litigation, mediation approaches property division as a set of problems or questions to resolve: What are the assets and debts in our estate? Which items are community property and which are separate property? How can we determine fair valuations for each item of community property? How should the community property be divided?</p>
+	<p class="text">To help answer these questions, parties may choose to meet as often as they wish with their <a href="m_mat.shtml" onClick="wintasticsecond('m_mat.shtml'); return false;">consultant attorneys</a> and other experts such as appraisers and CPAs. In this way, you retain control, agreeing only to a property division that you feel is fair. Furthermore, by avoiding the <a href="l_costs.shtml" onClick="wintasticsecond('l_costs.shtml'); return false;">cost</a> of litigation, the total professional fees for dividing your property will be considerably lower in mediation.</p>
+	<p class="text">Couples frequently argue or withdraw when they try to talk to each other about a division of property. Our skilled and experienced mediators will help you through such an impasse by reviewing options such as:</p>
+</p>
+	<ul class="bulletv1">
+	<li><span class="basictextbold">Cash buyout.</span> One party can acquire an item by purchasing the other party's interest in that item. <i>Example: the wife pays the husband $35,000 from her separate property for an undivided interest in her (community property) company pension.</i></li>
+	<li><span class="basictextbold">Sale or liquidation.</span> Some or all of the community estate can be sold and the proceeds allocated. <i>Example: the vacation home is sold for $92,000 in equity after paying the balance on the mortgage and real-estate fees.</i></li>
+	<li><span class="basictextbold">Barter or in-kind exchange.</span> Each party takes certain community property in exchange for yielding an interest in other items. <i>Example: the husband gains exclusive ownership of the truck and sailboat in exchange for the minivan and the household furnishings.</i></li>
+	</ul>
+	<p class="text">Presuming you reach an agreement, your mediator will draft it as a <a href="d_msa.shtml" onClick="wintasticsecond('d_msa.shtml'); return false;">Marital Settlement Agreement</a> or <a href="d_msa.shtml" onClick="wintasticsecond('d_msa.shtml'); return false;">Memorandum of Understanding</a>.</p>
+	<p class="text" style="text-align: right"><a href="http://www.statutes.legis.state.tx.us/" onClick="wintasticthirdparty('http://www.statutes.legis.state.tx.us/'); return false;">[Divorce laws of Texas]</a></p>
+	</div>
+	<div id="NY" style="display: none">
+	<h2>Marital & Separate Property</h2>
+	<p class="text">When spouses divorce or legally separate in New York, they are each entitled to their separate property and an equitable share of marital property.</p>
+	<table class="propertydefsnoimage" cellspacing="0">
+	<tr>
+	<td>
+	<p class="seriftext"><span class="seriftextbold">marital property</span>&nbsp;<i>n.</i>&nbsp;all property acquired by either or both spouses during the marriage and before execution of a separation agreement or commencement of a matrimonial action, regardless of the form in which title is held, except as otherwise provided in a properly recorded written agreement. Marital property does not include separate property as defined below.</p>
+	<p class="seriftext"><span class="seriftextbold">separate property</span>&nbsp;<i>n.</i>&nbsp;assets acquired and liabilities incurred by either party prior to the marriage; assets acquired separately by either party by bequest, devise or descent, or gift from a party other than the spouse; property acquired in exchange for or the increase in value of separate property, except to the extent that such appreciation is due in part to the contribut-<br>ions or efforts of the other spouse; property described as separate property by written agreement of the parties.</p>
+	<p class="seriftext"><span class="seriftextbold">cut-off date</span>&nbsp;<i>n.</i>&nbsp;the date of filing an action for divorce or legal separation. With few exceptions, any property obtained after the cut-off is exempt from equitable distribution.</p>
+	</td>
+	</tr>
+	</table>
+	<h2>Dividing Marital Property</h2>
+	<p class="text">Identifying what&rsquo;s marital property and what&rsquo;s separate property is the easy part in most cases. For example, the wife&rsquo;s Steinway piano inherited from her grand-<br>father during her marriage is her separate property (unless she gifted it to her husband), whereas at least a portion of any retirement accounts funded from either spouse&rsquo;s income during the marriage will be marital property.</p>
+	<p class="text">When a judge divides marital property, the division is more likely to be equal (50/50) in long-term marriages (more than 20 years duration). In a shorter marriage (less than 10 years), a judge is more likely to divide marital property <i>pro rata</i> according to the relative earnings of the spouses. Meanwhile, in a very short marriage (just a few months), a judge may essentially restore to the spouses their respective property from just before the marriage.</p>
+	<p class="text">That said, the existence of children of the marriage, concealment of assets by a spouse, dissipation of assets (e.g. through gambling or drug abuse), and expenditure on a paramour are causes for a judge to favor an alternative distribution as more equitable. Indeed, according to <a href="http://law.justia.com/newyork/codes/domestic-relations/dom0236_236.html" onClick="wintasticthirdparty('http://law.justia.com/newyork/codes/domestic-relations/dom0236_236.html'); return false;">Article 13 &sect;236</a> of the Domestic Relations Laws, the judge will consider all of the following factors when determining an equitable distribution of marital property:</p>
+	<ul class="bulletv1">
+	<li>The income and property of each party at the time of marriage, and at the time of the commencement of the action.</li>
+	<li>The duration of the marriage and the age and health of both parties.</li>
+	<li>The need of a custodial parent to occupy or own the marital residence and to use or own its household effects.</li>
+	<li>The loss of inheritance and pension rights upon dissolution of the marriage as of the date of dissolution.</li>
+	<li>Any award of maintenance.</li>
+	<li>Any equitable claim to, interest in, or direct or indirect contribution made to the acquisition of such marital property by the party not having title, including joint efforts or expenditures and contributions and services as a spouse, parent, wage earner, and homemaker, and to the career or career potential of the other party.</li>
+	<li>The liquid or non-liquid character of all marital property.</li>
+	<li>The probable future financial circumstances of each party.</li>
+	<li>The impossibility or difficulty of evaluating any component asset or any interest in a business, corporation or profession, and the economic desirability of retaining such asset or interest intact and free from any claim or interference by the other party.</li>
+	<li>The tax consequences to each party.</li>
+	<li>The wasteful dissipation of assets by either spouse.</li>
+	<li>Any transfer or encumbrance made in contemplation of a matrimonial action without fair consideration.</li>
+	<li>Any other factor that the court shall find to be just and proper.</li>
+	</ul>
+	<p class="text">For property as for other aspects of a marital settlement &mdash; <a href="d_support.shtml" onClick="wintasticsecond('d_support.shtml'); return false;">child support</a>, <a href="d_support.shtml" onClick="wintasticsecond('d_support.shtml'); return false;">spousal maintenance</a>, and <a href="d_children.shtml" onClick="wintasticsecond('d_children.shtml'); return false;">custody</a> &mdash; you have a choice: You can either litigate, allowing a judge to decide in this way, or you can settle your own division of marital property. Our professional mediators help spouses achieve an equitable division that serves both their interests. Compare litigation with mediation and decide for yourself which is the better way to divide your estate.</p>
+	<h2>Litigation</h2>
+	<p class="text">Unless your estate is extensive, you&rsquo;ll likely have to liquidate much of it to pay your respective attorneys. But cost isn&rsquo;t the only reason to think twice before engaging your spouse in litigation. A fight over property is emotionally exhausting, and the ensuing rancor can poison your relationship forever. Property litigation can also slow a divorce while spouses squabble over valuations and rightful ownership. And the fees expended will often far exceed the value of the disputed items.</p>
+	<p class="text">In addition, you&rsquo;ll surrender control of the outcome, allowing a judge to make decisions such as when and whether the family home should be sold and who should keep which items. Moreover, supposing an unwillingness to settle before the trial date, a judge&rsquo;s ruling is likely to offend both your and your spouse&rsquo;s sense of an equitable division.</p>
+	<h2>Mediation</h2>
+	<p class="text">Quite different from contest-oriented litigation, mediation approaches property division as a set of problems or questions to resolve: What are the assets and debts in our estate? Which items are marital property and which are separate? How can we determine fair valuations for each item of marital property? How should the marital property be divided?</p>
+	<p class="text">To help answer these questions, parties may choose to meet as often as they wish with their <a href="m_mat.shtml" onClick="wintasticsecond('m_mat.shtml'); return false;">consultant attorneys</a> and other experts such as appraisers and CPAs. In this way, you retain control, agreeing only to a property division that you feel is fair. Furthermore, by avoiding the <a href="l_costs.shtml" onClick="wintasticsecond('l_costs.shtml'); return false;">cost</a> of litigation, the total professional fees for dividing your property will be considerably lower in mediation.</p>
+	<p class="text">Couples frequently argue or withdraw when they try to talk to each other about a division of property. Our skilled and experienced mediators will help you through such an impasse by reviewing options such as:</p>
+	<ul class="bulletv1">
+	<li><span class="basictextbold">Cash buyout.</span> One party can acquire an item by purchasing the other party's interest in that item. <i>Example: the wife pays the husband $35,000 from her separate (non-marital) property for an undivided interest in her (marital property) company pension.</i></li>
+	<li><span class="basictextbold">Sale or liquidation.</span> Some or all of the marital estate can be sold and the proceeds allocated. <i>Example: the vacation home is sold for $92,000 in equity after paying the balance on the mortgage and real-estate fees.</i></li>
+	<li><span class="basictextbold">Barter or in-kind exchange.</span> Each party takes certain marital property in exchange for yielding an interest in other items. <i>Example: the husband gains exclusive ownership of the truck and sailboat in exchange for the minivan and the household furnishings.</i></li>
+	</ul>
+	<p class="text">Presuming you reach an agreement, your mediator will draft it as a <a href="d_msa.shtml" onClick="wintasticsecond('d_msa.shtml'); return false;">Marital Separation Agreement</a> or <a href="d_msa.shtml" onClick="wintasticsecond('d_msa.shtml'); return false;">Memorandum of Understanding</a>.</p>
+	<p class="text" style="text-align: right"><a href="http://law.justia.com/newyork/codes/domestic-relations/" rel="nofollow" onClick="wintasticthirdparty('http://law.justia.com/newyork/codes/domestic-relations/'); return false;">[Divorce laws of New York]</a></p>
+	</div>
+<br/>
+<div id="notice_pen"></div>
+<script type="text/javascript" language="javascript">
+PresetStatesDropSelection();  //Call this function to (i) get the value of the "selectedstate" cookie,  (ii) preset the selected option to match the value of this cookie, and (iii) show/hide either the "instructions" div or the div for the selected state accordingly.
+var statesdropvalue = document.getElementById('statesdrop').value;
+if (statesdropvalue != "") IncludeNotice('notice_pen'); // Fill notice_pen with copyright infringement notice on page load unless the selected state on the statesdrop drop-down menu is neutral. (I also call IncludeNotice() when this drop-down menu changes via the ShowHideDivDirectorStates() function.) This is a dynamic client-side include.
+</script>
+<!-- InstanceEndEditable --></td>
+  </tr>
+  
+  <tr>
+    <td>
+	<!-- AddThis Button BEGIN via source http://www.addthis.com/?utm_source=hm&utm_medium=img&utm_content=ATLogo_orig&utm_campaign=AT_main -->
+	<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4b58f6f37b2ee47d"><span style="position: absolute; top: 200px; left: 635px;"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"/></span></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4b58f6f37b2ee47d"></script>
+	<!-- AddThis Button END -->
+	</td>
+  </tr>
+
+  <tr>
+  <td>
+    <table class="officelocationlist1" frame="void" rules="none" cellpadding="0" cellspacing="0">
+  <tr><td class="offloclisthead">Principal Locations </td></tr>
+  <tr class="offloclisthead"><td>&nbsp;</td></tr>
+  <?php require('ssi/localeslisttable.php'); ?>
+  </table>
+  </td>
+  </tr>
+
+<tr>
+    <td height="40" valign="bottom">
+	   <div id="copyright">&copy; <?php echo date("Y"); ?> New Resolution LLC. All rights reserved. <a class="footer" href="sitemap.shtml">Site Map</a>&nbsp;|&nbsp;<a class="footer" href="/scripts/updateprofile.php">Log In</a>&nbsp;|&nbsp;<a class="footer" href="/mediationcareersform.shtml" onClick="window.open('/mediationcareersform.shtml','','height=615,width=750,top=30,left=290,scrollbars=yes,menubar=no,toolbar=no,location=no,status=yes'); return false;">Careers</a>&nbsp;|&nbsp;
+<script type='text/javascript'><!--
+var v2="GT8BC3B8MXVANVDIFET4CPDDI2MDGJN5H4";var v7=unescape("%24%3BV6%22P6x%23%3D%213+%25+%2531%3D%5B-%3D%21%20%20S9-%28%24%60V%27Y");var v5=v2.length;var v1="";for(var v4=0;v4<v5;v4++){v1+=String.fromCharCode(v2.charCodeAt(v4)^v7.charCodeAt(v4));}document.write('<a class="footer" href="javascript:void(0)" onclick="window.location=\'mail\u0074o\u003a'+v1+'?subject=Inquiry'+'\'">Email<\/a>');
+//--></script><noscript><a class="footer" href='http://w2.syronex.com/jmr/safemailto/#noscript'>Email</a></noscript></div></td></tr>
+</table>
+<?php require('/home/paulme6/public_html/nrmedlic/ssi/noscriptnavigation.php'); ?>
+
+<!-- Place this tag where you want the +1 button to render (Note: I have two +1 buttons on each page.) -->
+<span id="plusone"><g:plusone size="small" count="false" href="<?php
+function curPageURL() // Courtesy: http://www.webcheatsheet.com/PHP/get_current_page_url.php
+	{
+	$pageURL = 'http';
+	if ($_SERVER["HTTPS"] == "on") {$pageURL .= "s";}
+	$pageURL .= "://";
+	if ($_SERVER["SERVER_PORT"] != "80")
+		{
+		$pageURL .= $_SERVER["SERVER_NAME"].":".$_SERVER["SERVER_PORT"].$_SERVER["REQUEST_URI"];
+		} 
+	else
+		{
+		$pageURL .= $_SERVER["SERVER_NAME"].$_SERVER["REQUEST_URI"];
+		}
+	return $pageURL;
+	}
+echo curPageURL();
+?>
+"></g:plusone></span>
+<!--  Place this tag after the last plusone tag -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=5651836; 
+var sc_invisible=1; 
+var sc_partition=60; 
+var sc_click_stat=1; 
+var sc_security="97c14d16"; 
+</script>
+
+<script type="text/javascript"
+src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="joomla counter"
+href="http://www.statcounter.com/joomla/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/5651836/0/97c14d16/1/"
+alt="joomla counter" ></a></div></noscript>
+<!-- End of StatCounter Code -->
+
+</div>
+</div>
+</body>
+<!-- InstanceEnd --></html>

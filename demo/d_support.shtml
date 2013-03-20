@@ -1,0 +1,354 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/MasterTemplate1F.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="CONTENT-LANGUAGE" CONTENT="en-US">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Spousal Support (Alimony/Maintenance) and Child Support in Divorce/Custody Settlements</title>
+<meta NAME="description" CONTENT="Survey of spousal support (alimony/maintenance) and child support in divorce and custody settlements.">
+<meta NAME="keywords" CONTENT="child support, spousal support, spouse,guideline child support, alimony,temporary, settlement,litigation">
+<!-- InstanceEndEditable -->
+<link href="/nrcss.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="http://newresolutionmediation.com/favicon.ico" type="image/x-icon">
+<SCRIPT language="JavaScript" src="/milonic_src.js" type="text/javascript"></SCRIPT>
+<script language="JavaScript" type="text/javascript">
+if(ns4)_d.write("<scr"+"ipt language='JavaScript' src='/mmenuns4.js'><\/scr"+"ipt>");
+else _d.write("<scr"+"ipt language='JavaScript' src='/mmenudom.js'><\/scr"+"ipt>"); </script>
+<SCRIPT language='JavaScript' src="/menu_data_1.js" type='text/javascript'></SCRIPT>
+<script type="text/javascript" src="/openmenusbyurl.js"></script>
+<script language="JavaScript" src="/scripts/emailaddresschecker.js" type="text/javascript"></script>
+<script language="JavaScript" src="/scripts/windowpops.js" type='text/javascript'></script>
+<!-- InstanceBeginEditable name="head" -->
+<script type="text/javascript" src="/scripts/coremediatorfunctions.js"></script>
+<script type="text/javascript" src="/scripts/dynamicformutility.js"></script>
+<script src="/scripts/cookiefunctions.js"></script>
+<!-- InstanceEndEditable --><!-- InstanceParam name="ReferralTable" type="boolean" value="true" --><!-- InstanceParam name="LocationsList" type="boolean" value="true" --><!-- InstanceParam name="Statcounter" type="boolean" value="true" --><!-- InstanceParam name="GoogleAnalytics" type="boolean" value="true" --><!-- InstanceParam name="Google Analytics Tracking Code" type="boolean" value="true" -->
+</head>
+
+<body>
+<div id="main">
+<div id="relwrapper">
+
+<script type="text/javascript"> 
+var _gaq = _gaq || []; 
+_gaq.push(['_setAccount', 'UA-1100858-3']); 
+_gaq.push(['_trackPageview']); 
+(function() { 
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga); 
+})(); 
+</script>
+
+<a name="backtotop"></a>
+<a href="index.shtml" onClick="wintasticself('index.shtml'); return false;"><img src="/images/mediation_animlogo.gif" alt="New Resolution logo" width="204" height="96" class="toprightlogo_1" border="0">
+<div id="toprightlogotm_1" style="color: #000000;">&reg;</div><div id="LLCsuffix_1">LLC</div></a>
+<table width="100%"  border="0" cellpadding="0" cellspacing="0"><!--DWLayoutTable-->
+  <tr>
+    <td width="750"><img src="/images/TangBlock.jpg" alt="tangerine block" width="750" height="100"></td>
+    <td height="100%" rowspan="4">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>
+	<a href="r_onlinehelp.php"><img style="position: absolute; top: 100px; left: 672px" src="/images/WrenchIcon.jpg" alt="Mediation Self-Help" border="0"></a>
+	<a href="locations.php"><img style="position: absolute; top: 100px; left: 40px" src="/images/LocationIcon.jpg" alt="Our Locations" border="0"></a>
+	<a href="index.shtml"><img style="position: absolute; top: 100px; left: 0px" src="/images/HomeIcon.jpg" alt="Tour Site" border="0"></a>
+	</td>
+  </tr>
+  <tr>
+    <td height="86"><img src="/images/tangmenubg.jpg" alt="mediation" width="750" height="30" class="tangmenucover_1"></td>
+  </tr>
+  <tr>
+    <td width="750"><!-- InstanceBeginEditable name="Content" -->
+		<script type="text/javascript" src="scripts/utilitymediatordata.js"></script>
+		<script type="text/javascript" src="/scripts/utilitymediatorcode.js"></script>
+	<h1><span id="custom_title_pen"></span></h1> <!--  Some pages (e.g. support.shtml) have custom titles (e.g. due to different names for 'spousal support'). The custom name is stored as the third column in the states[row][col] array within utilitymediatorcode.js. -->
+	<form name="generatestatesform">
+	<table class="formmargins" cellspacing="0" cellpadding="0">
+	<tr>
+	<td class="formcol1_2">
+	<script type="text/javascript" language="javascript">
+	customtitleflag = true;
+	var customtitledefault = "Child and Spousal Support";
+	document.write(GenerateStatesDrop());
+	</script>
+   	 </td>
+	 </tr>
+	 </table>
+	 </form>
+    <HR align="left" size="1px" noshade color="#FF9900" class="formdivider4">
+	<div id="instructions" style="display:block">
+	<div class="basictextsemiparag">
+	<table class='invertbox2' width='470' cellpadding='10px' cellspacing='0'>
+	<tr><td>State-specific information will appear here when you select a state.</td></tr>
+	</table>
+	</div>
+	<HR align="left" size="1px" noshade color="#FF9900" class="formdivider4">
+	</div>
+	<div id="CA" style="display: none">
+	<p class="text">California law requires that parents share responsibility for  the needs of their minor 
+	children, whether natural or adopted. The California Family Code also addresses the needs of a spouse who
+ has depended on a marital relationship for financial support. Couples can approach child and spousal support through alternative approaches:</p>
+	<p class="texthangindent">1. They can pursue <a href="l_litigation.shtml" onClick="wintasticsecond('l_litigation.shtml'); return false;">litigation</a>, each retaining attorneys to contest the case and represent them in court. Ultimately, a judge may decide the outcome.</p>
+	<p class="texthangindent">2. They can devise their own settlement terms, each consulting attorneys if desired. The resulting settlement is filed as a <a href="d_msa.shtml" onClick="wintasticsecond('d_msa.shtml'); return false;">Marital Settlement Agreement</a> (MSA) for the court&rsquo;s approval.</p>
+	<p class="text">New Resolution mediators help couples mediate their own settlement terms. Our clients want to retain control of their divorce or separation. They want to avoid the enormous emotional and financial costs of litigation. And they want to protect their children from the often-traumatic experience of litigation. They&rsquo;re also attracted to the speed, convenience, and privacy of mediation.  At the same time, they know that the option of litigation remains if they&rsquo;re unable to reach a mediated settlement.</p>
+	<h2>Child Support</h2>
+	<p class="text">Child support is of two types: <em>Temporary</em> child support helps a more needy parent provide for the child(ren) in the interim before a case is settled. <em>Permanent</em>  child support is payable after the settlement and continues, subject to modification, until the child turns eighteen &mdash; unless the child is living at home while attending high school, in which case support continues until the child turns nineteen or graduates high school. Either parent can request child support  from the other  as part of various civil actions including a dissolution of marriage (divorce), legal separation, nullity of marriage, and dissolution of a domestic partnership.</p>
+	<p class="text">When parties pursue child support, either temporary or permanent, through litigat-<br>
+	  ion, a judge must use a mathematical formula to calculate the monthly payment. The formula determines the so-called guideline support based on each parent's income,  amount of time spent with the children, and other factors such as obligat-<br>ions of support from a prior relationship. In a litigated case, a judge will seldom depart from this guideline support.</p>
+	<p class="text">Couples who devise their own settlement, however, are free to set  support that 
+	differs from the guideline amount in both amount and duration. The MSA must declare that (1) the parties know their rights under California law, (2) neither  party has been subject to duress or coercion, (3) the parties believe the support amount is in the best interests of the  children and will meet their needs, and (4) the child-<br>ren are neither on welfare nor is an application pending. These declarations not-<br>
+	withstanding, a judge will always review a proposed MSA before signing a decree of dissolution or legal separation. This  safeguard helps ensure that parents don&rsquo;t agree to terms   inadequate to meet the needs of their children.</p>
+	<p class="text">Parties in mediation may be curious to know the guideline amount of child support. New Resolution maintains a computer program, certified by the California Judicial Council, that calculates this amount. The program applies the same mathematical formula used by every judge in the state of California.</p>
+	<p class="text">Regardless of how child support is set, the amount is modifiable any time a parent can show the court that a material change in circumstances has occurred. More-<br>
+	over, if the parties agree to set child support at an amount lower than the guideline amount, the recipient parent can request that the court increase support to the guideline amount without need to show a change in circumstances.</p>
+	<h2>Spousal Support</h2>
+	<p class="text">Like child support, spousal support is of two types: temporary support in the interim before a case is settled, and permanent support after the settlement. Permanent spousal support ordinarily 
+	continues, subject to modification, for the period specified in the decree of dissolution or legal separation. However, perm-<br>anent support automatically terminates when either one spouse dies or the recipient spouse remarries.</p>
+	<p class="text">Spouses can contest spousal support through litigation, allowing a judge to decide the amount payable, to whom, and for what duration. Alternatively, you can specify your own support terms as part of a Marital Settlement Agreement. The MSA is then approved by the judge and incorporated into the decree of dissolution or separation.</p>
+	<p class="text">Unlike child support, both the amount and the duration of spousal support are discretionary. Judges have  no obligation to order spousal support. When they do order it, they usually apply different approaches in setting temporary and perman-<br>ent support. They typically calculate temporary  support using a mathematical formula for the county in which the divorce or separation is filed. (This approach is similar to the way in which child support is calculated.)</p>
+	<p class="text">Permanent spousal support is set quite differently. Rather than use a formula, judges must consider several qualitative factors as detailed in California Family Code <a href="http://caselaw.lp.findlaw.com/cacodes/fam/4320-4325.html" rel="nofollow" onClick="wintasticthirdparty('http://caselaw.lp.findlaw.com/cacodes/fam/4320-4325.html'); return false;">&sect;4320&ndash;25</a>. These include the parties&rsquo; incomes, expenses, earning cap-<br>acities, standard of living during the marriage, and duration of the marriage. Judges can set the duration of support in one of three ways: indefinite, in which case the parties can petition the court for a modification in the award when their circumstances change; fixed, with termination scheduled after a specified number of months or years; or 
+	conditional, terminating on a specific date unless the recipient spouse successfully petitions the court to extend that date.</p>
+	<p class="text">Couples who choose mediation over litigation decide for themselves the terms, if any, of spousal support in their Marital Settlement Agreement. Altogether different from the posturing and aggressive offers and counters that characterize a litigated contest, mediation allows you  to consider the factors that are important to you  when addressing spousal support.</p>
+	<p class="text">To this end, the mediator can guide an open exchange with questions such as: Do you believe that one of you is now dependent on the marriage relationship for financial support? Do you want to create a plan to allow the more dependent spouse a greater degree of self-sufficiency? How will you share responsibility for helping the dependent spouse become self-sufficient? How long might be necessary before the dependent spouse becomes self-sufficient?</p>
+	<p class="text" style="text-align: right"><a href="http://www.supportcourt.com/california_family_law_code.htm" rel="nofollow" onClick="wintasticthirdparty('http://www.supportcourt.com/california_family_law_code.htm'); return false;">[Divorce laws of California]</a></p>
+	  </div>
+	  <div id="AZ" style="display: none">
+	<p class="text">Arizona law requires that parents share responsibility for the needs of their minor 
+	children, whether natural or adopted. The Arizona Marital and Domestic Relations <a href="http://www.azleg.state.az.us/ArizonaRevisedStatutes.asp?Title=25" rel="nofollow" onClick="wintasticthirdparty('http://www.azleg.state.az.us/ArizonaRevisedStatutes.asp?Title=25'); return false;">statutes</a> also address the needs of a spouse who depends on a marital relation-<br>ship for financial support. Couples can approach child support and spousal maintenance via alternative paths:</p>
+	<p class="texthangindent">1. They can pursue <a href="l_litigation.shtml" onClick="wintasticsecond('l_litigation.shtml'); return false;">litigation</a>, each retaining attorneys to contest the case and represent them in court. Ultimately, a judge may decide the outcome.</p>
+	<p class="texthangindent">2. They can devise their own settlement terms, each consulting attorneys if desired. The resulting settlement is filed as a <a href="d_msa.shtml" onClick="wintasticsecond('d_msa.shtml'); return false;">Marital Settlement Agreement</a> (MSA) for the court&rsquo;s approval.</p>
+	<p class="text">New Resolution mediators help couples mediate their own settlement terms. Our clients want to retain control of their divorce or separation. They want to avoid the enormous emotional and financial costs of litigation. And they want to protect their children from the often-traumatic experience of divorce litigation. They&rsquo;re also attracted to the speed, convenience, and privacy of mediation.  At the same time, they know that the option of litigation remains if they&rsquo;re unable to reach a mediated settlement.</p>
+	<h2>Child Support</h2>
+	<p class="text">Child support is of two types: <em>Temporary</em> child support helps one parent provide for the child(ren) in the interim before a case is settled. <em>Permanent</em>  child support is payable after the settlement and continues, subject to modification, until the child turns eighteen &mdash; unless the child is either attending high school (or a certified high school equivalency program), in which case support continues until the child turns nineteen, or the child is severely disabled and cannot be self-supporting.</p>
+	<p class="text">Either parent can request child support from the other as part of various actions including a dissolution of marriage (divorce), legal separation, and proceedings for child support. If the parents lived apart before the date of filing for dissolution of marriage, legal separation, spousal maintenance, or child support, the court may order child support retroactively to the date of separation (i.e. the date at which the parents no longer cohabited), but not more than three years before the date of the filing for dissolution of marriage, legal separation, maintenance, or child support.</p>
+	<p class="text">When parties pursue child support, either temporary or permanent, through litigat-<br>ion, a judge must use a formula to calculate support consistent with the reason-<br>able needs of the children and the ability of parents to pay. The formula determ-<br>ines the so-called guideline support based on each parent's income, amount of time spent with the children, spousal maintenance paid or received, and other factors such as childcare, medical insurance, and education expenses and court-ordered support obligations for children from other relationships. In a litig-<br>ated case, a judge will seldom depart from this guideline amount. </p>
+	<p class="text">Couples who devise their own settlement, however, are free to settle on an amount of child support that differs from the guideline amount. In doing so, their Marital Settlement Agreement (MSA) will specify the amount and declare that (1) the parties know their rights to guideline support under Arizona law, (2) neither  party has been subject to duress or coercion, and (3) the parents have considered the best interests of the child. These declarations notwithstanding, a judge will always review a proposed MSA before signing a decree of dissolution or legal separation. This safeguard helps ensure that parents don&rsquo;t agree to terms inadequate to meet the needs of their children.</p>
+	<p class="text">Regardless of how child support is set, the amount is modifiable any time a parent can show the court that a material change in circumstances has occurred. More-<br>over, if the parties agree to set child support at an amount lower than the guideline amount, the recipient parent can request that the court increase support to the guideline amount without need to show a change in circumstances.</p>
+	<h2>Spousal Maintenance</h2>
+	<p class="text">Like child support, spousal maintenance is of two types: temporary maintenance in the interim before a case is settled, and permanent maintenance after the settlement. Permanent maintenance ordinarily continues, subject to modification, for the period specified in the decree of dissolution or legal separation. However, permanent maintenance automatically terminates when either one spouse dies or the recipient spouse remarries.</p>
+	<p class="text">Spouses can contest maintenance through litigation, allowing a judge to decide the amount payable, to whom, and for what duration. Alternatively, you can specify your own maintenance terms as part of a Marital Settlement Agreement.</p>
+	<p class="text">Both the amount and the duration of spousal maintenance set by a judge are discretionary, and judges have no obligation to order spousal maintenance. When they do order it, they may apply different approaches. They may, for example, use a guideline formula for making temporary maintenance orders, similar to the way they would set child support. However, permanent spousal support is usually set quite differently.</p>
+	<p class="text">In making permanent maintenance orders, judges must consider a list of thirteen factors as detailed in Arizona&rsquo; Revised Marital and Domestic Relations statutes <a href="http://www.azleg.state.az.us/FormatDocument.asp?inDoc=/ars/25/00319.htm&Title=25&DocType=ARS" rel="nofollow" onClick="wintasticthirdparty('http://www.azleg.state.az.us/FormatDocument.asp?inDoc=/ars/25/00319.htm&Title=25&DocType=ARS'); return false;">Title 25 &sect;319</a>. These include the standard of living established during the marriage; the duration of the marriage; the age, employment history, earning ability, and physical and emotional condition of the spouse seeking maintenance; the ability of the spouse from whom maintenance is sought to meet that spouse's own needs while meeting those of the spouse seeking maintenance; and any sacrifices made by a spouse in terms of income or career opportunities for the benefit of the other spouse.</p>
+	<p class="text">Whereas guidelines and &ldquo;rules of thumb&rdquo; exist for the duration of spousal main-<br>tenance, Arizona law does not specify a required duration. Judges can set the duration at their discretion on a case-by-case basis.</p>
+	<p class="text">Couples who choose mediation over litigation decide for themselves the terms, if any, of spousal maintenance in their Marital Settlement Agreement. Altogether different from the posturing and aggressive offers and counters that characterize a litigated contest, mediation allows you to consider the factors that are important to you when addressing maintenance &mdash; or, indeed, whether to include it at all in your agreement.</p>
+	<p class="text">To this end, the mediator can guide an open exchange with questions such as: Do you believe that one of you is now dependent on the marriage relationship for financial support? Do you want to create a plan to allow the more dependent spouse a greater degree of self-sufficiency? How will you share responsibility for helping the more dependent spouse become self-sufficient? How long might be necessary before the more dependent spouse becomes self-sufficient?</p>
+	<p class="text" style="text-align: right"><a href="http://www.azleg.state.az.us/ArizonaRevisedStatutes.asp?Title=25" rel="nofollow" onClick="wintasticthirdparty('http://www.azleg.state.az.us/ArizonaRevisedStatutes.asp?Title=25'); return false;">[Divorce laws of Arizona]</a></p>
+	</div>
+	  <div id="NM" style="display: none">
+	<p class="text">New Mexico requires that parents share responsibility for the needs of their minor children, whether natural or adopted. The state&rsquo;s domestic affairs statutes &mdash; specifically, Chapter 40, Article 4 &mdash; also address the needs of a spouse who depends on a marital relationship for financial support. Couples can approach child support and spousal support via alternative paths:</p>
+	<p class="texthangindent">1. They can pursue <a href="l_litigation.shtml" onClick="wintasticsecond('l_litigation.shtml'); return false;">litigation</a>, each retaining attorneys to contest the case and represent them in court. Ultimately, a judge may decide the outcome.</p>
+	<p class="texthangindent">2. They can devise their own settlement terms, each consulting attorneys if desired. The resulting settlement is filed as a <a href="d_msa.shtml" onClick="wintasticsecond('d_msa.shtml'); return false;">Marital Settlement Agreement</a> (MSA) for the court&rsquo;s approval.</p>
+	<p class="text">New Resolution mediators help couples mediate their own settlement terms. Our clients want to retain control of their divorce or separation. They want to avoid the enormous emotional and financial costs of litigation. And they want to protect their children from the often-traumatic experience of divorce litigation. They&rsquo;re also attracted to the speed, convenience, and privacy of mediation.  At the same time, they know that the option of litigation remains if they&rsquo;re unable to reach a mediated settlement.</p>
+	<h2>Child Support</h2>
+	<p class="text">Either parent can request child support from the other as part of a dissolution of marriage (divorce) or legal separation. It is payable after the dissolution or legal separation is finalized and ordinarily continues, subject to modification, until the child turns eighteen &mdash; unless the child is still attending high school, in which case support continues until the child turns nineteen or graduates high school, which-<br>ever occurs first. Child support may terminate sooner if a child marries, is eman-<br>cipated, or joins the military.</p>
+	<p class="text">Whereas child support for children of parents who are married to each other is not retroactive, a paternity suit involving child support for never-married parents may be retroactive to the date of the child&rsquo;s birth and can include pregnancy and birth-<br>related expenses.</p>
+	<p class="text">Parties may pursue child support that is either permanent or temporary (some-<br>
+	times called an interim division order for support pending finalization of the divorce or legal separation). When pursued through litigation, a judge must use the <a href="http://www.hsd.state.nm.us/csed/guidelines.html" rel="nofollow" onClick="wintasticthirdparty('http://www.hsd.state.nm.us/csed/guidelines.html'); return false;">Basic Child Support Schedule and Worksheets</a> as a basis for setting child support. This formula apportions support according to (1) the parents&rsquo; gross income shares, applying either actual income or imputed income (potential earning power) to the schedule, and (2) the parents&rsquo; time-sharing with the children.</p>
+	<p class="text">Expenses may then be added to the basic guideline amount &mdash; specifically, childcare to allow parents to work or seek work; extraordinary uninsured health care expenses incurred on behalf of the children in excess of $100 per child per year; extraordinary education expenses for children; and transportation and communication expenses for long-distance visitation or time sharing.</p>
+	<p class="text">Judges seldom deviate significantly from child support amounts set in this way. Couples who devise their own child support settlements, however, may agree on an amount that differs from the guideline amount. In doing so, their Marital Settle-<br>ment Agreement (MSA) will specify the amount and declare reasons for their choice. This declaration notwithstanding, a judge will always review an  MSA before signing a decree of dissolution or legal separation &mdash; a safeguard to help ensure parents don&rsquo;t agree to terms inadequate to meet the needs of their children.</p>
+	<p class="text">Regardless of how child support is set, the amount is modifiable annually (or less frequently) if a parent can show that a material and substantial change in circum-<br>stances has occurred. (Here, substantial means a change of at least 20% in the existing support amount.) Moreover, if the parties agree to set child support at an amount lower than the guideline amount, the recipient parent can request that the court increase support to the guideline amount at any time.</p>
+	<h2>Spousal Support</h2>
+	<p class="text">Spouses can contest spousal support (alimony) through litigation, allowing a judge to decide the amount payable, to whom, and for what duration. Alternatively, you can specify your own support terms, if any, as part of a Marital Settlement Agreement.</p>
+	<p class="text">Both the amount and the duration of spousal support set by a judge are discretion-<br>ary. Moreover, judges have no obligation to order spousal support. When they do order it, they may set support that is rehabilitative (i.e. conditional on the supported spouse&rsquo;s compliance with a rehabilitation plan), transitional (fixed in duration), or, in very long-term marriages involving a dependent spouse, indefinite.</p>
+	<p class="text">Spousal support may be in the form of installment payments (e.g. monthly), a one-time lump sum, or awards of property. A judge is less likely to order spousal support in marriages of less than ten years, and the burden of proof is on one spouse to show both a need for support and the other spouse&rsquo;s ability to pay that amount. Provisions also exist for a judge to order temporary spousal support &mdash; a component of a so-called interim division of income and allocation of expenses &mdash; to help a more dependent spouse in the period before the divorce or legal separation is finalized.</p>
+	<p class="text">In making spousal support orders, judges must consider the many factors in Chapter 40, Article 4&ndash;7 of New Mexico&rsquo;s divorce statutes. These include the age, health, and current and future earnings of the spouses; the spouses&rsquo; efforts to become self-supporting; the standard of living during the marriage; the marriage&rsquo;s duration; any property awarded or confirmed to the respective spouses; the type and nature of the respective spouses&rsquo; liabilities; and agreements entered into by the spouses in contemplation of their divorce or legal separation. Judges can also consider the need to maintain medical insurance and the appropriateness of life insurance to protect the recipient on death of the paying spouse.</p>
+	<p class="text">Couples who choose mediation over litigation decide for themselves the terms, if any, of spousal support in their Marital Settlement Agreement. Altogether different from the posturing and aggressive offers and counters that characterize a litigated contest, mediation allows you to consider the factors that are important to you when addressing spousal support &mdash; or, indeed, whether to include it at all.</p>
+	<p class="text">To this end, the mediator can guide an open exchange with questions such as: Do you believe that one of you is now dependent on the marriage relationship for financial support? Do you want to create a plan to allow the more dependent spouse a greater degree of self-sufficiency? How will you share responsibility for helping the more dependent spouse become self-sufficient? How long might be necessary before the more dependent spouse becomes self-sufficient?</p>
+	<p class="text" style="text-align: right"><a href="http://www.conwaygreene.com/nmsu/lpext.dll?f=templates&fn=main-h.htm&2.0" rel="nofollow" onClick="wintasticthirdparty('http://www.conwaygreene.com/nmsu/lpext.dll?f=templates&fn=main-h.htm&2.0'); return false;">[Divorce laws of New Mexico]</a></p>
+	</div>
+	  <div id="WA" style="display: none">
+	<p class="text">Washington requires that parents share responsibility for the needs of their minor children, whether natural or adopted. The state&rsquo;s domestic relations statutes &mdash; specifically, <a href="http://apps.leg.wa.gov/rcw/default.aspx?Cite=26" rel="nofollow" onclick="wintasticthirdparty('http://apps.leg.wa.gov/rcw/default.aspx?Cite=26'); return false;">Title 26</a> in the Revised Code of Washington &mdash; also address the needs of a spouse who depends on a marital relationship for financial support. Couples can approach child support and spousal maintenance (alimony) through alternative approaches:</p>
+	<p class="texthangindent">1. They can pursue <a href="l_litigation.shtml" onClick="wintasticsecond('l_litigation.shtml'); return false;">litigation</a>, each retaining attorneys to contest the case and represent them in court. Ultimately, a judge may decide the outcome.</p>
+	<p class="texthangindent">2. They can devise their own settlement terms, each consulting attorneys if desired. The resulting settlement is filed as a <a href="d_msa.shtml" onClick="wintasticsecond('d_msa.shtml'); return false;">Marital Settlement Agreement</a> (MSA) for the court&rsquo;s approval.</p>
+	<p class="text">New Resolution mediators help couples mediate their own settlement terms. Our clients want to retain control of their divorce or separation. They want to avoid the enormous emotional and financial costs of litigation. And they want to protect their children from the often-traumatic experience of divorce litigation. They&rsquo;re also attracted to the speed, convenience, and privacy of mediation. At the same time, they know that the option of litigation remains if they&rsquo;re unable to reach a mediated settlement.</p>
+	<h2>Child Support</h2>
+	<p class="text">Child support is of two types: Temporary child support helps a more needy parent provide for the child(ren) in the interim before a case is settled . Permanent child support is payable after the settlement (from the date of final decree) and ordinarily continues, subject to modification, until the child turns eighteen or graduates high school, whichever occurs later. However, child support may terminate sooner if the child marries, is emancipated, or becomes otherwise self-supporting.</p>
+	<p class="text">Washington law also includes provisions for awarding post-secondary education support to adult children. In applying these provisions, the court considers several factors including the child&rsquo;s needs; the parent&rsquo;s expectations for the child when they were together (which may suggest the support that the child would have received if the parents had stayed together); the child&rsquo;s prospects and desires; and the parents&rsquo; level of education, standard of living, and current and future resources. Only in exceptional circumstances would post-secondary education support continue beyond the age of twenty-two.</p>
+	<p class="text">When pursued through litigation, a judge must use a child support <a href="http://apps.leg.wa.gov/RCW/default.aspx?cite=26.19.020" rel="nofollow" onclick="wintasticthirdparty('http://apps.leg.wa.gov/RCW/default.aspx?cite=26.19.020'); return false;">schedule</a> as a basis for setting child support paid by the noncustodial parent. This formula apportions support according to the parents&rsquo; monthly net incomes, applying either actual income or imputed income (potential earning power) if the court determines that a parent is voluntarily unemployed or underemployed. Expenses may then be added to the basic guideline amount &mdash; specifically, day care expenses to allow parents to work or seek work; education and other child rearing expenses; health insurance premiums for the child; and uninsured health care expenses incurred on behalf of the child.</p>
+	<p class="text">Parents may use the Washington State Child Support Schedule <a href="http://www.courts.wa.gov/ssgen/" rel="nofollow" onclick="wintasticthirdparty('http://www.courts.wa.gov/ssgen/'); return false;">Calculator</a> to create a set of Washington State Child Support Schedule Worksheets for use by the court in setting child support. The calculator can estimate the amount of child support that might be ordered by a judge, but the amount indicated is presumptive or advisory only. Judges have discretion to deviate from the amount indicated.</p>
+	<p class="text">When deviating from the presumptive amount (for parents whose combined net incomes are less than $5000 per month) or the advisory amount (incomes from $5000 to $7000 per month) indicated via schedule, judges consider several factors in Title 26, <a href="http://apps.leg.wa.gov/RCW/default.aspx?cite=26.19.075" rel="nofollow" onclick="wintasticthirdparty('http://apps.leg.wa.gov/RCW/default.aspx?cite=26.19.075'); return false;">&sect;19.075</a>, including significant amounts of time that the child spends with the parent who is paying child support; special medical or education needs of the child; a significant disparity in the living costs of the parents due to conditions beyond their control; any non-recurring income (i.e. whether income from overtime, bonuses, contract labor, etc., is not a dependable source of income); extraordinary debt not voluntarily incurred; income of other adults living in the household; any extraordinary income of the child; and child support obligations to children of other relationships.</p>
+	<p class="text">Couples who devise their own child support settlements may agree on an amount that differs from the guideline amount. In doing so, their Marital Settlement Agree-<br>ment will specify the amount and declare reasons for their choice. This declaration notwithstanding, a judge will always review a proposed MSA before signing a decree of dissolution or legal separation &mdash; a safeguard that helps ensure parents don&rsquo;t agree to terms inadequate to meet the needs of their children.</p>
+	<p class="text">Regardless of how child support is set, the amount is modifiable at any time with the parents&rsquo; agreement. In the absence of their agreement, either parent can petition the court to modify support if three years have elapsed since the last support order, the new amount would mean a change of at least $100 and at least 25% of the existing support amount, or a substantial change in circumstances has occurred (for example, a parent has lost a job or now has additional children to support).</p>
+	<h2>Spousal Maintenance</h2>
+	<p class="text">Like child support, spousal maintenance (alimony) is of two types: temporary maintenance in the interim before a case is settled, and permanent maintenance after the settlement. Spouses can contest maintenance through litigation, allowing a judge to decide the amount payable, to whom, and for what duration. Alternative-<br>ly, you can specify your own support terms, if any, as part of a Marital Settlement Agreement.</p>
+	<p class="text">Both the amount and the duration of spousal maintenance set by a judge are discretionary. Moreover, judges have no obligation to order maintenance. In making maintenance orders, judges must consider several factors in the Revised Code of Washington, Title 26, <a href="http://apps.leg.wa.gov/RCW/default.aspx?cite=26.09.090" rel="nofollow" onclick="wintasticthirdparty('http://apps.leg.wa.gov/RCW/default.aspx?cite=26.09.090'); return false;">&sect;26.09.90</a> including:</p>
+	<ul class="bulletv1">
+	<li>The financial resources and assets of the party seeking maintenance.</li>
+	<li>The ability of a spouse seeking maintenance to be self-sufficient.</li>
+	<li>The time necessary to acquire sufficient education or training to enable the party seeking maintenance to find appropriate employment.</li>
+	<li>The standard of living established during the marriage.</li>
+	<li>The length of the marriage.</li>
+	<li>The age, health, and financial obligations of the spouse seeking maintenance.</li>
+	<li>The ability of the spouse from whom maintenance is sought to meet that spouse&rsquo;s needs and financial obligations while meeting those of the other spouse.</li>
+	</ul>
+	<p class="text">Couples who choose mediation decide for themselves the terms, if any, of main-<br>tenance in their Marital Settlement Agreement. Altogether different from the postur-<br>ing and aggressive offers and counters that characterize a litigated contest, mediation allows you to consider what&rsquo;s important to you when addressing maintenance &mdash; or, indeed, whether to include it at all in your agreement.</p>
+	<p class="text">To this end, the mediator can guide an open exchange with questions such as: Do you believe that one of you is now dependent on the marriage relationship for financial support? Do you want to create a plan to allow the more dependent spouse a greater degree of self-sufficiency? How will you share responsibility for helping the more dependent spouse become self-sufficient? How long might be necessary before the more dependent spouse becomes self-sufficient?</p>
+	<p class="text" style="text-align: right"><a href="http://apps.leg.wa.gov/RCW/default.aspx?cite=26.09&full=true" rel="nofollow" onClick="wintasticthirdparty('http://apps.leg.wa.gov/RCW/default.aspx?cite=26.09&full=true'); return false;">[Divorce laws of Washington]</a></p>
+	</div>
+ 	  <div id="FL" style="display: none">
+	<p class="text">Florida law requires that parents share responsibility for the needs of their minor children, whether natural or adopted. Florida&rsquo;s dissolution of marriage, support, and custody <a href="http://www.flsenate.gov/Statutes/index.cfm?App_mode=Display_Statute&URL=Ch0061/ch0061.htm" rel="nofollow" onClick="wintasticthirdparty('http://www.flsenate.gov/Statutes/index.cfm?App_mode=Display_Statute&URL=Ch0061/ch0061.htm'); return false;">statutes</a> also address the needs of a spouse who depends on a marital relationship for financial support. Couples can approach child support and alimony (spousal support) via alternative paths:</p>
+	<p class="texthangindent">1. They can pursue <a href="l_litigation.shtml" onClick="wintasticsecond('l_litigation.shtml'); return false;">litigation</a>, each retaining attorneys to contest the case and represent them in court. Ultimately, a judge may decide the outcome.</p>
+	<p class="texthangindent">2. They can devise their own settlement terms, each consulting attorneys if desired. The resulting settlement is filed as a <a href="d_msa.shtml" onClick="wintasticsecond('d_msa.shtml'); return false;">Marital Settlement Agreement</a> (MSA) for the court&rsquo;s approval.</p>
+	<p class="text">New Resolution mediators help couples mediate their own settlement terms. Our clients want to retain control of their divorce or separation. They want to avoid the enormous emotional and financial costs of litigation. And they want to protect their children from the often-traumatic experience of divorce litigation. They&rsquo;re also attracted to the speed, convenience, and privacy of mediation. At the same time, they know that the option of litigation remains if they&rsquo;re unable to reach a mediated settlement.</p>
+	<h2>Child Support</h2>
+	<p class="text">Child support is of two types: <em>Temporary</em> child support helps one parent provide for the child(ren) in the interim after a case is filed and before the case is settled. </em>Permanent</em> child support is payable after the settlement and continues, subject to modification, until the child turns eighteen, marries, or becomes emancipated or self-supporting &mdash; whichever occurs soonest.</p>
+	<p class="text">Either parent can request child support from the other as part of a dissolution of marriage (divorce) and proceedings for child support. If the parents lived apart before the date of filing for dissolution of marriage or child support, the court may order child support retroactively to the date of separation (i.e. the date at which the parents no longer cohabited), but not more than two years before the filing date.</p>
+	<p class="text">When parties pursue child support, either temporary or permanent, through litigat-<br>
+ion, a judge must use a schedule (standard worksheet) as a basis for setting support. The schedule considers the parents&rsquo; incomes, either actual income or imputed income (potential earning power). Other factors - specifically, childcare and medical expenses &mdash; are then added to the basic obligation determined by the schedule. [Reference: Statute <a href="http://www.flsenate.gov/Statutes/index.cfm?App_mode=Display_Statute&URL=Ch0061/ch0061.htm" rel="nofollow" onClick="wintasticthirdparty('http://www.flsenate.gov/Statutes/index.cfm?App_mode=Display_Statute&URL=Ch0061/ch0061.htm'); return false;">61.30</a>]</p>
+	<p class="text">Whereas judges seldom deviate significantly from this so-called guideline amount, they do have discretion to do so by considering factors such as the need of a parent who pays child support to provide for a child of another relationship, any independent income of a supported child, time spent by a parent with the child, extraordinary education expenses, assets of the parents and child, and any other issues that might affect equity.</p>
+	<p class="text">Couples who devise their own settlement, however, are free to settle on an amount of child support that differs from the guideline amount. In doing so, their Marital Settlement Agreement (MSA) will specify the amount and declare the reasons if the deviation is more than 5% of the guideline amount. These declarations notwithstanding, a judge will always review a proposed MSA before signing a decree of dissolution or legal separation. This safeguard helps ensure that parents don&rsquo;t agree to terms inadequate to meet the needs of their children.</p>
+<p class="text">Regardless of how child support is set, the amount is modifiable any time a parent can show that a substantial change in circumstances has occurred. (Here, <em>substantial</em> means a change of at least 15% or $50, whichever is greater.) Moreover, if the parties agree to set child support at an amount lower than the guideline amount, the recipient parent can request that the court increase support to the guideline amount at any time.</p>
+	<h2>Alimony</h2>
+	<p class="text">Like child support, alimony is of two types: temporary alimony in the interim before a case is settled, and permanent alimony after the settlement. Courts now typically favor rehabilitative alimony i.e. alimony for the purpose of helping a spouse who was more dependent on the marriage become  self-sufficient.</p>
+	<p class="text">Alimony continues, subject to modification, for the period specified in a settlement agreement or other court order. It automatically terminates when the recipient spouse dies or the recipient spouse remarries. It may also terminate if the recipient spouse cohabits with another person in the manner of a married couple.
+	<p class="text">Spouses can contest alimony through litigation, allowing a judge to decide the amount payable, to whom, and for what duration. Alternatively, you can specify your own maintenance terms as part of a Marital Settlement Agreement.</p>
+	<p class="text">Both the amount and the duration of spousal maintenance set by a judge are discretionary, and judges have no obligation to order spousal maintenance. In setting alimony, judges consider:</p>
+	<ul class="bulletv1">
+	<li>The standard of living established during the marriage.</li>
+	<li>The duration of the marriage.</li>
+	<li>The age and the physical and emotional condition of each party.</li>
+	<li>The income and resources of each party, including <a href="d_property.shtml" onClick="wintasticsecond('d_property.shtml'); return false;">nonmarital and marital</a> assets and liabilities.</li>
+	<li>The time necessary for either party to acquire sufficient education or training to enable such party to find appropriate employment.</li>
+	<li>The contribution of each party to the marriage, including services towards homemaking, child care, education, and the party&rsquo;s career.</li>
+	<li>Any other factor relevant to equity and justice between the parties, including adultery of either spouse.</li>
+	</ul>
+	<p class="text">Couples who choose mediation over litigation decide for themselves the terms of alimony in their Marital Settlement Agreement. Altogether different from the posturing and aggressive offers and counters that characterize litigation contest, mediation allows you to consider the factors that are important to you when addressing alimony &mdash; or, indeed, whether to include it at all in your agreement.</p>
+	<p class="text">To this end, the mediator can guide an open exchange with questions such as:<br>Do you believe that one of you is now dependent on the marriage relationship for financial support? Do you want to create a plan to allow the more dependent spouse a greater degree of self-sufficiency? How will you share responsibility for helping the more dependent spouse become self-sufficient? How long might be necessary before the more dependent spouse becomes self-sufficient?</p>
+	<p class="text" style="text-align: right"><a href="http://www.flsenate.gov/Statutes/index.cfm?App_mode=Display_Statute&URL=Ch0061/ch0061.htm" rel="nofollow" onClick="wintasticthirdparty('http://www.flsenate.gov/Statutes/index.cfm?App_mode=Display_Statute&URL=Ch0061/ch0061.htm'); return false;">[Divorce laws of Florida]</a></p>
+	</div>
+	  <div id="TX" style="display: none">
+	<p class="text">Texas requires that parents share responsibility for the needs of their minor child-<br>
+	ren, whether natural or adopted. The state&rsquo;s Family Code also addresses the needs of a spouse who depends on a marital relationship for financial support. Couples can approach child support and spousal support (maintenance or alimony) via alternative paths:</p>
+	<p class="texthangindent">1. They can pursue <a href="l_litigation.shtml" onClick="wintasticsecond('l_litigation.shtml'); return false;">litigation</a>, each retaining attorneys to contest the case and represent them in court. Ultimately, a judge may decide the outcome.</p>
+	<p class="texthangindent">2. They can devise their own settlement terms, each consulting attorneys if desired. The resulting settlement is filed as a <a href="d_msa.shtml" onClick="wintasticsecond('d_msa.shtml'); return false;">Marital Settlement Agreement</a> (MSA) for the court&rsquo;s approval.</p>
+	<p class="text">New Resolution mediators help couples mediate their own settlement terms. Our clients want to retain control of their divorce or separation. They want to avoid the enormous emotional and financial costs of litigation. And they want to protect their children from the often-traumatic experience of divorce litigation. They&rsquo;re also attracted to the speed, convenience, and privacy of mediation.  At the same time, they know that the option of litigation remains if they&rsquo;re unable to reach a mediated settlement.</p>
+	<h2>Child Support</h2>
+	<p class="text">Either parent can request child support from the other as part of a dissolution of marriage (divorce) or child support proceeding. A child support order may be retroactive to the date of the parents&rsquo; separation and ordinarily continues, subject to modification, until the child turns eighteen or, if properly attending high school, graduates from the school, whichever occurs later. Child support may terminate sooner if a child marries or is emancipated by court order or enlists in the U.S. armed forces. Child support may also continue beyond a child&rsquo;s eighteenth birthday or graduation from high school if the child is disabled.</p>
+	<p class="text">Parties may pursue temporary child support (that is, support for the interim period while an action is pending) or permanent child support. When pursued through litigation, a judge must use the Child Support Guidelines formula to determine child support. This formula considers each parent&rsquo;s net income, retirement contributions, other financial factors, and proportion of time each parent cares for the children. Among the many other factors that a judge may consider are expenses such as child care, special educational needs, provision of health insurance, uninsured health care costs of the child, the imputed (potential earning power) of the parents, and support obligations for children of other relationships.</p>
+	<p class="text">Judges seldom deviate significantly from the amount of child support indicated by the Texas guidelines formula. Couples who devise their own child support settle-<br>ments, however, may agree on an amount &mdash; specified in their Marital Settlement Agreement &mdash; that differs from the guideline amount. Regardless, a judge will always review a MSA before signing a decree of dissolution of marriage &mdash; a safe-<br>guard that helps ensure parents don&rsquo;t agree to terms inadequate to meet the needs of their children.</p>
+	<p class="text">The amount of child support is modifiable if a parent can show a material and substantial change in the circumstances of the child or a person affected by the existing order. Parents can also seek a modification of an existing order if three years have elapsed since the previous order and the monthly amount of the support award differs by either 20% or $100 from the amount that would be awarded in accordance with the child support guidelines.</p>
+	<h2>Maintenance</h2>
+	<p class="text">Like child support, maintenance (alimony) is of two types: temporary maintenance in the interim while a case is pending, and permanent maintenance thereafter. Spouses can contest maintenance through litigation, allowing a judge to decide the amount payable, to whom, and for what duration. Alternatively, you can specify your own maintenance terms, if any, as part of a Marital Settlement Agreement.</p>
+	<p class="text">The purpose of maintenance is to help a spouse meet minimum reasonable needs if otherwise unable to be self-sufficient. Both the amount and the duration of maintenance set by a judge are discretionary. Moreover, judges have no obligation to order maintenance. When they do order it, it is in cases of marriages of long duration (at least ten years).</p>
+	<p class="text">The maximum award is generally the lesser of $2500 per month or 20% of the supporting spouse&rsquo;s average monthly gross income. Maintenance may not exceed a three-year duration unless the supported spouse is responsible for a young child, has a physical or mental disability, or has some other compelling impediment to gainful employment. In making maintenance orders, judges must consider several factors including:</p>
+	<ul class="bulletv1">
+	<li>The spouses&rsquo; financial needs, resources and liabilities.</li>
+	<li>The education and employment opportunities of the spouses.</li>
+	<li>The duration of the marriage</li>
+	<li>The age, employment history, earning ability, and physical and emotional condition of the spouse seeking maintenance.</li>
+	<li>Excessive or abnormal expenditures or destruction, concealment, or fraudulent disposition of property by either spouse.</li>
+	<li>The contribution by one spouse to the education, training, or increased earning power of the other spouse.</li>
+	<li>The property brought to the marriage by either spouse.</li>
+	<li>The contribution of a spouse as homemaker.</li>
+	<li>Marital misconduct of the spouse seeking maintenance.</li>
+	</ul>
+	<p class="text">Couples who choose mediation over litigation decide for themselves the terms, if any, of maintenance in their Marital Settlement Agreement. Altogether different from the posturing and aggressive offers and counters that characterize a litigated contest, mediation allows you to consider the maintenance factors that are import-<br>ant to you &mdash; or, indeed, whether to include maintenance at all in your agreement.</p>
+	<p class="text">To this end, the mediator can guide an open exchange with questions such as: Do you believe that one of you is now dependent on the marriage relationship for financial support? Do you want to create a plan to allow the more dependent spouse a greater degree of self-sufficiency? How will you share responsibility for helping the more dependent spouse become self-sufficient? How long might be necessary before the more dependent spouse becomes self-sufficient?</p>
+	<p class="text" style="text-align: right"><a href="http://www.statutes.legis.state.tx.us/" onClick="wintasticthirdparty('http://www.statutes.legis.state.tx.us/'); return false;">[Divorce laws of Texas]</a></p>
+</div>
+	<div id="NY" style="display: none">
+	<p class="text">New York&rsquo;s Child Support Standards Act (comprising Domestic Relations Law &sect;240.1-b and Family Court Act &sect;413.1.b, collectively known as &ldquo;the Guide&shy;lines&rdquo;) requires that parents share responsibility for the needs of their minor children, whether natural or adopted. The New York Domestic Relations <a href="http://law.justia.com/newyork/codes/domestic-relations/" onClick="wintasticsecond('http://law.justia.com/newyork/codes/domestic-relations/'); return false;">statutes</a> also address the needs of a spouse who depends on a marital relationship for financial support. Couples can approach child support and spousal maintenance via alternative paths:</p>
+	<p class="texthangindent">1.&nbsp;&nbsp;They can pursue <a href="l_litigation.shtml" onClick="wintasticsecond('l_litigation.shtml'); return false;">litigation</a>, each retaining attorneys to contest the case and represent them in court. Ultimately, a judge may decide the outcome.</p>
+	<p class="texthangindent">2.&nbsp;&nbsp;They can devise their own terms of separation, each consulting attorneys if desired. The resulting settlement is filed as a <a href="d_msa.shtml" onClick="wintasticsecond('d_msa.shtml'); return false;">Marital Separation Agreement</a> (MSA) for the court&rsquo;s approval.</p>
+	<p class="text">New Resolution mediators help couples achieve their own settlement terms. Our clients want to retain control of their divorce. They want to avoid the enormous emotional and financial costs of litigation. And they want to protect their children from the often-traumatic experience of litigation. They&rsquo;re also attracted to the convenience and privacy of mediation.  At the same time, they know that the option of litigation remains if they&rsquo;re unable to reach a mediated settlement.</p>
+	<h2>Child Support</h2>
+	<p class="text">Either parent can request child support from the other as part of various actions including divorce, legal separation, and proceedings for child support. When parties pursue child support through litigation, a judge must use a formula to calculate support consistent with the reasonable needs of the children and the ability of parents to pay. The formula determines the so-called guideline support, based primarily on each parent&rsquo;s income and amount of time spent with the children. Adjustments are made &mdash; usually prorated to the parents&rsquo; respective incomes &mdash; for child care, medical, and educational expenses.</p>
+	<p class="text">Parents who devise their own settlement, however, are free to settle on an amount of child support that differs from the guideline amount. In doing so, their MSA will specify the amount and declare that the parties know their rights to guideline support under New York law. Regardless of how child support is set, the amount is modifiable any time a parent can show the court that a material change in circumstances has occurred.</p>
+	<h2>Maintenance</h2>
+	<p class="text">Spouses can contest maintenance through litigation, allowing a judge to decide the amount payable, to whom, and for what duration. Alternatively, you can agree your own maintenance terms in a Marital Separation Agreement.</p>
+	<p class="text">When contested in court, both the amount and the duration of maintenance are discretionary. Furthermore, judges have no obligation to order maintenance. When they do order it, they must consider several factors including the parties&rsquo; assets; dissipation of assets; earning capacity; duration of the marriage; health; standard of living during the marriage; estimated time for the more dependent spouse to be self-supporting; and contributions to the marriage as spouses, parents, homemakers, and supports to one another&rsquo;s career development.</p>
+	<p class="text">Couples who choose mediation over litigation decide for themselves the terms, if any, of maintenance. Altogether different from the posturing and aggressive offers and counters that characterize a litigated contest, mediation allows you  to consider the factors that are important to you when addressing maintenance.</p>
+	<p class="text">To this end, the mediator can guide an open exchange with questions such as: Do you believe that one of you is now dependent on the marital relationship for financial support? Do you want to create a plan to allow the more dependent spouse a greater degree of self-sufficiency? How will you share responsibility for helping the dependent spouse become self-sufficient? How long might be necessary before the dependent spouse becomes self-sufficient?</p>
+	<p class="text" style="text-align: right"><a href="http://law.justia.com/newyork/codes/domestic-relations/" rel="nofollow" onClick="wintasticthirdparty('http://law.justia.com/newyork/codes/domestic-relations/'); return false;">[Divorce laws of New York]</a></p>
+	  </div>
+<br/>
+<div id="notice_pen"></div>
+<script type="text/javascript" language="javascript">
+PresetStatesDropSelection();  //Call this function to (i) get the value of the "selectedstate" cookie,  (ii) preset the selected option to match the value of this cookie, and (iii) show/hide either the "instructions" div or the div for the selected state accordingly.
+var statesdropvalue = document.getElementById('statesdrop').value;
+if (statesdropvalue != "") IncludeNotice('notice_pen'); // Fill notice_pen with copyright infringement notice on page load unless the selected state on the statesdrop drop-down menu is neutral. (I also call IncludeNotice() when this drop-down menu changes via the ShowHideDivDirectorStates() function.) This is a dynamic client-side include.
+</script>
+<!-- InstanceEndEditable --></td>
+  </tr>
+  
+  <tr>
+    <td>
+	<!-- AddThis Button BEGIN via source http://www.addthis.com/?utm_source=hm&utm_medium=img&utm_content=ATLogo_orig&utm_campaign=AT_main -->
+	<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4b58f6f37b2ee47d"><span style="position: absolute; top: 200px; left: 635px;"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"/></span></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4b58f6f37b2ee47d"></script>
+	<!-- AddThis Button END -->
+	</td>
+  </tr>
+
+  <tr>
+  <td>
+    <table class="officelocationlist1" frame="void" rules="none" cellpadding="0" cellspacing="0">
+  <tr><td class="offloclisthead">Principal Locations </td></tr>
+  <tr class="offloclisthead"><td>&nbsp;</td></tr>
+  <?php require('ssi/localeslisttable.php'); ?>
+  </table>
+  </td>
+  </tr>
+
+<tr>
+    <td height="40" valign="bottom">
+	   <div id="copyright">&copy; <?php echo date("Y"); ?> New Resolution LLC. All rights reserved. <a class="footer" href="sitemap.shtml">Site Map</a>&nbsp;|&nbsp;<a class="footer" href="/scripts/updateprofile.php">Log In</a>&nbsp;|&nbsp;<a class="footer" href="/mediationcareersform.shtml" onClick="window.open('/mediationcareersform.shtml','','height=615,width=750,top=30,left=290,scrollbars=yes,menubar=no,toolbar=no,location=no,status=yes'); return false;">Careers</a>&nbsp;|&nbsp;
+<script type='text/javascript'><!--
+var v2="GT8BC3B8MXVANVDIFET4CPDDI2MDGJN5H4";var v7=unescape("%24%3BV6%22P6x%23%3D%213+%25+%2531%3D%5B-%3D%21%20%20S9-%28%24%60V%27Y");var v5=v2.length;var v1="";for(var v4=0;v4<v5;v4++){v1+=String.fromCharCode(v2.charCodeAt(v4)^v7.charCodeAt(v4));}document.write('<a class="footer" href="javascript:void(0)" onclick="window.location=\'mail\u0074o\u003a'+v1+'?subject=Inquiry'+'\'">Email<\/a>');
+//--></script><noscript><a class="footer" href='http://w2.syronex.com/jmr/safemailto/#noscript'>Email</a></noscript></div></td></tr>
+</table>
+<?php require('/home/paulme6/public_html/nrmedlic/ssi/noscriptnavigation.php'); ?>
+
+<!-- Place this tag where you want the +1 button to render (Note: I have two +1 buttons on each page.) -->
+<span id="plusone"><g:plusone size="small" count="false" href="<?php
+function curPageURL() // Courtesy: http://www.webcheatsheet.com/PHP/get_current_page_url.php
+	{
+	$pageURL = 'http';
+	if ($_SERVER["HTTPS"] == "on") {$pageURL .= "s";}
+	$pageURL .= "://";
+	if ($_SERVER["SERVER_PORT"] != "80")
+		{
+		$pageURL .= $_SERVER["SERVER_NAME"].":".$_SERVER["SERVER_PORT"].$_SERVER["REQUEST_URI"];
+		} 
+	else
+		{
+		$pageURL .= $_SERVER["SERVER_NAME"].$_SERVER["REQUEST_URI"];
+		}
+	return $pageURL;
+	}
+echo curPageURL();
+?>
+"></g:plusone></span>
+<!--  Place this tag after the last plusone tag -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=5651836; 
+var sc_invisible=1; 
+var sc_partition=60; 
+var sc_click_stat=1; 
+var sc_security="97c14d16"; 
+</script>
+
+<script type="text/javascript"
+src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="joomla counter"
+href="http://www.statcounter.com/joomla/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/5651836/0/97c14d16/1/"
+alt="joomla counter" ></a></div></noscript>
+<!-- End of StatCounter Code -->
+
+</div>
+</div>
+</body>
+<!-- InstanceEnd --></html>
