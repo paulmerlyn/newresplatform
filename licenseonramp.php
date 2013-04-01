@@ -11,7 +11,7 @@ require('ssi/offerpricecalculator.php'); // Include the offerpricecalculator.php
 $req = 'cmd=_notify-synch';
 
 $tx_token = $_GET['tx'];
-$auth_token = "bbhJJptuL0LF1MK_moX0H2z7AYk6I8WFmkzLQzntPXUFLthPr0FfF40bWAu"; // REPLACE with the token (obtained from Profile/Web Payments Preferences) for Sandbox implementation.
+$auth_token = ""; // REPLACE with the token (obtained from Profile/Web Payments Preferences) for Sandbox implementation.
 $req = "tx=$tx_token&at=$auth_token&cmd=_notify-synch";
 
 // post back to PayPal system to validate
