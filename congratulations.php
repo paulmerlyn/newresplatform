@@ -71,9 +71,9 @@ else // Content for an existing (renewing or newnewing) mediator
 <!-- AddThis Button END -->&nbsp;<span style="font-size: 10px; font-weight: bold">[bookmark]</span></div>
 <?php
 	/* Retrieve this existing mediator's Username and Password from the DB */
-	$db = mysql_connect('localhost', 'paulme6_merlyn', 'fePhaCj64mkik')
+	$db = mysql_connect('localhost', '', '')
 		or die('Could not connect: ' . mysql_error());
-	mysql_select_db('paulme6_newresolution') or die('Could not select database');
+	mysql_select_db('') or die('Could not select database');
 
 	$query = "SELECT mediators_table.Username, userpass_table.Password FROM mediators_table, userpass_table WHERE mediators_table.ID=".$_SESSION['custom']." AND mediators_table.Username = userpass_table.Username";
 	$result = mysql_query($query) or die('The SELECT Username/Password for an existing mediator failed i.e. '.$query.' failed: ' . mysql_error());
